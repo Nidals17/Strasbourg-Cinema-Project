@@ -1,4 +1,4 @@
-# Vox-Cinema-project
+Vox-Cinema-project
 
 from selenium import webdriver
 import re
@@ -6,9 +6,6 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
-import tkinter
-
-# Obtenir les liens
 
 url='https://www.cine-vox.com/films-a-l-affiche/'
 url
@@ -22,8 +19,6 @@ len(films)
 films2 ='https://www.cine-vox.*?"'
 films_link = re.findall(films2, str(films))
 films_link
-
-# Obtenir les infos de chaque page et créer un dictionnaire
 
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 
@@ -70,7 +65,6 @@ for i in range(len(films_link)):
         
     time.sleep(2)
     
-# Créer la partie interactive et compilatoire
 
 def jouer():
     
