@@ -1,35 +1,31 @@
-# vox-project
-programming project APE
+# Cinevox-project
 
+## Presentation
 
-Plan
----
-  - *Présentation*
-  - *Prise en main*
-  - *Conditions d'utilisation*
-  - *Développement*
-  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The CineVox project aims to provide any cinema enthusiast with a quick tool to access the schedule of Cinema Vox in Strasbourg.
 
-PRESENTATION
----
-*Le projet CineVox vise à fournir, à tout utilisateur intéressé par le cinéma, un outil rapide lui permettant d'avoir accès rapidement à la programmation des salles de projection de CineVox à Strasbourg.*
+Users can navigate this application and explore the programming based on three main categories: genre, title, and projection date. This choice is made to facilitate the user's search based on their needs. If they are interested in movies categorized as "Action" or "Adventure" and so on, they can select the genre. If they are more interested in a specific film, they can search by title. Similarly, if they are concerned with the programming on a specific day, they can select "date" as a means of search.
 
-*L'utilisateur peut naviguer dans cette application et explorer la programmation suivant trois grandes catégories : le genre, le titre et la date de projection.*
-*Ce choix s'explique par le souci de faciliter la recherche de l'utilisateur suivant ses besoins. En effet, si celui-ci est intéressé par les films dits : "action", "aventure", ..., il n'aura qu'à sélectionner le genre, s'il est plutôt intéressé par un film en particulier, il pourra faire ses recherches par titre. De même, s'il est préoccupé par la programmation d'un jour en particulier, il sélectionnera "date" comme moyen de recherche.*
+The usage of the application has been simplified by integrating a dialogue with the user, who only needs to enter numbers to make their choices.
 
-*L'usasge de l'application a été simplifié en intégrant une dialogue avec son utilisateur qui n'aura qu'à entrer que des chiffres pour effectuer ses choix.*
+Regardless of the search mode used, the final result will be displayed in a table with the title, genre, date, and time of the projection of the movie(s) in question.
 
-*Peu importe le mode de recherche utilisé, le résultat final sera affiché dans un tableau avec le titre, le genre, la date et l'heure de projection du ou des films en question.*
+## Getting Started
 
-------------------------------
-PRISE EN MAIN
---
-*Pour naviguer dans cette application, veuillez selectionner le chiffre correspondant à vos choix et suivre les indications.*
+To navigate this application, please select the number corresponding to your choices and follow the indications.
 
-------------------------------
-CONDITIONS D'UTILISATION
---
-* Aucune condition particulière.*
+## Conditions to use 
 
-------------------------------
+There are no particular conditions.
+
+## Installation
+
+To follow this project, please install the following locally:
+
+* JupyterNotebook
+* Python 3.8+
+* Python packages
+    * Pandas
+    * BeautifulSoup 
+    * Selenium
+    * requests
