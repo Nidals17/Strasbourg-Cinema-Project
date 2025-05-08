@@ -123,12 +123,10 @@ def main():
     driver.quit()
 
     # Save to CSV to Data Movies
-    csv_path = os.path.join(data_folder, "data_movies/VOX.csv")
-    films_data.to_csv(csv_path, index=False)
+    films_data.to_csvto_csv("data_movies/UGC.csv", index=False)
 
     duration = round((time.time() - start_time) / 60, 2)
     print(f"Finished scraping. Duration: {duration} minutes.")
-    print(f"Data saved to '{csv_path}'.")
 
 
 if __name__ == "__main__":
