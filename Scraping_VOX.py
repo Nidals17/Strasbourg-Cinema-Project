@@ -122,8 +122,8 @@ def main():
 
     driver.quit()
 
-    # Save to CSV
-    csv_path = os.path.join(data_folder, "VOX.csv")
+    # Save to CSV to Data Movies
+    csv_path = os.path.join(data_folder, "data_movies/VOX.csv")
     films_data.to_csv(csv_path, index=False)
 
     duration = round((time.time() - start_time) / 60, 2)
