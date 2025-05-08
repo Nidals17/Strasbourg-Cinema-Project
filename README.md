@@ -45,3 +45,8 @@ Vox-Cinema-project/
 └── README.md               # This file
 ```
 
+## 👤 Author
+
+Developed by Nidal Souk 
+
+
