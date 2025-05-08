@@ -49,4 +49,9 @@ Vox-Cinema-project/
 
 Developed by Nidal Souk 
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Strasbourg-Cinema-Project/data_movies/Dashboard.png)
+
+
 
