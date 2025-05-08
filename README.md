@@ -1,31 +1,41 @@
-# Cinevox-project
+# 🎬 Strasbourg Cinema Dashboard
 
-## Presentation
+An interactive Streamlit web app that aggregates and visualizes movie schedules from multiple Strasbourg cinemas. It helps users explore current movies by genre, cinema, or date — all in one dashboard.
 
-The CineVox project aims to provide any cinema enthusiast with a quick tool to access the schedule of Cinema Vox in Strasbourg.
+## ✨ Features
 
-Users can navigate this application and explore the programming based on three main categories: genre, title, and projection date. This choice is made to facilitate the user's search based on their needs. If they are interested in movies categorized as "Action" or "Adventure" and so on, they can select the genre. If they are more interested in a specific film, they can search by title. Similarly, if they are concerned with the programming on a specific day, they can select "date" as a means of search.
+- Scrapes movie data from multiple cinema websites
+- Cleans and standardizes genre information
+- Displays results in an interactive dashboard
+- Allows filtering by cinema, film, genre, day, and date
+- Download the filtered results as a CSV
+- Customized styling with background and color themes
 
-The usage of the application has been simplified by integrating a dialogue with the user, who only needs to enter numbers to make their choices.
+## ✨ Features
 
-Regardless of the search mode used, the final result will be displayed in a table with the title, genre, date, and time of the projection of the movie(s) in question.
+- Scrapes movie data from multiple cinema websites
+- Cleans and standardizes genre information
+- Displays results in an interactive dashboard
+- Allows filtering by cinema, film, genre, day, and date
+- Download the filtered results as a CSV
+- Customized styling with background and color themes
 
-## Getting Started
 
-To navigate this application, please select the number corresponding to your choices and follow the indications.
+#### 4. **Running the App**
+```markdown
+## 🚀 Run the Dashboard
 
-## Conditions to use 
+```bash
+streamlit run dashboard.py
+#### 5. **Project Structure**
+```markdown
+## 📁 Project Structure
 
-There are no particular conditions.
+- `dashboard.py`: Streamlit app
+- `data_movies/`: Folder with scraped CSV data from cinemas
+- `scraping/`: Scrapers for each cinema (e.g., Vox, Star)
+- `requirements.txt`: Dependencies
 
-## Installation
+## 👤 Author
 
-To follow this project, please install the following locally:
-
-* JupyterNotebook
-* Python 3.8+
-* Python packages
-    * Pandas
-    * BeautifulSoup 
-    * Selenium
-    * requests
+Developed by Nidal Souk (https://github.com/Nidals17)
