@@ -17,7 +17,7 @@ def load_and_concatenate_data(folder_path):
             df['cinema'] = os.path.splitext(file)[0]  # Add cinema name from filename
             all_data.append(df)
         except Exception as e:
-            st.warning(f"❌ Could not read {file}: {e}")
+            st.warning(f"Could not read {file}: {e}")
 
     if not all_data:
         return pd.DataFrame()  # Return empty DataFrame if nothing is loaded
