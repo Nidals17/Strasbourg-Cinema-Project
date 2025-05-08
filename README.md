@@ -35,5 +35,13 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
-<pre> Strasbourg-Cinema-project/ ├── app.py # Main Streamlit app ├── data_movies/ # Folder containing CSV files with scraped data ├── scraping/ # Scrapers for each cinema (e.g., Vox, Star) ├── requirements.txt # Python dependencies └── README.md # This file </pre>
+```bash
+Vox-Cinema-project/
+│
+├── app.py                  # Main Streamlit app
+├── data_movies/            # Folder containing CSV files with scraped data and backg
+├── scraping/               # Scrapers for each cinema (e.g., Vox, Star)
+├── requirements.txt        # Python dependencies
+└── README.md               # This file
+```
 
