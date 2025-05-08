@@ -2,6 +2,8 @@
 
 An interactive Streamlit web app that aggregates and visualizes movie schedules from multiple Strasbourg cinemas. It helps users explore current movies by genre, cinema, or date — all in one dashboard.
 
+---
+
 ## ✨ Features
 
 - Scrapes movie data from multiple cinema websites
@@ -11,36 +13,13 @@ An interactive Streamlit web app that aggregates and visualizes movie schedules 
 - Download the filtered results as a CSV
 - Customized styling with background and color themes
 
+---
+
 ## 🛠️ Installation
 
-Clone the repository and install dependencies:
+Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Nidals17/Strasbourg-Cinema-project.git
+cd Strasbourg-Cinema-project
 pip install -r requirements.txt
-
-
-
-#### **Running the App**
-```markdown
-## 🚀 Run the Dashboard
-
-```bash
-streamlit run dashboard.py
-
-
-#### **Project Structure**
-```markdown
-## 📁 Project Structure
-
-- `dashboard.py`: Streamlit app
-- `data_movies/`: Folder with scraped CSV data from cinemas
-- `scraping/`: Scrapers for each cinema (e.g., Vox, Star)
-- `requirements.txt`: Dependencies
-
-
-## 👤 Author
-
-
-Developed by Nidal Souk (https://github.com/Nidals17)
