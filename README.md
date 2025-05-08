@@ -11,22 +11,15 @@ An interactive Streamlit web app that aggregates and visualizes movie schedules 
 - Download the filtered results as a CSV
 - Customized styling with background and color themes
 
-## ✨ Features
-
-- Scrapes movie data from multiple cinema websites
-- Cleans and standardizes genre information
-- Displays results in an interactive dashboard
-- Allows filtering by cinema, film, genre, day, and date
-- Download the filtered results as a CSV
-- Customized styling with background and color themes
 
 
-#### 4. **Running the App**
+#### **Running the App**
 ```markdown
 ## 🚀 Run the Dashboard
 
 ```bash
 streamlit run dashboard.py
+
 #### 5. **Project Structure**
 ```markdown
 ## 📁 Project Structure
