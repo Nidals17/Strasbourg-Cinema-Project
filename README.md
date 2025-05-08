@@ -11,6 +11,15 @@ An interactive Streamlit web app that aggregates and visualizes movie schedules 
 - Download the filtered results as a CSV
 - Customized styling with background and color themes
 
+## 🛠️ Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+pip install -r requirements.txt
+
 
 
 #### **Running the App**
@@ -20,7 +29,8 @@ An interactive Streamlit web app that aggregates and visualizes movie schedules 
 ```bash
 streamlit run dashboard.py
 
-#### 5. **Project Structure**
+
+#### **Project Structure**
 ```markdown
 ## 📁 Project Structure
 
@@ -29,6 +39,8 @@ streamlit run dashboard.py
 - `scraping/`: Scrapers for each cinema (e.g., Vox, Star)
 - `requirements.txt`: Dependencies
 
+
 ## 👤 Author
+
 
 Developed by Nidal Souk (https://github.com/Nidals17)
