@@ -133,7 +133,8 @@ def main():
 
     driver.quit()
     films_data_UGC.to_csv("data_movies/UGC.csv", index=False)
-    print(films_data_UGC)
+
+    print("films_data :",  films_data_UGC)
 
 
 
