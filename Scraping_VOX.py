@@ -3,6 +3,7 @@ import time
 import os
 import requests
 import pandas as pd
+import logging
 from bs4 import BeautifulSoup
 from datetime import datetime
 from selenium import webdriver
@@ -10,6 +11,14 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.StreamHandler()
+    ]
+)
 
 def get_full_date(day_number):
     """Convert day number to format (DD/MM/YYYY)."""
@@ -26,10 +35,13 @@ def get_full_date(day_number):
 
 def get_film_links(url):
     """Extract links of all films showing."""
+    logging.info(f"Requesting film page: {url}")
     req = requests.get(url)
     soup = BeautifulSoup(req.text, 'html.parser')
     film_elements = soup.find_all('a', class_='vignette')
-    return [film['href'] for film in film_elements if 'href' in film.attrs]
+    links = [film['href'] for film in film_elements if 'href' in film.attrs]
+    logging.info(f"Extracted {len(links)} film links.")
+    return links
 
 
 def scrape_film_details(driver, films_link):
@@ -42,6 +54,7 @@ def scrape_film_details(driver, films_link):
     }
 
     for i, link in enumerate(films_link):
+        logging.info(f"[{i+1}/{len(films_link)}] Visiting film link: {link}")
         driver.get(link)
 
         # Close popups only once
@@ -49,21 +62,22 @@ def scrape_film_details(driver, films_link):
             try:
                 driver.find_element(By.CLASS_NAME, "didomi-continue-without-agreeing").click()
                 driver.find_element(By.ID, "close").click()
-                print("Pop-up fermé avec succès.")
-            except:
-                pass
+                logging.info("Pop-up fermé avec succès.")
+            except Exception as e:
+                logging.warning("Pop-up not found or already closed.")
 
         try:
             titre = driver.find_element(By.CLASS_NAME, "ff_titre").text
         except:
             titre = "Not yet revealed"
+            logging.warning("Titre not found.")
 
         try:
             raw_genre = driver.find_element(By.CLASS_NAME, "ff_genre").text.lower()
             genre = raw_genre.split(':', 1)[1].strip().upper() if ':' in raw_genre else raw_genre
         except:
             genre = "Unknown"
-
+            logging.warning("Genre not found.")
 
         jour, date = [], []
         for elem in driver.find_elements(By.CLASS_NAME, "hr_jour"):
@@ -84,6 +98,7 @@ def scrape_film_details(driver, films_link):
                 horaires = [hor.text for hor in driver.find_elements(By.CLASS_NAME, "hor") if hor.text]
             except:
                 horaires = []
+                logging.warning(f"No horaires found for date {date[j]}.")
 
             lst.append({
                 "titre": titre,
@@ -96,38 +111,43 @@ def scrape_film_details(driver, films_link):
         if lst:
             df = pd.DataFrame(lst).explode("horaire")
             all_films_VOX = pd.concat([all_films_VOX, df], ignore_index=True)
+            logging.info(f"Scraped {len(df)} showtimes for '{titre}'.")
 
         time.sleep(2)
 
     return all_films_VOX
 
 
-def main():
+def Scrap_VOX():
     start_time = time.time()
+    logging.info("Scraping started.")
 
-    # Set up data folder
     data_folder = "data_movies"
     os.makedirs(data_folder, exist_ok=True)
+    logging.info(f"Data folder ready: {data_folder}")
 
-    # Init driver
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     url = 'https://www.cine-vox.com/films-a-l-affiche/'
-    print("Getting film links...")
+    logging.info("Fetching film links...")
     films_link = get_film_links(url)
-    print(f"Found {len(films_link)} film links.")
 
-    print("Scraping film details...")
+    logging.info("Starting film detail scraping...")
     films_data = scrape_film_details(driver, films_link)
 
     driver.quit()
+    logging.info("Browser session ended.")
 
-    # Save to CSV to Data Movies
-    films_data.to_csvto_csv("data_movies/UGC.csv", index=False)
+    # Save results
+    save_path = os.path.join(data_folder, "UGC.csv")
+    films_data.to_csv(save_path, index=False)
+    logging.info(f"Saved scraped data to {save_path}")
 
     duration = round((time.time() - start_time) / 60, 2)
-    print(f"Finished scraping. Duration: {duration} minutes.")
+    logging.info(f"Scraping completed in {duration} minutes.")
+
+    
 
 
-if __name__ == "__main__":
-    main()
+
+
