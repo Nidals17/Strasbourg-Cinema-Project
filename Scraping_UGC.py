@@ -11,13 +11,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Setup logging
-logging.basicConfig(
-    filename='Scraper.log',
-    filemode='w',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+logger = logging.getLogger(__name__)
+logger.info("Scraping started for UGC")  # example log
 
 def get_film_links(driver, url):
     links = []
