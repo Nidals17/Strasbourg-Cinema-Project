@@ -12,12 +12,8 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Configure logging
-logging.basicConfig(
-    filename='Scraper.log',
-    filemode='w',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+logger = logging.getLogger(__name__)
+logger.info("Scraping started for UGC")  # example log
 
 def get_full_date(day_number):
     """Convert day number to format (DD/MM/YYYY)."""
