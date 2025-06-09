@@ -6,12 +6,21 @@ import os
 
 print("Starting scrapping")
 
-logging.basicConfig(
-    filename='Scraper.log',
-    filemode='w',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+
+# Create handlers
+file_handler = logging.FileHandler('Scraper.log', mode='w')
+console_handler = logging.StreamHandler()
+
+# Create formatter and add it to the handlers
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+file_handler.setFormatter(formatter)
+console_handler.setFormatter(formatter)
+
+# Add handlers to the logger
+logger.addHandler(file_handler)
+logger.addHandler(console_handler)
 
 DATA_FOLDER = "data_movies"
 os.makedirs(DATA_FOLDER, exist_ok=True)
