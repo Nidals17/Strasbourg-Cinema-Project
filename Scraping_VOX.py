@@ -7,13 +7,14 @@ import logging
 from bs4 import BeautifulSoup
 from datetime import datetime
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Configure logging
 logger = logging.getLogger(__name__)
-logger.info("Scraping started for UGC")  # example log
+logger.info("Scraping started for UGC") 
 
 def get_full_date(day_number):
     """Convert day number to format (DD/MM/YYYY)."""
@@ -121,6 +122,13 @@ def Scrap_VOX():
     os.makedirs(data_folder, exist_ok=True)
     logging.info(f"Data folder ready: {data_folder}")
 
+
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")  # For headless environment
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920x1080")
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     url = 'https://www.cine-vox.com/films-a-l-affiche/'
