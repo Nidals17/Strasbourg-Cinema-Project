@@ -14,12 +14,12 @@ logging.basicConfig(
 DATA_FOLDER = "data_movies"
 os.makedirs(DATA_FOLDER, exist_ok=True)
 
-print("🔄 Scraping fresh UGC data...")
-ugc_df = Scrap_UGC()
-print("✅ UGC data saved.")
-
 print("🔄 Scraping fresh VOX data...")
 vox_df = Scrap_VOX()
+print("✅ UGC data saved.")
+
+print("🔄 Scraping fresh UGC data...")
+ugc_df = Scrap_UGC()
 print("✅ VOX data saved.")
 
 print("🚀 Launching Streamlit app...")
