@@ -29,9 +29,9 @@ jobs:
           sudo apt install -y ./google-chrome-stable_current_amd64.deb
 
       - name: Run app.py
-        run: |
-          set -x
-          python app.py
+        run: python app.py
+        env:
+          GITHUB_ACTIONS: "true"
 
       - name: Commit and push changes
         run: |
