@@ -4,6 +4,8 @@ from Scraping_UGC import Scrap_UGC  # Replace with your actual module
 import logging
 import os
 
+print("Starting scrapping")
+
 logging.basicConfig(
     filename='Scraper.log',
     filemode='w',
@@ -14,12 +16,13 @@ logging.basicConfig(
 DATA_FOLDER = "data_movies"
 os.makedirs(DATA_FOLDER, exist_ok=True)
 
-print("🔄 Scraping fresh VOX data...")
-vox_df = Scrap_VOX()
-print("✅ UGC data saved.")
-
 print("🔄 Scraping fresh UGC data...")
 ugc_df = Scrap_UGC()
+
+print("✅ UGC data saved.")
+
+print("🔄 Scraping fresh VOX data...")
+vox_df = Scrap_VOX()
 print("✅ VOX data saved.")
 
 print("🚀 Launching Streamlit app...")
