@@ -49,7 +49,7 @@ def scrape_film_details(driver, films_link):
         "Jeu.": "Jeudi", "Ven.": "Vendredi", "Sam.": "Samedi", "Dim.": "Dimanche"
     }
 
-    for i, link in enumerate(films_link):
+    for i, link in enumerate(films_link[:10]):
         logging.info(f"[{i+1}/{len(films_link)}] Visiting film link: {link}")
         driver.get(link)
 
