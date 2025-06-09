@@ -6,13 +6,14 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 logger = logging.getLogger(__name__)
-logger.info("Scraping started for UGC")  # example log
+logger.info("Scraping started for UGC") 
 
 def get_film_links(driver, url):
     links = []
@@ -134,7 +135,13 @@ def Scrap_UGC():
     logging.info("Starting UGC cinema scraper.")
 
     try:
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")  # For headless environment
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--window-size=1920x1080")
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
         logging.info("WebDriver initialized successfully.")
     except Exception as e:
         logging.critical(f"Failed to initialize WebDriver: {e}")

@@ -129,7 +129,7 @@ def Scrap_VOX():
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--window-size=1920x1080")
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
 
     url = 'https://www.cine-vox.com/films-a-l-affiche/'
     logging.info("Fetching film links...")
