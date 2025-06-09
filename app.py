@@ -26,4 +26,7 @@ vox_df = Scrap_VOX()
 print("✅ VOX data saved.")
 
 print("🚀 Launching Streamlit app...")
-subprocess.run(["Streamlit", "run", "Streamlit.py"])
+# Only launch Streamlit locally
+if os.environ.get("GITHUB_ACTIONS") != "true":
+    print("🚀 Launching Streamlit app...")
+    subprocess.run(["streamlit", "run", "Streamlit.py"])
