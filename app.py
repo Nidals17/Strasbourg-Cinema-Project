@@ -1,6 +1,8 @@
 import subprocess
 from Scraping_VOX import Scrap_VOX
-from Scraping_UGC import Scrap_UGC  # Replace with your actual module
+from Scraping_UGC import Scrap_UGC
+from Scraping_Cinestar import Scrap_CineStar
+
 import logging
 import os
 
@@ -34,8 +36,14 @@ print("🔄 Scraping fresh VOX data...")
 vox_df = Scrap_VOX()
 print("✅ VOX data saved.")
 
+print("🔄 Scraping fresh UGC data...")
+cinestar_df= Scrap_CineStar
+print("✅ Cinestar data saved.")
+
 print("🚀 Launching Streamlit app...")
 # Only launch Streamlit locally
-if os.environ.get("GITHUB_ACTIONS") != "true":
+if os.environ.get("GITHUB_ACTIONS", "false").lower() != "true":
     print("🚀 Launching Streamlit app...")
     subprocess.run(["streamlit", "run", "Streamlit.py"])
+else:
+    print("⛔ Skipping Streamlit launch on GitHub Actions")
