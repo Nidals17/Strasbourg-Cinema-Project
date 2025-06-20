@@ -27,7 +27,7 @@ def load_and_concatenate_data(folder_path):
     combined_df = pd.concat(all_data, ignore_index=True)
 
     # Normalize genre column: remove spaces, uppercase, remove duplicates within each row
-    combined_df['genre'] = combined_df['genre'].fillna("Unknown").apply(
+    combined_df['genre'] = combined_df['genre'].fillna("UNKNOWN").apply(
         lambda x: ', '.join(sorted(set(g.strip().upper() for g in str(x).split(','))))
     )
 
