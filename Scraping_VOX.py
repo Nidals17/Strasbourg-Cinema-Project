@@ -142,7 +142,7 @@ def Scrap_VOX():
     logging.info("Browser session ended.")
 
     # Save results
-    save_path = os.path.join(data_folder, "UGC.csv")
+    save_path = os.path.join(data_folder, "VOX.csv")
     films_data.to_csv(save_path, index=False)
     logging.info(f"Saved scraped data to {save_path}")
 

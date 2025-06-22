@@ -1,9 +1,10 @@
 name: Run app.py
 
 on:
+  push:                     
   schedule:
-    - cron: '0 10 * * 1'
-  workflow_dispatch:      
+    - cron: '0 10 * * 1'       
+  workflow_dispatch:          
 
 jobs:
   run-script:
@@ -40,5 +41,5 @@ jobs:
           git add data_movies/VOX.csv
           git add data_movies/UGC.csv 
           git add data_movies/CineStar.csv
-          git commit -m "updated data"
+          git commit -m "updated data" || echo "No changes to commit"
           git push origin main
