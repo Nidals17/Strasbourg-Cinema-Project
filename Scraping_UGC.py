@@ -1,6 +1,7 @@
 import re
 import time
 import logging
+import os
 import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -127,7 +128,7 @@ def scrape_film_details(driver, films_link):
             logging.info(f"Added {len(lst)} showtimes for film: {titre}")
 
         time.sleep(0.2)
-
+    print(all_films_UGC)
     return all_films_UGC
 
 
@@ -135,13 +136,20 @@ def Scrap_UGC():
     logging.info("Starting UGC cinema scraper.")
 
     try:
-        chrome_options = Options()
-        chrome_options.add_argument("--headless=new")  # For headless environment
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--disable-gpu")
-        chrome_options.add_argument("--window-size=1920x1080")
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
+
+        is_github = os.environ.get("GITHUB_ACTIONS") == "true"
+
+        if is_github:
+            chrome_options = Options()
+            chrome_options.add_argument("--headless") 
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--disable-dev-shm-usage")
+            chrome_options.add_argument("--disable-gpu")
+            chrome_options.add_argument("--window-size=1920x1080")
+            driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
+        else:
+            driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+
         logging.info("WebDriver initialized successfully.")
     except Exception as e:
         logging.critical(f"Failed to initialize WebDriver: {e}")
@@ -159,8 +167,12 @@ def Scrap_UGC():
     logging.info("WebDriver closed.")
 
     output_path = "data_movies/UGC.csv"
-    films_data_UGC.to_csv(output_path, index=False)
+    if not films_data_UGC.empty:
+        films_data_UGC.to_csv(output_path, index=False)
+    else:
+        logging.warning("No data scraped. File not saved.")    
+    
     logging.info(f"Scraping finished. Data saved to {output_path}.")
-
     logging.info(f"Total records scraped: {len(films_data_UGC)}")
+
 
