@@ -1,10 +1,10 @@
 import subprocess
-from Scraping_VOX import Scrap_VOX
-from Scraping_UGC import Scrap_UGC
-from Scraping_Cinestar import Scrap_CineStar
-
 import logging
 import os
+from Scrapers.Scraping_VOX import Scrap_VOX
+from Scrapers.Scraping_UGC import Scrap_UGC
+from Scrapers.Scraping_Cinestar import Scrap_CineStar
+
 
 print("Starting scrapping")
 
@@ -37,7 +37,7 @@ vox_df = Scrap_VOX()
 print("✅ VOX data saved.")
 
 print("🔄 Scraping fresh UGC data...")
-cinestar_df= Scrap_CineStar
+cinestar_df= Scrap_CineStar()
 print("✅ Cinestar data saved.")
 
 print("🚀 Launching Streamlit app...")

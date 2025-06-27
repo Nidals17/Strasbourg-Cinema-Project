@@ -39,8 +39,11 @@ streamlit run app.py
 Vox-Cinema-project/
 │
 ├── app.py                  # Main Streamlit app
-├── data_movies/            # Folder containing CSV files with scraped data and backg
-├── scraping/               # Scrapers for each cinema (e.g., Vox, Star)
+├── data_movies/            # Folder containing CSV files with scraped data and background files
+├── scraping/               # Folder containing scrapers for each cinema
+│   ├── Scraping_VOX.py     # Scraper for Vox cinema
+│   ├── Scraping_UGC.py     # Scraper for UGC cinema
+│   └── Scraping_Cinestar.py # Scraper for Cinestar cinema
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
