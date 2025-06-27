@@ -1,4 +1,8 @@
 titre,genre,date,jour,horaire
+<<<<<<< HEAD
+=======
+AVIGNON,COMÉDIE,23/06/2025,Lundi,17:45
+>>>>>>> f69d67f (removed jupyter notebooks)
 AVIGNON,COMÉDIE,23/06/2025,Lundi,20:00
 AVIGNON,COMÉDIE,23/06/2025,Lundi,22:15
 AVIGNON,COMÉDIE,24/06/2025,Mardi,10:45
