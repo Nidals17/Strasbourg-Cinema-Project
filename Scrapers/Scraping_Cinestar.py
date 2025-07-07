@@ -95,7 +95,8 @@ def get_film_data_from_cinestar():
                             date_obj = datetime(today.year, today.month + 1, day_number)
                         except:
                             # handle December
-                            date_obj = datetime(today.year + 1, 1, day_number)
+                            date_obj = datetime(today.year + 1,
+                                                 1, day_number)
                     else:
                         date_obj = datetime(today.year, today.month, day_number)
 
@@ -146,7 +147,3 @@ def Scrap_CineStar():
     logger.info(f"Scraping Ciné Star completed in {duration} minutes.")
 
     return df
-
-
-
-Scrap_CineStar()
