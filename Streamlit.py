@@ -73,14 +73,25 @@ else:
             default=df["cinema"].unique()
         )
 
-        selected_titre = st.multiselect(
-            "Film",
-            sorted(df["titre"].dropna().unique())
-        )
+        # Filter titles based on selected cinemas
+        filtered_titles_df = df[df["cinema"].isin(selected_cinema)] if selected_cinema else df
 
+        # Step 2: Filter genres before showing title options
         selected_genre = st.multiselect(
             "Genre contient...",
-            sorted(set(g.strip().upper() for val in df['genre'].dropna() for g in val.split(',')))
+            sorted(set(g.strip().upper() for val in filtered_titles_df['genre'].dropna() for g in val.split(',')))
+        )
+
+        # Step 3: If genres selected, reduce the DataFrame accordingly (AND logic)
+        genre_filtered_df = filtered_titles_df.copy()
+        if selected_genre:
+            for genre in selected_genre:
+                genre_filtered_df = genre_filtered_df[genre_filtered_df["genre"].str.contains(rf'\b{genre}\b', case=False, na=False)]
+
+        # Step 4: Show only matching titles
+        selected_titre = st.multiselect(
+            "Film",
+            sorted(genre_filtered_df["titre"].dropna().unique())
         )
 
         # Sort jours by natural weekday order
@@ -106,11 +117,11 @@ else:
 
     if selected_cinema:
         filtered_df = filtered_df[filtered_df["cinema"].isin(selected_cinema)]
+    if selected_genre:
+        for genre in selected_genre:
+            filtered_df = filtered_df[filtered_df["genre"].str.contains(rf'\b{genre}\b', case=False, na=False)]
     if selected_titre:
         filtered_df = filtered_df[filtered_df["titre"].isin(selected_titre)]
-    if selected_genre:
-        genre_pattern = '|'.join([f'\\b{g.strip()}\\b' for g in selected_genre])
-        filtered_df = filtered_df[filtered_df["genre"].str.contains(genre_pattern, case=False, na=False, regex=True)]
     if selected_jour:
         filtered_df = filtered_df[filtered_df["jour"].isin(selected_jour)]
     if selected_date:
