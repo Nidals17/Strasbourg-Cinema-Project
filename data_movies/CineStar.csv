@@ -1,337 +1,334 @@
 titre,genre,date,jour,horaire
-Alpha,DRAME,20/09/2025,Mercredi,10h50
-Alpha,DRAME,20/09/2025,Mercredi,14h00
-Alpha,DRAME,20/09/2025,Mercredi,16h35
-Alpha,DRAME,20/09/2025,Mercredi,19h10
-Alpha,DRAME,20/09/2025,Mercredi,21h45
-Alpha,DRAME,21/09/2025,Jeudi,14h00
-Alpha,DRAME,21/09/2025,Jeudi,16h35
-Alpha,DRAME,21/09/2025,Jeudi,19h10
-Alpha,DRAME,21/09/2025,Jeudi,21h45
-Alpha,DRAME,22/09/2025,Vendredi,14h00
-Alpha,DRAME,22/09/2025,Vendredi,16h35
-Alpha,DRAME,22/09/2025,Vendredi,19h10
-Alpha,DRAME,22/09/2025,Vendredi,21h45
-Alpha,DRAME,23/09/2025,Samedi,10h50
-Alpha,DRAME,23/09/2025,Samedi,14h00
-Alpha,DRAME,23/09/2025,Samedi,16h35
-Alpha,DRAME,23/09/2025,Samedi,19h10
-Alpha,DRAME,23/09/2025,Samedi,21h45
-Alpha,DRAME,24/09/2025,Dimanche,10h50
-Alpha,DRAME,24/09/2025,Dimanche,14h00
-Alpha,DRAME,24/09/2025,Dimanche,16h35
-Alpha,DRAME,24/09/2025,Dimanche,19h10
-Alpha,DRAME,24/09/2025,Dimanche,21h45
-Alpha,DRAME,26/08/2025,Mardi,14h00
-Alpha,DRAME,26/08/2025,Mardi,16h35
-Alpha,DRAME,26/08/2025,Mardi,19h10
-Alpha,DRAME,26/08/2025,Mardi,21h45
-Salve Maria,DRAME,20/09/2025,Mercredi,13h30
-Salve Maria,DRAME,20/09/2025,Mercredi,18h05
-Salve Maria,DRAME,21/09/2025,Jeudi,13h30
-Salve Maria,DRAME,21/09/2025,Jeudi,18h05
-Salve Maria,DRAME,22/09/2025,Vendredi,13h30
-Salve Maria,DRAME,22/09/2025,Vendredi,18h05
-Salve Maria,DRAME,23/09/2025,Samedi,13h30
-Salve Maria,DRAME,23/09/2025,Samedi,18h05
-Salve Maria,DRAME,24/09/2025,Dimanche,13h30
-Salve Maria,DRAME,24/09/2025,Dimanche,18h05
-Salve Maria,DRAME,26/08/2025,Mardi,13h30
-Salve Maria,DRAME,26/08/2025,Mardi,18h05
-Sous tension,DRAME,20/09/2025,Mercredi,13h10
-Sous tension,DRAME,20/09/2025,Mercredi,21h25
-Sous tension,DRAME,21/09/2025,Jeudi,13h10
-Sous tension,DRAME,21/09/2025,Jeudi,21h25
-Sous tension,DRAME,22/09/2025,Vendredi,13h10
-Sous tension,DRAME,22/09/2025,Vendredi,21h25
-Sous tension,DRAME,23/09/2025,Samedi,13h10
-Sous tension,DRAME,23/09/2025,Samedi,21h25
-Sous tension,DRAME,24/09/2025,Dimanche,13h10
-Sous tension,DRAME,24/09/2025,Dimanche,21h25
-Sous tension,DRAME,26/08/2025,Mardi,13h10
-Sous tension,DRAME,26/08/2025,Mardi,21h25
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",20/09/2025,Mercredi,10h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",20/09/2025,Mercredi,13h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",20/09/2025,Mercredi,16h20
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",20/09/2025,Mercredi,19h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",20/09/2025,Mercredi,21h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",21/09/2025,Jeudi,13h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",21/09/2025,Jeudi,16h20
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",21/09/2025,Jeudi,19h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",21/09/2025,Jeudi,21h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",22/09/2025,Vendredi,13h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",22/09/2025,Vendredi,16h20
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",22/09/2025,Vendredi,19h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",22/09/2025,Vendredi,21h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",23/09/2025,Samedi,10h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",23/09/2025,Samedi,13h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",23/09/2025,Samedi,16h20
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",23/09/2025,Samedi,19h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",23/09/2025,Samedi,21h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/09/2025,Dimanche,10h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/09/2025,Dimanche,13h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/09/2025,Dimanche,16h20
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/09/2025,Dimanche,19h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/09/2025,Dimanche,21h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",26/08/2025,Mardi,13h40
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",26/08/2025,Mardi,16h20
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",26/08/2025,Mardi,19h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",26/08/2025,Mardi,21h40
-À feu doux,DRAME,20/09/2025,Mercredi,10h45
-À feu doux,DRAME,20/09/2025,Mercredi,15h00
-À feu doux,DRAME,21/09/2025,Jeudi,15h00
-À feu doux,DRAME,22/09/2025,Vendredi,15h00
-À feu doux,DRAME,23/09/2025,Samedi,10h45
-À feu doux,DRAME,23/09/2025,Samedi,15h00
-À feu doux,DRAME,24/09/2025,Dimanche,10h45
-À feu doux,DRAME,24/09/2025,Dimanche,15h00
-À feu doux,DRAME,26/08/2025,Mardi,15h00
-Brief History of a Family,"DRAME, THRILLER",20/09/2025,Mercredi,16h55
-Brief History of a Family,"DRAME, THRILLER",20/09/2025,Mercredi,19h00
-Brief History of a Family,"DRAME, THRILLER",21/09/2025,Jeudi,16h55
-Brief History of a Family,"DRAME, THRILLER",21/09/2025,Jeudi,19h00
-Brief History of a Family,"DRAME, THRILLER",22/09/2025,Vendredi,16h55
-Brief History of a Family,"DRAME, THRILLER",22/09/2025,Vendredi,19h00
-Brief History of a Family,"DRAME, THRILLER",23/09/2025,Samedi,16h55
-Brief History of a Family,"DRAME, THRILLER",23/09/2025,Samedi,19h00
-Brief History of a Family,"DRAME, THRILLER",24/09/2025,Dimanche,16h55
-Brief History of a Family,"DRAME, THRILLER",24/09/2025,Dimanche,19h00
-Brief History of a Family,"DRAME, THRILLER",26/08/2025,Mardi,16h55
-Brief History of a Family,"DRAME, THRILLER",26/08/2025,Mardi,19h00
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",20/09/2025,Mercredi,13h30
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",20/09/2025,Mercredi,15h20
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",20/09/2025,Mercredi,17h10
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",20/09/2025,Mercredi,19h05
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",21/09/2025,Jeudi,13h30
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",21/09/2025,Jeudi,15h20
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",21/09/2025,Jeudi,17h10
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",21/09/2025,Jeudi,19h05
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",22/09/2025,Vendredi,13h30
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",22/09/2025,Vendredi,15h20
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",22/09/2025,Vendredi,17h10
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",22/09/2025,Vendredi,19h05
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",23/09/2025,Samedi,13h30
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",23/09/2025,Samedi,15h20
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",23/09/2025,Samedi,17h10
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",23/09/2025,Samedi,19h05
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",24/09/2025,Dimanche,13h30
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",24/09/2025,Dimanche,15h20
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",24/09/2025,Dimanche,17h10
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",26/08/2025,Mardi,13h30
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",26/08/2025,Mardi,15h20
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",26/08/2025,Mardi,17h10
-En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",26/08/2025,Mardi,19h05
-French Connection,FILM NOIR-POLICIER,20/09/2025,Mercredi,19h20
-French Connection,FILM NOIR-POLICIER,21/09/2025,Jeudi,19h20
-French Connection,FILM NOIR-POLICIER,22/09/2025,Vendredi,19h20
-French Connection,FILM NOIR-POLICIER,23/09/2025,Samedi,19h20
-French Connection,FILM NOIR-POLICIER,24/09/2025,Dimanche,19h20
-French Connection,FILM NOIR-POLICIER,26/08/2025,Mardi,19h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,20/09/2025,Mercredi,10h50
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,20/09/2025,Mercredi,13h15
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,20/09/2025,Mercredi,17h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,20/09/2025,Mercredi,19h30
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,20/09/2025,Mercredi,21h40
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,21/09/2025,Jeudi,13h15
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,21/09/2025,Jeudi,17h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,21/09/2025,Jeudi,19h30
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,21/09/2025,Jeudi,21h40
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,22/09/2025,Vendredi,13h15
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,22/09/2025,Vendredi,17h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,22/09/2025,Vendredi,19h30
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,22/09/2025,Vendredi,21h40
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,23/09/2025,Samedi,10h50
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,23/09/2025,Samedi,13h15
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,23/09/2025,Samedi,17h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,23/09/2025,Samedi,19h30
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,23/09/2025,Samedi,21h40
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,24/09/2025,Dimanche,10h50
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,24/09/2025,Dimanche,13h15
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,24/09/2025,Dimanche,17h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,24/09/2025,Dimanche,19h30
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,24/09/2025,Dimanche,21h40
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,26/08/2025,Mardi,13h15
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,26/08/2025,Mardi,17h20
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,26/08/2025,Mardi,19h30
-L'Epreuve du feu,COMÉDIE DRAMATIQUE,26/08/2025,Mardi,21h40
-"Sally Bauer, à contre-courant","BIOPIC, DRAME",20/09/2025,Mercredi,13h10
-"Sally Bauer, à contre-courant","BIOPIC, DRAME",21/09/2025,Jeudi,13h10
-"Sally Bauer, à contre-courant","BIOPIC, DRAME",22/09/2025,Vendredi,13h10
-"Sally Bauer, à contre-courant","BIOPIC, DRAME",23/09/2025,Samedi,13h10
-"Sally Bauer, à contre-courant","BIOPIC, DRAME",24/09/2025,Dimanche,13h10
-"Sally Bauer, à contre-courant","BIOPIC, DRAME",26/08/2025,Mardi,13h10
-7 jours,DRAME,20/09/2025,Mercredi,15h45
-7 jours,DRAME,20/09/2025,Mercredi,20h20
-7 jours,DRAME,21/09/2025,Jeudi,15h45
-7 jours,DRAME,21/09/2025,Jeudi,20h20
-7 jours,DRAME,22/09/2025,Vendredi,15h45
-7 jours,DRAME,22/09/2025,Vendredi,20h20
-7 jours,DRAME,23/09/2025,Samedi,15h45
-7 jours,DRAME,23/09/2025,Samedi,20h20
-7 jours,DRAME,24/09/2025,Dimanche,15h45
-7 jours,DRAME,24/09/2025,Dimanche,20h20
-7 jours,DRAME,26/08/2025,Mardi,15h45
-7 jours,DRAME,26/08/2025,Mardi,20h20
-Chronique des Années de Braise,DRAME,20/09/2025,Mercredi,13h20
-Chronique des Années de Braise,DRAME,21/09/2025,Jeudi,15h55
-Chronique des Années de Braise,DRAME,22/09/2025,Vendredi,13h20
-Chronique des Années de Braise,DRAME,23/09/2025,Samedi,15h55
-Chronique des Années de Braise,DRAME,24/09/2025,Dimanche,13h20
-Confidente,DRAME,20/09/2025,Mercredi,13h20
-Confidente,DRAME,21/09/2025,Jeudi,13h20
-Confidente,DRAME,22/09/2025,Vendredi,13h20
-Confidente,DRAME,23/09/2025,Samedi,13h20
-Confidente,DRAME,24/09/2025,Dimanche,13h20
-Confidente,DRAME,26/08/2025,Mardi,13h20
-L'Été de Jahia,DRAME,20/09/2025,Mercredi,15h25
-L'Été de Jahia,DRAME,21/09/2025,Jeudi,15h25
-L'Été de Jahia,DRAME,22/09/2025,Vendredi,15h25
-L'Été de Jahia,DRAME,23/09/2025,Samedi,15h25
-L'Été de Jahia,DRAME,24/09/2025,Dimanche,15h25
-L'Été de Jahia,DRAME,26/08/2025,Mardi,15h25
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",20/09/2025,Mercredi,14h00
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",20/09/2025,Mercredi,19h20
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",20/09/2025,Mercredi,21h15
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",21/09/2025,Jeudi,14h00
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",21/09/2025,Jeudi,19h20
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",21/09/2025,Jeudi,21h15
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",22/09/2025,Vendredi,14h00
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",22/09/2025,Vendredi,19h20
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",22/09/2025,Vendredi,21h15
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",23/09/2025,Samedi,14h00
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",23/09/2025,Samedi,19h20
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",23/09/2025,Samedi,21h15
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",24/09/2025,Dimanche,14h00
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",24/09/2025,Dimanche,19h20
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",24/09/2025,Dimanche,21h15
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",26/08/2025,Mardi,14h00
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",26/08/2025,Mardi,19h20
-Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",26/08/2025,Mardi,21h15
-Yi Yi,DRAME,20/09/2025,Mercredi,10h30
-Yi Yi,DRAME,20/09/2025,Mercredi,15h55
-Yi Yi,DRAME,21/09/2025,Jeudi,13h20
-Yi Yi,DRAME,22/09/2025,Vendredi,15h55
-Yi Yi,DRAME,23/09/2025,Samedi,10h30
-Yi Yi,DRAME,23/09/2025,Samedi,13h20
-Yi Yi,DRAME,24/09/2025,Dimanche,10h30
-Yi Yi,DRAME,24/09/2025,Dimanche,15h55
-Yi Yi,DRAME,26/08/2025,Mardi,15h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",20/09/2025,Mercredi,10h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",20/09/2025,Mercredi,16h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",21/09/2025,Jeudi,16h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",21/09/2025,Jeudi,10h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",21/09/2025,Jeudi,10h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",21/09/2025,Jeudi,16h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",21/09/2025,Jeudi,16h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",22/09/2025,Vendredi,16h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",23/09/2025,Samedi,10h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",24/09/2025,Dimanche,10h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",24/09/2025,Dimanche,16h55
-FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",26/08/2025,Mardi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,20/09/2025,Mercredi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,20/09/2025,Mercredi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,21/09/2025,Jeudi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,21/09/2025,Jeudi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,22/09/2025,Vendredi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,22/09/2025,Vendredi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,23/09/2025,Samedi,16h55
-FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,24/09/2025,Dimanche,16h55
-FOCUS JOHN HUSTON : The African Queen,"AVENTURE, GUERRE, ROMANCE",20/09/2025,Mercredi,16h55
-FOCUS JOHN HUSTON : The African Queen,"AVENTURE, GUERRE, ROMANCE",21/09/2025,Jeudi,16h55
-Touch - Nos étreintes passées,"DRAME, ROMANCE",20/09/2025,Mercredi,15h35
-Touch - Nos étreintes passées,"DRAME, ROMANCE",20/09/2025,Mercredi,20h25
-Touch - Nos étreintes passées,"DRAME, ROMANCE",21/09/2025,Jeudi,15h35
-Touch - Nos étreintes passées,"DRAME, ROMANCE",21/09/2025,Jeudi,20h25
-Touch - Nos étreintes passées,"DRAME, ROMANCE",22/09/2025,Vendredi,15h35
-Touch - Nos étreintes passées,"DRAME, ROMANCE",22/09/2025,Vendredi,20h25
-Touch - Nos étreintes passées,"DRAME, ROMANCE",23/09/2025,Samedi,15h35
-Touch - Nos étreintes passées,"DRAME, ROMANCE",23/09/2025,Samedi,20h25
-Touch - Nos étreintes passées,"DRAME, ROMANCE",24/09/2025,Dimanche,15h35
-Touch - Nos étreintes passées,"DRAME, ROMANCE",24/09/2025,Dimanche,20h25
-Touch - Nos étreintes passées,"DRAME, ROMANCE",26/08/2025,Mardi,15h35
-Touch - Nos étreintes passées,"DRAME, ROMANCE",26/08/2025,Mardi,20h25
-"Sorry, Baby",DRAME,20/09/2025,Mercredi,18h30
-"Sorry, Baby",DRAME,21/09/2025,Jeudi,18h30
-"Sorry, Baby",DRAME,22/09/2025,Vendredi,18h30
-"Sorry, Baby",DRAME,23/09/2025,Samedi,18h30
-"Sorry, Baby",DRAME,24/09/2025,Dimanche,18h30
-"Sorry, Baby",DRAME,26/08/2025,Mardi,18h30
-Eddington,"WESTERN, THRILLER, COMÉDIE",20/09/2025,Mercredi,21h00
-Eddington,"WESTERN, THRILLER, COMÉDIE",21/09/2025,Jeudi,21h00
-Eddington,"WESTERN, THRILLER, COMÉDIE",22/09/2025,Vendredi,21h00
-Eddington,"WESTERN, THRILLER, COMÉDIE",23/09/2025,Samedi,21h00
-Eddington,"WESTERN, THRILLER, COMÉDIE",24/09/2025,Dimanche,21h00
-Eddington,"WESTERN, THRILLER, COMÉDIE",24/09/2025,Dimanche,21h00
-Eddington,"WESTERN, THRILLER, COMÉDIE",26/08/2025,Mardi,21h00
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",20/09/2025,Mercredi,18h00
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",20/09/2025,Mercredi,10h40
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",20/09/2025,Mercredi,18h00
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",21/09/2025,Jeudi,18h00
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",22/09/2025,Vendredi,10h40
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",22/09/2025,Vendredi,18h00
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",23/09/2025,Samedi,10h40
-La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",24/09/2025,Dimanche,18h00
-Buffalo Kids,"ANIMATION, FAMILLE",20/09/2025,Mercredi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",20/09/2025,Mercredi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",21/09/2025,Jeudi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",21/09/2025,Jeudi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",22/09/2025,Vendredi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",22/09/2025,Vendredi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",23/09/2025,Samedi,10h55
-Buffalo Kids,"ANIMATION, FAMILLE",24/09/2025,Dimanche,10h55
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",20/09/2025,Mercredi,18h00
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",21/09/2025,Jeudi,18h00
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",21/09/2025,Jeudi,10h40
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",21/09/2025,Jeudi,18h00
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",22/09/2025,Vendredi,18h00
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",22/09/2025,Vendredi,10h40
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",22/09/2025,Vendredi,18h00
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",23/09/2025,Samedi,18h00
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",24/09/2025,Dimanche,10h40
-La Trilogie d'Oslo / Amour,"DRAME, ROMANCE",26/08/2025,Mardi,18h00
-La Trilogie d'Oslo / Rêves,DRAME,20/09/2025,Mercredi,10h40
-La Trilogie d'Oslo / Rêves,DRAME,21/09/2025,Jeudi,18h00
-La Trilogie d'Oslo / Rêves,DRAME,21/09/2025,Jeudi,18h00
-La Trilogie d'Oslo / Rêves,DRAME,22/09/2025,Vendredi,18h00
-La Trilogie d'Oslo / Rêves,DRAME,23/09/2025,Samedi,18h00
-La Trilogie d'Oslo / Rêves,DRAME,24/09/2025,Dimanche,18h00
-Amélie et la métaphysique des tubes,ANIMATION,20/09/2025,Mercredi,11h00
-Amélie et la métaphysique des tubes,ANIMATION,20/09/2025,Mercredi,16h45
-Amélie et la métaphysique des tubes,ANIMATION,21/09/2025,Jeudi,16h45
-Amélie et la métaphysique des tubes,ANIMATION,22/09/2025,Vendredi,16h45
-Amélie et la métaphysique des tubes,ANIMATION,23/09/2025,Samedi,11h00
-Amélie et la métaphysique des tubes,ANIMATION,23/09/2025,Samedi,16h45
-Amélie et la métaphysique des tubes,ANIMATION,24/09/2025,Dimanche,11h00
-Amélie et la métaphysique des tubes,ANIMATION,24/09/2025,Dimanche,16h45
-Amélie et la métaphysique des tubes,ANIMATION,26/08/2025,Mardi,13h40
-A Normal Family,DRAME,20/09/2025,Mercredi,21h05
-A Normal Family,DRAME,21/09/2025,Jeudi,21h05
-A Normal Family,DRAME,22/09/2025,Vendredi,21h05
-A Normal Family,DRAME,23/09/2025,Samedi,21h05
-A Normal Family,DRAME,24/09/2025,Dimanche,21h05
-A Normal Family,DRAME,26/08/2025,Mardi,21h05
-La Venue de l'avenir,COMÉDIE DRAMATIQUE,20/09/2025,Mercredi,20h40
-La Venue de l'avenir,COMÉDIE DRAMATIQUE,21/09/2025,Jeudi,20h40
-La Venue de l'avenir,COMÉDIE DRAMATIQUE,22/09/2025,Vendredi,20h40
-La Venue de l'avenir,COMÉDIE DRAMATIQUE,23/09/2025,Samedi,20h40
-La Venue de l'avenir,COMÉDIE DRAMATIQUE,24/09/2025,Dimanche,20h40
-La Venue de l'avenir,COMÉDIE DRAMATIQUE,26/08/2025,Mardi,20h40
-Wallace & Gromit : Les Inventuriers,ANIMATION,20/09/2025,Mercredi,11h00
-Wallace & Gromit : Les Inventuriers,ANIMATION,20/09/2025,Mercredi,15h35
-Wallace & Gromit : Les Inventuriers,ANIMATION,21/09/2025,Jeudi,15h35
-Wallace & Gromit : Les Inventuriers,ANIMATION,22/09/2025,Vendredi,15h35
-Wallace & Gromit : Les Inventuriers,ANIMATION,23/09/2025,Samedi,11h00
-Wallace & Gromit : Les Inventuriers,ANIMATION,23/09/2025,Samedi,15h35
-Wallace & Gromit : Les Inventuriers,ANIMATION,24/09/2025,Dimanche,11h00
-Wallace & Gromit : Les Inventuriers,ANIMATION,24/09/2025,Dimanche,15h35
-Wallace & Gromit : Les Inventuriers,ANIMATION,26/08/2025,Mardi,15h35
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,20/09/2025,Mercredi,20h15
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,20/09/2025,Mercredi,15h30
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,21/09/2025,Jeudi,20h15
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,21/09/2025,Jeudi,15h30
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,22/09/2025,Vendredi,20h15
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,22/09/2025,Vendredi,15h30
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,23/09/2025,Samedi,20h15
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,23/09/2025,Samedi,15h30
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,24/09/2025,Dimanche,20h15
-RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : After Hours,COMÉDIE,26/08/2025,Mardi,15h30
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",27/09/2025,Mercredi,11h00
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",28/09/2025,Jeudi,11h00
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",29/09/2025,Vendredi,11h00
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",30/09/2025,Samedi,11h00
+En première ligne,DRAME,27/09/2025,Mercredi,10h55
+En première ligne,DRAME,27/09/2025,Mercredi,13h20
+En première ligne,DRAME,27/09/2025,Mercredi,17h50
+En première ligne,DRAME,27/09/2025,Mercredi,19h45
+En première ligne,DRAME,28/09/2025,Jeudi,13h20
+En première ligne,DRAME,28/09/2025,Jeudi,17h50
+En première ligne,DRAME,28/09/2025,Jeudi,19h45
+En première ligne,DRAME,29/09/2025,Vendredi,13h20
+En première ligne,DRAME,29/09/2025,Vendredi,17h50
+En première ligne,DRAME,29/09/2025,Vendredi,19h45
+En première ligne,DRAME,30/09/2025,Samedi,10h55
+En première ligne,DRAME,30/09/2025,Samedi,13h20
+En première ligne,DRAME,30/09/2025,Samedi,17h50
+En première ligne,DRAME,30/09/2025,Samedi,19h45
+En première ligne,DRAME,01/09/2025,Lundi,13h20
+En première ligne,DRAME,01/09/2025,Lundi,17h50
+En première ligne,DRAME,01/09/2025,Lundi,19h45
+En première ligne,DRAME,02/09/2025,Mardi,13h20
+En première ligne,DRAME,02/09/2025,Mardi,17h50
+En première ligne,DRAME,02/09/2025,Mardi,19h45
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",27/09/2025,Mercredi,10h50
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",28/09/2025,Jeudi,20h50
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",29/09/2025,Vendredi,20h50
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",30/09/2025,Samedi,10h50
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",30/09/2025,Samedi,20h50
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",01/09/2025,Lundi,20h50
+Escape From the 21st Century,"ACTION, AVENTURE, SCIENCE-FICTION",02/09/2025,Mardi,20h50
+Fantôme Utile,"DRAME, FANTASTIQUE",27/09/2025,Mercredi,15h15
+Fantôme Utile,"DRAME, FANTASTIQUE",27/09/2025,Mercredi,21h00
+Fantôme Utile,"DRAME, FANTASTIQUE",28/09/2025,Jeudi,15h15
+Fantôme Utile,"DRAME, FANTASTIQUE",28/09/2025,Jeudi,21h00
+Fantôme Utile,"DRAME, FANTASTIQUE",29/09/2025,Vendredi,15h15
+Fantôme Utile,"DRAME, FANTASTIQUE",29/09/2025,Vendredi,21h00
+Fantôme Utile,"DRAME, FANTASTIQUE",30/09/2025,Samedi,15h15
+Fantôme Utile,"DRAME, FANTASTIQUE",30/09/2025,Samedi,21h00
+Fantôme Utile,"DRAME, FANTASTIQUE",01/09/2025,Lundi,15h15
+Fantôme Utile,"DRAME, FANTASTIQUE",01/09/2025,Lundi,21h00
+Fantôme Utile,"DRAME, FANTASTIQUE",02/09/2025,Mardi,15h15
+Fantôme Utile,"DRAME, FANTASTIQUE",02/09/2025,Mardi,21h00
+La Femme qui en savait trop,DRAME,27/09/2025,Mercredi,13h30
+La Femme qui en savait trop,DRAME,27/09/2025,Mercredi,16h55
+La Femme qui en savait trop,DRAME,27/09/2025,Mercredi,19h00
+La Femme qui en savait trop,DRAME,28/09/2025,Jeudi,13h30
+La Femme qui en savait trop,DRAME,28/09/2025,Jeudi,16h55
+La Femme qui en savait trop,DRAME,28/09/2025,Jeudi,19h00
+La Femme qui en savait trop,DRAME,29/09/2025,Vendredi,13h30
+La Femme qui en savait trop,DRAME,29/09/2025,Vendredi,16h55
+La Femme qui en savait trop,DRAME,29/09/2025,Vendredi,19h00
+La Femme qui en savait trop,DRAME,30/09/2025,Samedi,13h30
+La Femme qui en savait trop,DRAME,30/09/2025,Samedi,16h55
+La Femme qui en savait trop,DRAME,30/09/2025,Samedi,19h00
+La Femme qui en savait trop,DRAME,01/09/2025,Lundi,13h30
+La Femme qui en savait trop,DRAME,01/09/2025,Lundi,16h55
+La Femme qui en savait trop,DRAME,01/09/2025,Lundi,19h00
+La Femme qui en savait trop,DRAME,02/09/2025,Mardi,13h30
+La Femme qui en savait trop,DRAME,02/09/2025,Mardi,16h55
+La Femme qui en savait trop,DRAME,02/09/2025,Mardi,19h00
+Le Roi Soleil,"DRAME, THRILLER",27/09/2025,Mercredi,10h40
+Le Roi Soleil,"DRAME, THRILLER",27/09/2025,Mercredi,13h10
+Le Roi Soleil,"DRAME, THRILLER",27/09/2025,Mercredi,17h00
+Le Roi Soleil,"DRAME, THRILLER",27/09/2025,Mercredi,19h15
+Le Roi Soleil,"DRAME, THRILLER",27/09/2025,Mercredi,21h30
+Le Roi Soleil,"DRAME, THRILLER",28/09/2025,Jeudi,13h10
+Le Roi Soleil,"DRAME, THRILLER",28/09/2025,Jeudi,17h00
+Le Roi Soleil,"DRAME, THRILLER",28/09/2025,Jeudi,19h15
+Le Roi Soleil,"DRAME, THRILLER",28/09/2025,Jeudi,21h30
+Le Roi Soleil,"DRAME, THRILLER",29/09/2025,Vendredi,13h10
+Le Roi Soleil,"DRAME, THRILLER",29/09/2025,Vendredi,17h00
+Le Roi Soleil,"DRAME, THRILLER",29/09/2025,Vendredi,19h15
+Le Roi Soleil,"DRAME, THRILLER",29/09/2025,Vendredi,21h30
+Le Roi Soleil,"DRAME, THRILLER",30/09/2025,Samedi,10h40
+Le Roi Soleil,"DRAME, THRILLER",30/09/2025,Samedi,13h10
+Le Roi Soleil,"DRAME, THRILLER",30/09/2025,Samedi,17h00
+Le Roi Soleil,"DRAME, THRILLER",30/09/2025,Samedi,19h15
+Le Roi Soleil,"DRAME, THRILLER",30/09/2025,Samedi,21h30
+Le Roi Soleil,"DRAME, THRILLER",01/09/2025,Lundi,13h10
+Le Roi Soleil,"DRAME, THRILLER",01/09/2025,Lundi,17h00
+Le Roi Soleil,"DRAME, THRILLER",01/09/2025,Lundi,19h15
+Le Roi Soleil,"DRAME, THRILLER",01/09/2025,Lundi,21h30
+Le Roi Soleil,"DRAME, THRILLER",02/09/2025,Mardi,13h10
+Le Roi Soleil,"DRAME, THRILLER",02/09/2025,Mardi,19h15
+Le Roi Soleil,"DRAME, THRILLER",02/09/2025,Mardi,21h30
+Miroirs No. 3,DRAME,27/09/2025,Mercredi,11h05
+Miroirs No. 3,DRAME,27/09/2025,Mercredi,13h40
+Miroirs No. 3,DRAME,27/09/2025,Mercredi,15h30
+Miroirs No. 3,DRAME,27/09/2025,Mercredi,17h20
+Miroirs No. 3,DRAME,27/09/2025,Mercredi,19h10
+Miroirs No. 3,DRAME,28/09/2025,Jeudi,13h40
+Miroirs No. 3,DRAME,28/09/2025,Jeudi,15h30
+Miroirs No. 3,DRAME,28/09/2025,Jeudi,17h20
+Miroirs No. 3,DRAME,28/09/2025,Jeudi,19h10
+Miroirs No. 3,DRAME,29/09/2025,Vendredi,13h40
+Miroirs No. 3,DRAME,29/09/2025,Vendredi,15h30
+Miroirs No. 3,DRAME,29/09/2025,Vendredi,17h20
+Miroirs No. 3,DRAME,29/09/2025,Vendredi,19h10
+Miroirs No. 3,DRAME,30/09/2025,Samedi,11h05
+Miroirs No. 3,DRAME,30/09/2025,Samedi,13h40
+Miroirs No. 3,DRAME,30/09/2025,Samedi,15h30
+Miroirs No. 3,DRAME,30/09/2025,Samedi,17h20
+Miroirs No. 3,DRAME,30/09/2025,Samedi,19h10
+Miroirs No. 3,DRAME,01/09/2025,Lundi,13h40
+Miroirs No. 3,DRAME,01/09/2025,Lundi,15h30
+Miroirs No. 3,DRAME,01/09/2025,Lundi,17h20
+Miroirs No. 3,DRAME,01/09/2025,Lundi,19h10
+Miroirs No. 3,DRAME,02/09/2025,Mardi,13h40
+Miroirs No. 3,DRAME,02/09/2025,Mardi,15h30
+Miroirs No. 3,DRAME,02/09/2025,Mardi,17h20
+Miroirs No. 3,DRAME,02/09/2025,Mardi,19h10
+Alpha,DRAME,27/09/2025,Mercredi,15h00
+Alpha,DRAME,27/09/2025,Mercredi,19h25
+Alpha,DRAME,27/09/2025,Mercredi,21h55
+Alpha,DRAME,28/09/2025,Jeudi,15h00
+Alpha,DRAME,29/09/2025,Vendredi,15h00
+Alpha,DRAME,29/09/2025,Vendredi,19h25
+Alpha,DRAME,29/09/2025,Vendredi,21h55
+Alpha,DRAME,30/09/2025,Samedi,15h00
+Alpha,DRAME,30/09/2025,Samedi,19h25
+Alpha,DRAME,30/09/2025,Samedi,21h55
+Alpha,DRAME,01/09/2025,Lundi,15h00
+Alpha,DRAME,01/09/2025,Lundi,19h25
+Alpha,DRAME,01/09/2025,Lundi,21h55
+Alpha,DRAME,02/09/2025,Mardi,15h00
+Alpha,DRAME,02/09/2025,Mardi,19h25
+Alpha,DRAME,02/09/2025,Mardi,21h55
+Salve Maria,DRAME,27/09/2025,Mercredi,13h05
+Salve Maria,DRAME,28/09/2025,Jeudi,13h05
+Salve Maria,DRAME,29/09/2025,Vendredi,13h05
+Salve Maria,DRAME,30/09/2025,Samedi,13h05
+Salve Maria,DRAME,01/09/2025,Lundi,13h05
+Salve Maria,DRAME,02/09/2025,Mardi,13h05
+Sous tension,DRAME,27/09/2025,Mercredi,21h40
+Sous tension,DRAME,28/09/2025,Jeudi,21h40
+Sous tension,DRAME,29/09/2025,Vendredi,21h40
+Sous tension,DRAME,30/09/2025,Samedi,21h40
+Sous tension,DRAME,01/09/2025,Lundi,21h40
+Sous tension,DRAME,02/09/2025,Mardi,21h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",27/09/2025,Mercredi,10h45
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",27/09/2025,Mercredi,13h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",27/09/2025,Mercredi,16h20
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",27/09/2025,Mercredi,19h00
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",27/09/2025,Mercredi,21h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",28/09/2025,Jeudi,13h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",28/09/2025,Jeudi,16h20
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",28/09/2025,Jeudi,19h00
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",28/09/2025,Jeudi,21h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",29/09/2025,Vendredi,13h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",29/09/2025,Vendredi,16h20
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",29/09/2025,Vendredi,19h00
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",29/09/2025,Vendredi,21h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",30/09/2025,Samedi,10h45
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",30/09/2025,Samedi,13h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",30/09/2025,Samedi,16h20
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",30/09/2025,Samedi,19h00
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",30/09/2025,Samedi,21h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",01/09/2025,Lundi,13h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",01/09/2025,Lundi,16h20
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",01/09/2025,Lundi,19h00
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",01/09/2025,Lundi,21h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",02/09/2025,Mardi,13h40
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",02/09/2025,Mardi,16h20
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",02/09/2025,Mardi,19h00
+Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",02/09/2025,Mardi,21h40
+À feu doux,DRAME,27/09/2025,Mercredi,15h15
+À feu doux,DRAME,28/09/2025,Jeudi,15h15
+À feu doux,DRAME,29/09/2025,Vendredi,15h15
+À feu doux,DRAME,30/09/2025,Samedi,15h15
+À feu doux,DRAME,01/09/2025,Lundi,15h15
+À feu doux,DRAME,02/09/2025,Mardi,15h15
+Brief History of a Family,"DRAME, THRILLER",27/09/2025,Mercredi,21h05
+Brief History of a Family,"DRAME, THRILLER",28/09/2025,Jeudi,21h05
+Brief History of a Family,"DRAME, THRILLER",29/09/2025,Vendredi,21h05
+Brief History of a Family,"DRAME, THRILLER",30/09/2025,Samedi,21h05
+Brief History of a Family,"DRAME, THRILLER",01/09/2025,Lundi,21h05
+Brief History of a Family,"DRAME, THRILLER",02/09/2025,Mardi,21h05
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",27/09/2025,Mercredi,13h10
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",27/09/2025,Mercredi,17h35
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",28/09/2025,Jeudi,13h10
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",28/09/2025,Jeudi,17h35
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",29/09/2025,Vendredi,13h10
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",29/09/2025,Vendredi,17h35
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",30/09/2025,Samedi,13h10
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",30/09/2025,Samedi,17h35
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",01/09/2025,Lundi,13h10
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",01/09/2025,Lundi,17h35
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",02/09/2025,Mardi,13h10
+En boucle,"COMÉDIE, SCIENCE-FICTION, FANTASTIQUE",02/09/2025,Mardi,17h35
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,27/09/2025,Mercredi,10h50
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,27/09/2025,Mercredi,13h05
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,27/09/2025,Mercredi,17h15
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,27/09/2025,Mercredi,19h25
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,27/09/2025,Mercredi,21h35
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,28/09/2025,Jeudi,13h05
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,28/09/2025,Jeudi,17h15
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,28/09/2025,Jeudi,19h25
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,28/09/2025,Jeudi,21h35
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,13h05
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,17h15
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,19h25
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,21h35
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,30/09/2025,Samedi,10h50
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,30/09/2025,Samedi,13h05
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,30/09/2025,Samedi,17h15
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,30/09/2025,Samedi,19h25
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,30/09/2025,Samedi,21h35
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,01/09/2025,Lundi,13h05
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,01/09/2025,Lundi,17h15
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,01/09/2025,Lundi,19h25
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,01/09/2025,Lundi,21h35
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,02/09/2025,Mardi,13h05
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,02/09/2025,Mardi,17h15
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,02/09/2025,Mardi,19h25
+L'Epreuve du feu,COMÉDIE DRAMATIQUE,02/09/2025,Mardi,21h35
+7 jours,DRAME,27/09/2025,Mercredi,16h10
+7 jours,DRAME,28/09/2025,Jeudi,16h10
+7 jours,DRAME,29/09/2025,Vendredi,16h10
+7 jours,DRAME,30/09/2025,Samedi,16h10
+7 jours,DRAME,01/09/2025,Lundi,16h10
+7 jours,DRAME,02/09/2025,Mardi,16h10
+Chronique des Années de Braise,DRAME,27/09/2025,Mercredi,15h25
+Chronique des Années de Braise,DRAME,27/09/2025,Mercredi,15h25
+Chronique des Années de Braise,DRAME,28/09/2025,Jeudi,15h25
+Chronique des Années de Braise,DRAME,28/09/2025,Jeudi,15h25
+Chronique des Années de Braise,DRAME,29/09/2025,Vendredi,15h25
+Chronique des Années de Braise,DRAME,29/09/2025,Vendredi,15h25
+Chronique des Années de Braise,DRAME,30/09/2025,Samedi,15h25
+Chronique des Années de Braise,DRAME,01/09/2025,Lundi,15h25
+Chronique des Années de Braise,DRAME,02/09/2025,Mardi,15h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",27/09/2025,Mercredi,13h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",27/09/2025,Mercredi,21h10
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",28/09/2025,Jeudi,13h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",28/09/2025,Jeudi,21h10
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",29/09/2025,Vendredi,13h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",30/09/2025,Samedi,13h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",30/09/2025,Samedi,21h10
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",01/09/2025,Lundi,13h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",01/09/2025,Lundi,21h10
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",02/09/2025,Mardi,13h25
+Last Stop : Yuma County,"THRILLER, FILM NOIR-POLICIER",02/09/2025,Mardi,21h10
+Yi Yi,DRAME,27/09/2025,Mercredi,15h25
+Yi Yi,DRAME,28/09/2025,Jeudi,15h25
+Yi Yi,DRAME,29/09/2025,Vendredi,15h25
+Yi Yi,DRAME,30/09/2025,Samedi,15h25
+Yi Yi,DRAME,30/09/2025,Samedi,15h25
+Yi Yi,DRAME,01/09/2025,Lundi,15h25
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",27/09/2025,Mercredi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",28/09/2025,Jeudi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",28/09/2025,Jeudi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",28/09/2025,Jeudi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",29/09/2025,Vendredi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",30/09/2025,Samedi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",30/09/2025,Samedi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",01/09/2025,Lundi,17h50
+FOCUS JOHN HUSTON : Moulin Rouge,"BIOPIC, DRAME",02/09/2025,Mardi,17h50
+FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,27/09/2025,Mercredi,17h50
+FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,28/09/2025,Jeudi,17h50
+FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,29/09/2025,Vendredi,17h50
+FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,30/09/2025,Samedi,17h50
+FOCUS JOHN HUSTON : Plus fort que le Diable,AVENTURE,01/09/2025,Lundi,17h50
+Touch - Nos étreintes passées,"DRAME, ROMANCE",27/09/2025,Mercredi,15h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",27/09/2025,Mercredi,20h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",28/09/2025,Jeudi,15h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",28/09/2025,Jeudi,20h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",29/09/2025,Vendredi,15h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",29/09/2025,Vendredi,20h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",30/09/2025,Samedi,15h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",01/09/2025,Lundi,15h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",01/09/2025,Lundi,20h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",02/09/2025,Mardi,15h25
+Touch - Nos étreintes passées,"DRAME, ROMANCE",02/09/2025,Mardi,20h25
+"Sorry, Baby",DRAME,27/09/2025,Mercredi,14h00
+"Sorry, Baby",DRAME,28/09/2025,Jeudi,14h00
+"Sorry, Baby",DRAME,29/09/2025,Vendredi,14h00
+"Sorry, Baby",DRAME,30/09/2025,Samedi,14h00
+"Sorry, Baby",DRAME,01/09/2025,Lundi,14h00
+"Sorry, Baby",DRAME,02/09/2025,Mardi,14h00
+La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",27/09/2025,Mercredi,10h45
+La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",28/09/2025,Jeudi,10h45
+La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",29/09/2025,Vendredi,10h45
+La Trilogie d'Oslo / Désir,"DRAME, COMÉDIE DRAMATIQUE",30/09/2025,Samedi,10h45
+Buffalo Kids,"ANIMATION, FAMILLE",27/09/2025,Mercredi,10h55
+Buffalo Kids,"ANIMATION, FAMILLE",28/09/2025,Jeudi,10h55
+Buffalo Kids,"ANIMATION, FAMILLE",28/09/2025,Jeudi,10h55
+Buffalo Kids,"ANIMATION, FAMILLE",29/09/2025,Vendredi,10h55
+Buffalo Kids,"ANIMATION, FAMILLE",29/09/2025,Vendredi,10h55
+Buffalo Kids,"ANIMATION, FAMILLE",30/09/2025,Samedi,10h55
+Amélie et la métaphysique des tubes,ANIMATION,27/09/2025,Mercredi,11h00
+Amélie et la métaphysique des tubes,ANIMATION,27/09/2025,Mercredi,15h20
+Amélie et la métaphysique des tubes,ANIMATION,28/09/2025,Jeudi,15h20
+Amélie et la métaphysique des tubes,ANIMATION,29/09/2025,Vendredi,15h20
+Amélie et la métaphysique des tubes,ANIMATION,30/09/2025,Samedi,11h00
+Amélie et la métaphysique des tubes,ANIMATION,30/09/2025,Samedi,15h20
+Amélie et la métaphysique des tubes,ANIMATION,01/09/2025,Lundi,15h20
+A Normal Family,DRAME,27/09/2025,Mercredi,18h35
+A Normal Family,DRAME,27/09/2025,Mercredi,18h35
+A Normal Family,DRAME,27/09/2025,Mercredi,18h35
+A Normal Family,DRAME,27/09/2025,Mercredi,18h35
+A Normal Family,DRAME,27/09/2025,Mercredi,18h35
+A Normal Family,DRAME,27/09/2025,Mercredi,18h35
+A Normal Family,DRAME,28/09/2025,Jeudi,18h35
+A Normal Family,DRAME,29/09/2025,Vendredi,18h35
+A Normal Family,DRAME,30/09/2025,Samedi,18h35
+A Normal Family,DRAME,01/09/2025,Lundi,18h35
+A Normal Family,DRAME,02/09/2025,Mardi,18h35
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,27/09/2025,Mercredi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,28/09/2025,Jeudi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,29/09/2025,Vendredi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,30/09/2025,Samedi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,01/09/2025,Lundi,18h45
+La Venue de l'avenir,COMÉDIE DRAMATIQUE,02/09/2025,Mardi,18h45
+Wallace & Gromit : Les Inventuriers,ANIMATION,27/09/2025,Mercredi,11h00
+Wallace & Gromit : Les Inventuriers,ANIMATION,27/09/2025,Mercredi,15h40
+Wallace & Gromit : Les Inventuriers,ANIMATION,28/09/2025,Jeudi,15h40
+Wallace & Gromit : Les Inventuriers,ANIMATION,29/09/2025,Vendredi,10h30
+Wallace & Gromit : Les Inventuriers,ANIMATION,29/09/2025,Vendredi,15h40
+Wallace & Gromit : Les Inventuriers,ANIMATION,30/09/2025,Samedi,11h00
+Wallace & Gromit : Les Inventuriers,ANIMATION,30/09/2025,Samedi,15h40
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",27/09/2025,Mercredi,20h15
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",27/09/2025,Mercredi,15h30
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",28/09/2025,Jeudi,20h15
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",28/09/2025,Jeudi,15h30
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",29/09/2025,Vendredi,20h15
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",29/09/2025,Vendredi,15h30
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",30/09/2025,Samedi,20h15
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",30/09/2025,Samedi,15h30
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",01/09/2025,Lundi,15h30
+RÉTROSPECTIVE UN ÉTÉ SOUS TENSION : Blow Out,"FILM NOIR-POLICIER, DRAME, THRILLER",02/09/2025,Mardi,15h30
