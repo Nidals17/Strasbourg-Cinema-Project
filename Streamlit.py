@@ -55,7 +55,7 @@ def set_background(image_file):
 # Load the data
 st.title("🎬 Cinémas de Strasbourg")
 st.markdown("Regroupez et explorez les horaires des films de plusieurs cinémas.")
-set_background("data_movies/cinema_background.jpg") # Replace with your actual image path
+set_background("project_pictures/cinema_background.jpg") # Replace with your actual image path
 
 folder_path = "data_movies"
 df = load_and_concatenate_data(folder_path)

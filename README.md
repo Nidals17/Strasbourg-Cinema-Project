@@ -54,7 +54,7 @@ Developed by Nidal Souk
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](data_movies/Dashboard.png)
+![Dashboard Screenshot](project_pictures/Dashboard.png)
 
 
 

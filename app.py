@@ -47,3 +47,4 @@ if os.environ.get("GITHUB_ACTIONS", "false").lower() != "true":
     subprocess.run(["streamlit", "run", "Streamlit.py"])
 else:
     print("⛔ Skipping Streamlit launch on GitHub Actions")
+    
