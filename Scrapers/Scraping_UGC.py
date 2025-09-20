@@ -20,6 +20,7 @@ def get_film_links(driver, url):
     links = []
     logging.info("Navigating to main cinema page.")
     driver.get(url)
+    time.sleep(2)
 
     try:
         cookie_button = driver.find_element(By.CSS_SELECTOR, ".hagreed__continue.hagreed-validate")
