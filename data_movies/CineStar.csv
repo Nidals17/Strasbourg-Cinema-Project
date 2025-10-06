@@ -1,463 +1,188 @@
 titre,genre,date,jour,horaire
-FEFFS : Planètes,"ANIMATION, SCIENCE-FICTION",24/10/2025,Mercredi,11h00
-FEFFS : Planètes,"ANIMATION, SCIENCE-FICTION",25/10/2025,Jeudi,11h00
-FEFFS : Planètes,"ANIMATION, SCIENCE-FICTION",26/10/2025,Vendredi,11h00
-FEFFS : Planètes,"ANIMATION, SCIENCE-FICTION",27/10/2025,Samedi,11h00
-FEFFS : Planètes,"ANIMATION, SCIENCE-FICTION",28/10/2025,Dimanche,11h00
-FEFFS : Orwell: 2+2=5,DOCUMENTAIRE,24/10/2025,Mercredi,17h30
-FEFFS : Orwell: 2+2=5,DOCUMENTAIRE,25/10/2025,Jeudi,17h30
-FEFFS : Orwell: 2+2=5,DOCUMENTAIRE,26/10/2025,Vendredi,17h30
-AVANT-PREMIÈRE + RENCONTRE : Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",24/10/2025,Mercredi,17h15
-AVANT-PREMIÈRE + RENCONTRE : Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",25/10/2025,Jeudi,17h15
-AVANT-PREMIÈRE + RENCONTRE : Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",26/10/2025,Vendredi,17h15
-AVANT-PREMIÈRE + RENCONTRE : Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",27/10/2025,Samedi,17h15
-AVANT-PREMIÈRE + RENCONTRE : Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",28/10/2025,Dimanche,17h15
-FEFFS : Boorman and the Devil,DOCUMENTAIRE,24/10/2025,Mercredi,13h10
-FEFFS : Boorman and the Devil,DOCUMENTAIRE,25/10/2025,Jeudi,13h10
-FEFFS : Boorman and the Devil,DOCUMENTAIRE,26/10/2025,Vendredi,13h10
-FEFFS : Boorman and the Devil,DOCUMENTAIRE,27/10/2025,Samedi,13h10
-FEFFS : Boorman and the Devil,DOCUMENTAIRE,28/10/2025,Dimanche,13h10
-FEFFS : Courts métrages Internationaux,COURTS-MÉTRAGES,24/10/2025,Mercredi,19h45
-FEFFS : Courts métrages Internationaux,COURTS-MÉTRAGES,25/10/2025,Jeudi,19h45
-FEFFS : Courts métrages Internationaux,COURTS-MÉTRAGES,26/10/2025,Vendredi,19h45
-FEFFS : Courts métrages Internationaux,COURTS-MÉTRAGES,27/10/2025,Samedi,19h45
-FEFFS : Courts métrages Internationaux,COURTS-MÉTRAGES,28/10/2025,Dimanche,19h45
-FEFFS : Courts-Métrages Animation,COURTS-MÉTRAGES,24/10/2025,Mercredi,10h50
-FEFFS : Courts-Métrages Animation,COURTS-MÉTRAGES,25/10/2025,Jeudi,10h50
-FEFFS : Courts-Métrages Animation,COURTS-MÉTRAGES,26/10/2025,Vendredi,10h50
-FEFFS : Courts-Métrages Animation,COURTS-MÉTRAGES,27/10/2025,Samedi,10h50
-FEFFS : Courts-Métrages Animation,COURTS-MÉTRAGES,28/10/2025,Dimanche,10h50
-FEFFS : Courts-Métrages Made in France - partie 1,COURTS-MÉTRAGES,24/10/2025,Mercredi,13h10
-FEFFS : Courts-Métrages Made in France - partie 1,COURTS-MÉTRAGES,25/10/2025,Jeudi,13h10
-FEFFS : Courts-Métrages Made in France - partie 1,COURTS-MÉTRAGES,26/10/2025,Vendredi,13h10
-FEFFS : Courts-Métrages Made in France - partie 1,COURTS-MÉTRAGES,27/10/2025,Samedi,13h10
-FEFFS : Courts-Métrages Made in France - partie 2,COURTS-MÉTRAGES,24/10/2025,Mercredi,17h30
-FEFFS : Courts-Métrages Made in France - partie 2,COURTS-MÉTRAGES,25/10/2025,Jeudi,17h30
-FEFFS : Courts-Métrages Made in France - partie 2,COURTS-MÉTRAGES,26/10/2025,Vendredi,17h30
-FEFFS : Courts-Métrages Made in France - partie 2,COURTS-MÉTRAGES,27/10/2025,Samedi,17h30
-FEFFS : Deathstalker,"ACTION, AVENTURE, FANTASTIQUE",24/10/2025,Mercredi,00h00
-FEFFS : Deathstalker,"ACTION, AVENTURE, FANTASTIQUE",25/10/2025,Jeudi,00h00
-FEFFS : Deathstalker,"ACTION, AVENTURE, FANTASTIQUE",26/10/2025,Vendredi,00h00
-FEFFS : Deathstalker,"ACTION, AVENTURE, FANTASTIQUE",27/10/2025,Samedi,00h00
-FEFFS : Deathstalker,"ACTION, AVENTURE, FANTASTIQUE",28/10/2025,Dimanche,00h00
-FEFFS : Disforia,UNKNOWN,24/10/2025,Mercredi,19h45
-FEFFS : Disforia,UNKNOWN,25/10/2025,Jeudi,19h45
-FEFFS : Disforia,UNKNOWN,26/10/2025,Vendredi,19h45
-FEFFS : Disforia,UNKNOWN,27/10/2025,Samedi,19h45
-FEFFS : Disforia,UNKNOWN,28/10/2025,Dimanche,19h45
-FEFFS : Disforia,UNKNOWN,30/09/2025,Mardi,19h45
-FEFFS : Dog of God,UNKNOWN,24/10/2025,Mercredi,15h15
-FEFFS : Dog of God,UNKNOWN,25/10/2025,Jeudi,15h15
-FEFFS : Dog of God,UNKNOWN,26/10/2025,Vendredi,15h15
-FEFFS : Dog of God,UNKNOWN,27/10/2025,Samedi,15h15
-FEFFS : Dog of God,UNKNOWN,28/10/2025,Dimanche,15h15
-FEFFS : Dolly,UNKNOWN,24/10/2025,Mercredi,00h00
-FEFFS : Dolly,UNKNOWN,25/10/2025,Jeudi,00h00
-FEFFS : Dolly,UNKNOWN,26/10/2025,Vendredi,00h00
-FEFFS : Dolly,UNKNOWN,27/10/2025,Samedi,00h00
-FEFFS : Dolly,UNKNOWN,28/10/2025,Dimanche,00h00
-FEFFS : Dolly,UNKNOWN,30/09/2025,Mardi,00h00
-FEFFS : Forbidden City,UNKNOWN,24/10/2025,Mercredi,19h45
-FEFFS : Forbidden City,UNKNOWN,25/10/2025,Jeudi,19h45
-FEFFS : Forbidden City,UNKNOWN,26/10/2025,Vendredi,19h45
-FEFFS : Forbidden City,UNKNOWN,27/10/2025,Samedi,19h45
-FEFFS : Junk World,"ACTION, AVENTURE, ANIMATION, COMÉDIE, SCIENCE-FICTION",24/10/2025,Mercredi,15h15
-FEFFS : Junk World,"ACTION, AVENTURE, ANIMATION, COMÉDIE, SCIENCE-FICTION",25/10/2025,Jeudi,15h15
-FEFFS : Junk World,"ACTION, AVENTURE, ANIMATION, COMÉDIE, SCIENCE-FICTION",26/10/2025,Vendredi,15h15
-FEFFS : Junk World,"ACTION, AVENTURE, ANIMATION, COMÉDIE, SCIENCE-FICTION",27/10/2025,Samedi,15h15
-FEFFS : Junk World,"ACTION, AVENTURE, ANIMATION, COMÉDIE, SCIENCE-FICTION",28/10/2025,Dimanche,15h15
-FEFFS : Junk World,"ACTION, AVENTURE, ANIMATION, COMÉDIE, SCIENCE-FICTION",30/09/2025,Mardi,15h15
-FEFFS : La Ferme des animaux,ANIMATION,24/10/2025,Mercredi,11h00
-FEFFS : La Ferme des animaux,ANIMATION,25/10/2025,Jeudi,11h00
-FEFFS : La Ferme des animaux,ANIMATION,26/10/2025,Vendredi,11h00
-FEFFS : La Ferme des animaux,ANIMATION,27/10/2025,Samedi,11h00
-FEFFS : Les Cannibales,DRAME,24/10/2025,Mercredi,15h45
-FEFFS : Les Cannibales,DRAME,25/10/2025,Jeudi,15h45
-FEFFS : Les Cannibales,DRAME,26/10/2025,Vendredi,15h45
-FEFFS : Les Cannibales,DRAME,27/10/2025,Samedi,15h45
-FEFFS : New Group,EPOUVANTE-HORREUR,24/10/2025,Mercredi,22h25
-FEFFS : New Group,EPOUVANTE-HORREUR,25/10/2025,Jeudi,22h25
-FEFFS : New Group,EPOUVANTE-HORREUR,26/10/2025,Vendredi,22h25
-FEFFS : New Group,EPOUVANTE-HORREUR,27/10/2025,Samedi,22h25
-FEFFS : New Group,EPOUVANTE-HORREUR,28/10/2025,Dimanche,22h25
-FEFFS : Rabbit Trap,EPOUVANTE-HORREUR,24/10/2025,Mercredi,17h30
-FEFFS : Rabbit Trap,EPOUVANTE-HORREUR,25/10/2025,Jeudi,17h30
-FEFFS : Rabbit Trap,EPOUVANTE-HORREUR,26/10/2025,Vendredi,17h30
-FEFFS : Rabbit Trap,EPOUVANTE-HORREUR,27/10/2025,Samedi,17h30
-FEFFS : Silver Screamers,UNKNOWN,24/10/2025,Mercredi,10h45
-FEFFS : Silver Screamers,UNKNOWN,24/10/2025,Mercredi,13h20
-FEFFS : Silver Screamers,UNKNOWN,25/10/2025,Jeudi,10h45
-FEFFS : Silver Screamers,UNKNOWN,25/10/2025,Jeudi,13h20
-FEFFS : Silver Screamers,UNKNOWN,26/10/2025,Vendredi,10h45
-FEFFS : Silver Screamers,UNKNOWN,26/10/2025,Vendredi,13h20
-FEFFS : Silver Screamers,UNKNOWN,27/10/2025,Samedi,10h45
-FEFFS : Silver Screamers,UNKNOWN,28/10/2025,Dimanche,13h20
-FEFFS : Silver Screamers,UNKNOWN,30/09/2025,Mardi,13h20
-FEFFS : The Curse,UNKNOWN,24/10/2025,Mercredi,22h15
-FEFFS : The Curse,UNKNOWN,25/10/2025,Jeudi,22h15
-FEFFS : The Curse,UNKNOWN,26/10/2025,Vendredi,22h15
-FEFFS : The Holy Boy,"DRAME, EPOUVANTE-HORREUR",24/10/2025,Mercredi,19h00
-FEFFS : The Holy Boy,"DRAME, EPOUVANTE-HORREUR",25/10/2025,Jeudi,19h00
-FEFFS : The Holy Boy,"DRAME, EPOUVANTE-HORREUR",26/10/2025,Vendredi,19h00
-FEFFS : The Holy Boy,"DRAME, EPOUVANTE-HORREUR",27/10/2025,Samedi,19h00
-FEFFS : The Holy Boy,"DRAME, EPOUVANTE-HORREUR",28/10/2025,Dimanche,19h00
-FEFFS : Trapped,UNKNOWN,24/10/2025,Mercredi,17h15
-FEFFS : Trapped,UNKNOWN,25/10/2025,Jeudi,17h15
-FEFFS : Trapped,UNKNOWN,26/10/2025,Vendredi,17h15
-FEFFS : Trapped,UNKNOWN,27/10/2025,Samedi,17h15
-FEFFS : Trapped,UNKNOWN,28/10/2025,Dimanche,17h15
-FEFFS : Trapped,UNKNOWN,30/09/2025,Mardi,17h15
-FEFFS : Zero,"ACTION, COMÉDIE, THRILLER",24/10/2025,Mercredi,21h45
-FEFFS : Zero,"ACTION, COMÉDIE, THRILLER",25/10/2025,Jeudi,21h45
-FEFFS : Zero,"ACTION, COMÉDIE, THRILLER",26/10/2025,Vendredi,21h45
-FEFFS : Zero,"ACTION, COMÉDIE, THRILLER",27/10/2025,Samedi,21h45
-FEFFS : Zero,"ACTION, COMÉDIE, THRILLER",28/10/2025,Dimanche,21h45
-FEFFS : Zhaza,UNKNOWN,24/10/2025,Mercredi,22h15
-FEFFS : Zhaza,UNKNOWN,25/10/2025,Jeudi,22h15
-FEFFS : Zhaza,UNKNOWN,26/10/2025,Vendredi,22h15
-FEFFS : Zhaza,UNKNOWN,27/10/2025,Samedi,22h15
-FEFFS : Zhaza,UNKNOWN,28/10/2025,Dimanche,22h15
-FEFFS : Zhaza,UNKNOWN,30/09/2025,Mardi,22h15
-Classe moyenne,COMÉDIE,24/10/2025,Mercredi,10h40
-Classe moyenne,COMÉDIE,24/10/2025,Mercredi,13h05
-Classe moyenne,COMÉDIE,24/10/2025,Mercredi,15h15
-Classe moyenne,COMÉDIE,24/10/2025,Mercredi,17h25
-Classe moyenne,COMÉDIE,24/10/2025,Mercredi,19h35
-Classe moyenne,COMÉDIE,25/10/2025,Jeudi,13h05
-Classe moyenne,COMÉDIE,25/10/2025,Jeudi,15h15
-Classe moyenne,COMÉDIE,25/10/2025,Jeudi,17h25
-Classe moyenne,COMÉDIE,25/10/2025,Jeudi,19h35
-Classe moyenne,COMÉDIE,26/10/2025,Vendredi,13h05
-Classe moyenne,COMÉDIE,26/10/2025,Vendredi,15h15
-Classe moyenne,COMÉDIE,26/10/2025,Vendredi,17h25
-Classe moyenne,COMÉDIE,26/10/2025,Vendredi,19h35
-Classe moyenne,COMÉDIE,27/10/2025,Samedi,10h40
-Classe moyenne,COMÉDIE,27/10/2025,Samedi,13h05
-Classe moyenne,COMÉDIE,27/10/2025,Samedi,15h15
-Classe moyenne,COMÉDIE,27/10/2025,Samedi,17h25
-Classe moyenne,COMÉDIE,27/10/2025,Samedi,19h35
-Classe moyenne,COMÉDIE,28/10/2025,Dimanche,10h40
-Classe moyenne,COMÉDIE,28/10/2025,Dimanche,13h05
-Classe moyenne,COMÉDIE,28/10/2025,Dimanche,15h15
-Classe moyenne,COMÉDIE,28/10/2025,Dimanche,17h25
-Classe moyenne,COMÉDIE,28/10/2025,Dimanche,19h35
-Classe moyenne,COMÉDIE,30/09/2025,Mardi,13h05
-Classe moyenne,COMÉDIE,30/09/2025,Mardi,15h15
-Classe moyenne,COMÉDIE,30/09/2025,Mardi,17h25
-Classe moyenne,COMÉDIE,30/09/2025,Mardi,19h35
-Une bataille après l'autre,"ACTION, COMÉDIE",24/10/2025,Mercredi,10h30
-Une bataille après l'autre,"ACTION, COMÉDIE",25/10/2025,Jeudi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",26/10/2025,Vendredi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",27/10/2025,Samedi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",24/10/2025,Mercredi,13h40
-Une bataille après l'autre,"ACTION, COMÉDIE",24/10/2025,Mercredi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",24/10/2025,Mercredi,20h00
-Une bataille après l'autre,"ACTION, COMÉDIE",25/10/2025,Jeudi,13h40
-Une bataille après l'autre,"ACTION, COMÉDIE",25/10/2025,Jeudi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",25/10/2025,Jeudi,20h00
-Une bataille après l'autre,"ACTION, COMÉDIE",26/10/2025,Vendredi,13h40
-Une bataille après l'autre,"ACTION, COMÉDIE",26/10/2025,Vendredi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",26/10/2025,Vendredi,20h00
-Une bataille après l'autre,"ACTION, COMÉDIE",27/10/2025,Samedi,10h30
-Une bataille après l'autre,"ACTION, COMÉDIE",27/10/2025,Samedi,13h40
-Une bataille après l'autre,"ACTION, COMÉDIE",27/10/2025,Samedi,20h00
-Une bataille après l'autre,"ACTION, COMÉDIE",28/10/2025,Dimanche,10h30
-Une bataille après l'autre,"ACTION, COMÉDIE",28/10/2025,Dimanche,13h40
-Une bataille après l'autre,"ACTION, COMÉDIE",28/10/2025,Dimanche,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",28/10/2025,Dimanche,20h00
-Une bataille après l'autre,"ACTION, COMÉDIE",30/09/2025,Mardi,13h40
-Une bataille après l'autre,"ACTION, COMÉDIE",30/09/2025,Mardi,16h50
-Une bataille après l'autre,"ACTION, COMÉDIE",30/09/2025,Mardi,20h00
-L'Intérêt d'Adam,DRAME,24/10/2025,Mercredi,13h45
-L'Intérêt d'Adam,DRAME,24/10/2025,Mercredi,18h00
-L'Intérêt d'Adam,DRAME,24/10/2025,Mercredi,20h00
-L'Intérêt d'Adam,DRAME,25/10/2025,Jeudi,13h45
-L'Intérêt d'Adam,DRAME,25/10/2025,Jeudi,18h00
-L'Intérêt d'Adam,DRAME,26/10/2025,Vendredi,13h45
-L'Intérêt d'Adam,DRAME,26/10/2025,Vendredi,18h00
-L'Intérêt d'Adam,DRAME,27/10/2025,Samedi,13h45
-L'Intérêt d'Adam,DRAME,27/10/2025,Samedi,18h00
-L'Intérêt d'Adam,DRAME,28/10/2025,Dimanche,13h45
-L'Intérêt d'Adam,DRAME,28/10/2025,Dimanche,18h00
-L'Intérêt d'Adam,DRAME,30/09/2025,Mardi,13h45
-L'Intérêt d'Adam,DRAME,30/09/2025,Mardi,18h00
-La Tour de glace,"FANTASTIQUE, DRAME",24/10/2025,Mercredi,13h15
-La Tour de glace,"FANTASTIQUE, DRAME",25/10/2025,Jeudi,13h15
-La Tour de glace,"FANTASTIQUE, DRAME",26/10/2025,Vendredi,13h15
-La Tour de glace,"FANTASTIQUE, DRAME",27/10/2025,Samedi,13h15
-La Tour de glace,"FANTASTIQUE, DRAME",28/10/2025,Dimanche,13h15
-La Tour de glace,"FANTASTIQUE, DRAME",30/09/2025,Mardi,13h15
-Left-Handed Girl,DRAME,24/10/2025,Mercredi,13h00
-Left-Handed Girl,DRAME,24/10/2025,Mercredi,15h40
-Left-Handed Girl,DRAME,24/10/2025,Mercredi,21h45
-Left-Handed Girl,DRAME,25/10/2025,Jeudi,13h00
-Left-Handed Girl,DRAME,25/10/2025,Jeudi,15h40
-Left-Handed Girl,DRAME,25/10/2025,Jeudi,17h30
-Left-Handed Girl,DRAME,25/10/2025,Jeudi,21h45
-Left-Handed Girl,DRAME,26/10/2025,Vendredi,15h40
-Left-Handed Girl,DRAME,26/10/2025,Vendredi,21h45
-Left-Handed Girl,DRAME,27/10/2025,Samedi,15h40
-Left-Handed Girl,DRAME,27/10/2025,Samedi,21h45
-Left-Handed Girl,DRAME,28/10/2025,Dimanche,15h40
-Left-Handed Girl,DRAME,28/10/2025,Dimanche,21h45
-Left-Handed Girl,DRAME,30/09/2025,Mardi,15h40
-Left-Handed Girl,DRAME,30/09/2025,Mardi,21h45
-Oui,DRAME,24/10/2025,Mercredi,16h55
-Oui,DRAME,24/10/2025,Mercredi,20h00
-Oui,DRAME,25/10/2025,Jeudi,16h55
-Oui,DRAME,25/10/2025,Jeudi,20h00
-Oui,DRAME,26/10/2025,Vendredi,16h55
-Oui,DRAME,26/10/2025,Vendredi,20h00
-Oui,DRAME,27/10/2025,Samedi,16h55
-Oui,DRAME,27/10/2025,Samedi,20h00
-Oui,DRAME,28/10/2025,Dimanche,16h55
-Oui,DRAME,28/10/2025,Dimanche,20h00
-Oui,DRAME,30/09/2025,Mardi,16h55
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,24/10/2025,Mercredi,10h55
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,24/10/2025,Mercredi,13h10
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,24/10/2025,Mercredi,17h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,24/10/2025,Mercredi,19h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,25/10/2025,Jeudi,13h10
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,25/10/2025,Jeudi,17h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,25/10/2025,Jeudi,19h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,26/10/2025,Vendredi,13h10
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,26/10/2025,Vendredi,17h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,26/10/2025,Vendredi,19h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,27/10/2025,Samedi,10h55
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,27/10/2025,Samedi,13h10
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,27/10/2025,Samedi,17h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,27/10/2025,Samedi,19h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,28/10/2025,Dimanche,10h55
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,28/10/2025,Dimanche,13h10
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,28/10/2025,Dimanche,17h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,28/10/2025,Dimanche,19h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,30/09/2025,Mardi,13h10
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,30/09/2025,Mardi,17h20
-SÉANCE SPÉCIALE + RENCONTRE : Nino,DRAME,30/09/2025,Mardi,19h20
-The Doom Generation,COMÉDIE DRAMATIQUE,24/10/2025,Mercredi,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,24/10/2025,Mercredi,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,25/10/2025,Jeudi,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,25/10/2025,Jeudi,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,26/10/2025,Vendredi,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,27/10/2025,Samedi,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,28/10/2025,Dimanche,21h20
-The Doom Generation,COMÉDIE DRAMATIQUE,30/09/2025,Mardi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",24/10/2025,Mercredi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",25/10/2025,Jeudi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",25/10/2025,Jeudi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",26/10/2025,Vendredi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",26/10/2025,Vendredi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",27/10/2025,Samedi,21h20
-Totally F***ed Up,"COMÉDIE DRAMATIQUE, ROMANCE",28/10/2025,Dimanche,21h20
-Connemara,DRAME,24/10/2025,Mercredi,10h50
-Connemara,DRAME,24/10/2025,Mercredi,13h20
-Connemara,DRAME,24/10/2025,Mercredi,15h10
-Connemara,DRAME,24/10/2025,Mercredi,17h55
-Connemara,DRAME,24/10/2025,Mercredi,20h20
-Connemara,DRAME,25/10/2025,Jeudi,13h20
-Connemara,DRAME,25/10/2025,Jeudi,15h10
-Connemara,DRAME,25/10/2025,Jeudi,17h55
-Connemara,DRAME,25/10/2025,Jeudi,20h20
-Connemara,DRAME,26/10/2025,Vendredi,13h20
-Connemara,DRAME,26/10/2025,Vendredi,17h55
-Connemara,DRAME,26/10/2025,Vendredi,20h20
-Connemara,DRAME,27/10/2025,Samedi,10h50
-Connemara,DRAME,27/10/2025,Samedi,13h20
-Connemara,DRAME,27/10/2025,Samedi,17h55
-Connemara,DRAME,27/10/2025,Samedi,20h20
-Connemara,DRAME,28/10/2025,Dimanche,10h50
-Connemara,DRAME,28/10/2025,Dimanche,13h20
-Connemara,DRAME,28/10/2025,Dimanche,17h55
-Connemara,DRAME,28/10/2025,Dimanche,20h20
-Connemara,DRAME,30/09/2025,Mardi,13h20
-Connemara,DRAME,30/09/2025,Mardi,17h55
-Connemara,DRAME,30/09/2025,Mardi,20h20
-Libre échange,"COMÉDIE, ROMANCE",24/10/2025,Mercredi,10h45
-Libre échange,"COMÉDIE, ROMANCE",24/10/2025,Mercredi,17h40
-Libre échange,"COMÉDIE, ROMANCE",24/10/2025,Mercredi,19h45
-Libre échange,"COMÉDIE, ROMANCE",25/10/2025,Jeudi,17h40
-Libre échange,"COMÉDIE, ROMANCE",25/10/2025,Jeudi,19h45
-Libre échange,"COMÉDIE, ROMANCE",26/10/2025,Vendredi,17h40
-Libre échange,"COMÉDIE, ROMANCE",27/10/2025,Samedi,17h40
-Libre échange,"COMÉDIE, ROMANCE",28/10/2025,Dimanche,17h40
-Libre échange,"COMÉDIE, ROMANCE",30/09/2025,Mardi,17h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",24/10/2025,Mercredi,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",24/10/2025,Mercredi,15h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",25/10/2025,Jeudi,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",25/10/2025,Jeudi,15h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",25/10/2025,Jeudi,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",25/10/2025,Jeudi,15h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",26/10/2025,Vendredi,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",26/10/2025,Vendredi,15h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",26/10/2025,Vendredi,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",26/10/2025,Vendredi,15h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",27/10/2025,Samedi,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",27/10/2025,Samedi,15h40
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",28/10/2025,Dimanche,11h00
-Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",28/10/2025,Dimanche,15h40
-Sirat,DRAME,24/10/2025,Mercredi,10h40
-Sirat,DRAME,24/10/2025,Mercredi,13h30
-Sirat,DRAME,24/10/2025,Mercredi,15h50
-Sirat,DRAME,24/10/2025,Mercredi,18h10
-Sirat,DRAME,24/10/2025,Mercredi,20h30
-Sirat,DRAME,25/10/2025,Jeudi,13h30
-Sirat,DRAME,25/10/2025,Jeudi,15h50
-Sirat,DRAME,25/10/2025,Jeudi,18h10
-Sirat,DRAME,25/10/2025,Jeudi,20h30
-Sirat,DRAME,26/10/2025,Vendredi,13h30
-Sirat,DRAME,26/10/2025,Vendredi,15h50
-Sirat,DRAME,26/10/2025,Vendredi,18h10
-Sirat,DRAME,26/10/2025,Vendredi,20h30
-Sirat,DRAME,27/10/2025,Samedi,10h40
-Sirat,DRAME,27/10/2025,Samedi,13h30
-Sirat,DRAME,27/10/2025,Samedi,15h50
-Sirat,DRAME,27/10/2025,Samedi,18h10
-Sirat,DRAME,27/10/2025,Samedi,20h30
-Sirat,DRAME,28/10/2025,Dimanche,10h40
-Sirat,DRAME,28/10/2025,Dimanche,13h30
-Sirat,DRAME,28/10/2025,Dimanche,15h50
-Sirat,DRAME,28/10/2025,Dimanche,18h10
-Sirat,DRAME,28/10/2025,Dimanche,20h30
-Sirat,DRAME,30/09/2025,Mardi,13h30
-Sirat,DRAME,30/09/2025,Mardi,15h50
-Sirat,DRAME,30/09/2025,Mardi,18h10
-Sirat,DRAME,30/09/2025,Mardi,20h30
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,24/10/2025,Mercredi,10h40
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,24/10/2025,Mercredi,15h30
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,25/10/2025,Jeudi,15h30
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,26/10/2025,Vendredi,15h30
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,27/10/2025,Samedi,15h30
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,28/10/2025,Dimanche,15h30
-Chroniques d'Haïfa - Histoires palestiniennes,DRAME,30/09/2025,Mardi,15h30
-La Femme qui en savait trop,DRAME,24/10/2025,Mercredi,15h15
-La Femme qui en savait trop,DRAME,25/10/2025,Jeudi,15h15
-La Femme qui en savait trop,DRAME,26/10/2025,Vendredi,15h15
-La Femme qui en savait trop,DRAME,27/10/2025,Samedi,15h15
-La Femme qui en savait trop,DRAME,28/10/2025,Dimanche,15h15
-La Femme qui en savait trop,DRAME,30/09/2025,Mardi,15h15
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/10/2025,Mercredi,17h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",24/10/2025,Mercredi,19h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",25/10/2025,Jeudi,17h00
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",25/10/2025,Jeudi,19h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",26/10/2025,Vendredi,19h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",27/10/2025,Samedi,19h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",28/10/2025,Dimanche,19h45
-Valeur sentimentale,"COMÉDIE DRAMATIQUE, DRAME, COMÉDIE",30/09/2025,Mardi,19h45
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,24/10/2025,Mercredi,10h40
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,24/10/2025,Mercredi,13h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,24/10/2025,Mercredi,15h25
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,24/10/2025,Mercredi,20h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,25/10/2025,Jeudi,13h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,25/10/2025,Jeudi,15h25
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,25/10/2025,Jeudi,20h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,26/10/2025,Vendredi,13h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,26/10/2025,Vendredi,15h25
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,26/10/2025,Vendredi,20h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,27/10/2025,Samedi,10h40
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,27/10/2025,Samedi,13h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,27/10/2025,Samedi,15h25
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,27/10/2025,Samedi,20h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,28/10/2025,Dimanche,10h40
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,28/10/2025,Dimanche,13h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,28/10/2025,Dimanche,15h25
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,28/10/2025,Dimanche,20h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,30/09/2025,Mardi,13h10
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,30/09/2025,Mardi,15h25
-CINÉ-DÉBAT : Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,30/09/2025,Mardi,20h10
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",24/10/2025,Mercredi,22h00
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",24/10/2025,Mercredi,17h30
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",25/10/2025,Jeudi,22h00
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",25/10/2025,Jeudi,17h30
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",26/10/2025,Vendredi,22h00
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",27/10/2025,Samedi,17h30
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",28/10/2025,Dimanche,17h30
-FEFFS : Mother Land,"EPOUVANTE-HORREUR, THRILLER",30/09/2025,Mardi,17h30
-FEFFS : Les Dents de la Mer,"THRILLER, ACTION",24/10/2025,Mercredi,21h50
-FEFFS : Les Dents de la Mer,"THRILLER, ACTION",25/10/2025,Jeudi,21h50
-FEFFS : Les Dents de la Mer,"THRILLER, ACTION",26/10/2025,Vendredi,21h50
-FEFFS : Les Dents de la Mer,"THRILLER, ACTION",27/10/2025,Samedi,21h50
-FEFFS : Les Dents de la Mer,"THRILLER, ACTION",28/10/2025,Dimanche,21h50
-Les Trois jours du Condor,"THRILLER, ESPIONNAGE",24/10/2025,Mercredi,19h50
-Les Trois jours du Condor,"THRILLER, ESPIONNAGE",25/10/2025,Jeudi,19h50
-Les Trois jours du Condor,"THRILLER, ESPIONNAGE",26/10/2025,Vendredi,19h50
-Les Trois jours du Condor,"THRILLER, ESPIONNAGE",27/10/2025,Samedi,19h50
-Les Trois jours du Condor,"THRILLER, ESPIONNAGE",28/10/2025,Dimanche,19h50
-Les Trois jours du Condor,"THRILLER, ESPIONNAGE",30/09/2025,Mardi,19h50
-FEFFS : Crawl,"EPOUVANTE-HORREUR, THRILLER",24/10/2025,Mercredi,22h10
-FEFFS : Crawl,"EPOUVANTE-HORREUR, THRILLER",25/10/2025,Jeudi,22h10
-FEFFS : Crawl,"EPOUVANTE-HORREUR, THRILLER",26/10/2025,Vendredi,22h10
-FEFFS : Crawl,"EPOUVANTE-HORREUR, THRILLER",27/10/2025,Samedi,22h10
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",24/10/2025,Mercredi,13h40
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",24/10/2025,Mercredi,19h45
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",25/10/2025,Jeudi,13h40
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",25/10/2025,Jeudi,19h45
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",26/10/2025,Vendredi,13h40
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",27/10/2025,Samedi,19h45
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",28/10/2025,Dimanche,19h45
-FEFFS : Le Testament du docteur Mabuse,"DRAME, FANTASTIQUE",30/09/2025,Mardi,19h45
-FEFFS : The Dead Zone,"FANTASTIQUE, EPOUVANTE-HORREUR, THRILLER",24/10/2025,Mercredi,17h45
-FEFFS : The Dead Zone,"FANTASTIQUE, EPOUVANTE-HORREUR, THRILLER",25/10/2025,Jeudi,17h45
-FEFFS : The Dead Zone,"FANTASTIQUE, EPOUVANTE-HORREUR, THRILLER",26/10/2025,Vendredi,17h45
-FEFFS : Horns,"DRAME, FANTASTIQUE, EPOUVANTE-HORREUR",24/10/2025,Mercredi,19h15
-FEFFS : Horns,"DRAME, FANTASTIQUE, EPOUVANTE-HORREUR",25/10/2025,Jeudi,19h15
-FEFFS : Horns,"DRAME, FANTASTIQUE, EPOUVANTE-HORREUR",26/10/2025,Vendredi,19h15
-FEFFS : Horns,"DRAME, FANTASTIQUE, EPOUVANTE-HORREUR",27/10/2025,Samedi,19h15
-FEFFS : Horns,"DRAME, FANTASTIQUE, EPOUVANTE-HORREUR",28/10/2025,Dimanche,19h15
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",24/10/2025,Mercredi,15h30
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",24/10/2025,Mercredi,13h00
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",25/10/2025,Jeudi,15h30
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",25/10/2025,Jeudi,13h00
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",26/10/2025,Vendredi,15h30
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",26/10/2025,Vendredi,13h00
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",27/10/2025,Samedi,15h30
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",27/10/2025,Samedi,13h00
-"FEFFS : Alphaville, une étrange aventure de Lemmy Caution","FILM NOIR-POLICIER, DRAME, SCIENCE-FICTION",28/10/2025,Dimanche,15h30
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",24/10/2025,Mercredi,16h00
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",24/10/2025,Mercredi,13h30
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",25/10/2025,Jeudi,16h00
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",25/10/2025,Jeudi,13h30
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",26/10/2025,Vendredi,16h00
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",27/10/2025,Samedi,13h30
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",28/10/2025,Dimanche,13h30
-FEFFS : THX 1138,"SCIENCE-FICTION, THRILLER",30/09/2025,Mardi,13h30
-CINÉ-DÉBAT : Eternal Sunshine of the Spotless Mind,"SCIENCE-FICTION, DRAME, COMÉDIE",24/10/2025,Mercredi,20h15
-CINÉ-DÉBAT : Eternal Sunshine of the Spotless Mind,"SCIENCE-FICTION, DRAME, COMÉDIE",25/10/2025,Jeudi,20h15
-CINÉ-DÉBAT : Eternal Sunshine of the Spotless Mind,"SCIENCE-FICTION, DRAME, COMÉDIE",26/10/2025,Vendredi,20h15
-CINÉ-DÉBAT : Eternal Sunshine of the Spotless Mind,"SCIENCE-FICTION, DRAME, COMÉDIE",27/10/2025,Samedi,20h15
-CINÉ-DÉBAT : Eternal Sunshine of the Spotless Mind,"SCIENCE-FICTION, DRAME, COMÉDIE",28/10/2025,Dimanche,20h15
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,24/10/2025,Mercredi,13h30
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,24/10/2025,Mercredi,22h00
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,25/10/2025,Jeudi,13h30
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,25/10/2025,Jeudi,22h00
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,26/10/2025,Vendredi,13h30
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,26/10/2025,Vendredi,22h00
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,27/10/2025,Samedi,13h30
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,27/10/2025,Samedi,22h00
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,28/10/2025,Dimanche,13h30
-"FEFFS : Jin-Roh, la brigade des loups",ANIMATION,30/09/2025,Mardi,22h00
-FEFFS : Starship Troopers,"ACTION, SCIENCE-FICTION, GUERRE",24/10/2025,Mercredi,21h45
-FEFFS : Starship Troopers,"ACTION, SCIENCE-FICTION, GUERRE",25/10/2025,Jeudi,21h45
-FEFFS : Starship Troopers,"ACTION, SCIENCE-FICTION, GUERRE",26/10/2025,Vendredi,21h45
-FEFFS : Starship Troopers,"ACTION, SCIENCE-FICTION, GUERRE",27/10/2025,Samedi,21h45
-FEFFS : Starship Troopers,"ACTION, SCIENCE-FICTION, GUERRE",28/10/2025,Dimanche,21h45
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",24/10/2025,Mercredi,19h45
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",24/10/2025,Mercredi,15h20
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",25/10/2025,Jeudi,19h45
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",25/10/2025,Jeudi,15h20
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",26/10/2025,Vendredi,19h45
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",27/10/2025,Samedi,15h20
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",28/10/2025,Dimanche,15h20
-FEFFS : La Servante écarlate,"DRAME, SCIENCE-FICTION, THRILLER",30/09/2025,Mardi,15h20
-FEFFS : 1984,SCIENCE-FICTION,24/10/2025,Mercredi,20h00
-FEFFS : 1984,SCIENCE-FICTION,24/10/2025,Mercredi,17h05
-FEFFS : 1984,SCIENCE-FICTION,25/10/2025,Jeudi,20h00
-FEFFS : 1984,SCIENCE-FICTION,25/10/2025,Jeudi,17h05
-FEFFS : 1984,SCIENCE-FICTION,26/10/2025,Vendredi,20h00
-FEFFS : 1984,SCIENCE-FICTION,26/10/2025,Vendredi,17h05
-FEFFS : 1984,SCIENCE-FICTION,27/10/2025,Samedi,20h00
-FEFFS : 1984,SCIENCE-FICTION,28/10/2025,Dimanche,17h05
-FEFFS : Fahrenheit 451,"FANTASTIQUE, SCIENCE-FICTION",24/10/2025,Mercredi,14h55
-FEFFS : Fahrenheit 451,"FANTASTIQUE, SCIENCE-FICTION",25/10/2025,Jeudi,14h55
-FEFFS : Fahrenheit 451,"FANTASTIQUE, SCIENCE-FICTION",26/10/2025,Vendredi,14h55
-FEFFS : Fahrenheit 451,"FANTASTIQUE, SCIENCE-FICTION",27/10/2025,Samedi,14h55
-FEFFS : Fahrenheit 451,"FANTASTIQUE, SCIENCE-FICTION",28/10/2025,Dimanche,14h55
+La Mort n'existe pas,ANIMATION,01/11/2025,Mercredi,10h55
+La Mort n'existe pas,ANIMATION,01/11/2025,Mercredi,21h20
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,21h20
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,10h55
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,21h20
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,10h55
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,21h20
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,21h20
+La Mort n'existe pas,ANIMATION,02/11/2025,Jeudi,21h20
+La Mort n'existe pas,ANIMATION,03/11/2025,Vendredi,21h20
+La Mort n'existe pas,ANIMATION,04/11/2025,Samedi,10h55
+La Mort n'existe pas,ANIMATION,04/11/2025,Samedi,21h20
+La Mort n'existe pas,ANIMATION,05/11/2025,Dimanche,10h55
+La Mort n'existe pas,ANIMATION,05/11/2025,Dimanche,21h20
+La Mort n'existe pas,ANIMATION,07/10/2025,Mardi,21h20
+Stups,DOCUMENTAIRE,01/11/2025,Mercredi,11h10
+Stups,DOCUMENTAIRE,01/11/2025,Mercredi,17h20
+Stups,DOCUMENTAIRE,02/11/2025,Jeudi,17h20
+Stups,DOCUMENTAIRE,03/11/2025,Vendredi,17h20
+Stups,DOCUMENTAIRE,04/11/2025,Samedi,11h10
+Stups,DOCUMENTAIRE,04/11/2025,Samedi,17h20
+Stups,DOCUMENTAIRE,05/11/2025,Dimanche,17h20
+Stups,DOCUMENTAIRE,07/10/2025,Mardi,17h20
+Un simple accident,DRAME,01/11/2025,Mercredi,10h50
+Un simple accident,DRAME,01/11/2025,Mercredi,13h05
+Un simple accident,DRAME,01/11/2025,Mercredi,15h15
+Un simple accident,DRAME,01/11/2025,Mercredi,17h25
+Un simple accident,DRAME,01/11/2025,Mercredi,19h35
+Un simple accident,DRAME,01/11/2025,Mercredi,21h45
+Un simple accident,DRAME,02/11/2025,Jeudi,13h05
+Un simple accident,DRAME,02/11/2025,Jeudi,15h15
+Un simple accident,DRAME,02/11/2025,Jeudi,17h25
+Un simple accident,DRAME,02/11/2025,Jeudi,19h35
+Un simple accident,DRAME,02/11/2025,Jeudi,21h45
+Un simple accident,DRAME,03/11/2025,Vendredi,13h05
+Un simple accident,DRAME,03/11/2025,Vendredi,15h15
+Un simple accident,DRAME,03/11/2025,Vendredi,17h25
+Un simple accident,DRAME,03/11/2025,Vendredi,19h35
+Un simple accident,DRAME,03/11/2025,Vendredi,21h45
+Un simple accident,DRAME,04/11/2025,Samedi,10h50
+Un simple accident,DRAME,04/11/2025,Samedi,13h05
+Un simple accident,DRAME,04/11/2025,Samedi,15h15
+Un simple accident,DRAME,04/11/2025,Samedi,17h25
+Un simple accident,DRAME,04/11/2025,Samedi,19h35
+Un simple accident,DRAME,04/11/2025,Samedi,21h45
+Un simple accident,DRAME,05/11/2025,Dimanche,10h50
+Un simple accident,DRAME,05/11/2025,Dimanche,13h05
+Un simple accident,DRAME,05/11/2025,Dimanche,15h15
+Un simple accident,DRAME,05/11/2025,Dimanche,17h25
+Un simple accident,DRAME,05/11/2025,Dimanche,19h35
+Un simple accident,DRAME,05/11/2025,Dimanche,21h45
+Un simple accident,DRAME,07/10/2025,Mardi,13h05
+Un simple accident,DRAME,07/10/2025,Mardi,15h15
+Un simple accident,DRAME,07/10/2025,Mardi,17h25
+Un simple accident,DRAME,07/10/2025,Mardi,19h35
+Un simple accident,DRAME,07/10/2025,Mardi,21h45
+Classe moyenne,COMÉDIE,01/11/2025,Mercredi,15h15
+Classe moyenne,COMÉDIE,01/11/2025,Mercredi,17h25
+Classe moyenne,COMÉDIE,01/11/2025,Mercredi,19h35
+Classe moyenne,COMÉDIE,02/11/2025,Jeudi,13h05
+Classe moyenne,COMÉDIE,02/11/2025,Jeudi,15h15
+Classe moyenne,COMÉDIE,02/11/2025,Jeudi,17h25
+Classe moyenne,COMÉDIE,02/11/2025,Jeudi,19h35
+Classe moyenne,COMÉDIE,03/11/2025,Vendredi,13h05
+Classe moyenne,COMÉDIE,03/11/2025,Vendredi,15h15
+Classe moyenne,COMÉDIE,03/11/2025,Vendredi,17h25
+Classe moyenne,COMÉDIE,03/11/2025,Vendredi,19h35
+Classe moyenne,COMÉDIE,04/11/2025,Samedi,13h05
+Classe moyenne,COMÉDIE,04/11/2025,Samedi,15h15
+Classe moyenne,COMÉDIE,04/11/2025,Samedi,17h25
+Classe moyenne,COMÉDIE,04/11/2025,Samedi,19h35
+Classe moyenne,COMÉDIE,05/11/2025,Dimanche,13h05
+Classe moyenne,COMÉDIE,05/11/2025,Dimanche,15h15
+Classe moyenne,COMÉDIE,05/11/2025,Dimanche,17h25
+Classe moyenne,COMÉDIE,05/11/2025,Dimanche,19h35
+Classe moyenne,COMÉDIE,07/10/2025,Mardi,13h05
+Classe moyenne,COMÉDIE,07/10/2025,Mardi,19h35
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,01/11/2025,Mercredi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,01/11/2025,Mercredi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,02/11/2025,Jeudi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,02/11/2025,Jeudi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,03/11/2025,Vendredi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,03/11/2025,Vendredi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,04/11/2025,Samedi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,04/11/2025,Samedi,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,05/11/2025,Dimanche,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,05/11/2025,Dimanche,15h15
+Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,07/10/2025,Mardi,15h15
+Une bataille après l'autre,"ACTION, COMÉDIE",01/11/2025,Mercredi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",01/11/2025,Mercredi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",01/11/2025,Mercredi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",01/11/2025,Mercredi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",01/11/2025,Mercredi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",01/11/2025,Mercredi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",02/11/2025,Jeudi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",02/11/2025,Jeudi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",02/11/2025,Jeudi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",02/11/2025,Jeudi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",02/11/2025,Jeudi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",02/11/2025,Jeudi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",03/11/2025,Vendredi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",03/11/2025,Vendredi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",03/11/2025,Vendredi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",03/11/2025,Vendredi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",03/11/2025,Vendredi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",03/11/2025,Vendredi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",04/11/2025,Samedi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",04/11/2025,Samedi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",04/11/2025,Samedi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",04/11/2025,Samedi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",04/11/2025,Samedi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",04/11/2025,Samedi,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",05/11/2025,Dimanche,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",05/11/2025,Dimanche,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",05/11/2025,Dimanche,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",05/11/2025,Dimanche,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",05/11/2025,Dimanche,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",05/11/2025,Dimanche,20h00
+Une bataille après l'autre,"ACTION, COMÉDIE",07/10/2025,Mardi,13h35
+Une bataille après l'autre,"ACTION, COMÉDIE",07/10/2025,Mardi,16h50
+Une bataille après l'autre,"ACTION, COMÉDIE",07/10/2025,Mardi,20h00
+Left-Handed Girl,DRAME,01/11/2025,Mercredi,21h45
+Left-Handed Girl,DRAME,01/11/2025,Mercredi,21h45
+Left-Handed Girl,DRAME,02/11/2025,Jeudi,21h45
+Left-Handed Girl,DRAME,02/11/2025,Jeudi,21h45
+Left-Handed Girl,DRAME,03/11/2025,Vendredi,21h45
+Left-Handed Girl,DRAME,03/11/2025,Vendredi,21h45
+Left-Handed Girl,DRAME,04/11/2025,Samedi,21h45
+Left-Handed Girl,DRAME,04/11/2025,Samedi,21h45
+Left-Handed Girl,DRAME,05/11/2025,Dimanche,21h45
+Left-Handed Girl,DRAME,05/11/2025,Dimanche,21h45
+Left-Handed Girl,DRAME,07/10/2025,Mardi,21h45
+Nino,DRAME,01/11/2025,Mercredi,13h10
+Nino,DRAME,01/11/2025,Mercredi,19h15
+Nino,DRAME,02/11/2025,Jeudi,13h10
+Nino,DRAME,02/11/2025,Jeudi,15h15
+Nino,DRAME,03/11/2025,Vendredi,13h10
+Nino,DRAME,03/11/2025,Vendredi,15h15
+Nino,DRAME,03/11/2025,Vendredi,19h15
+Nino,DRAME,04/11/2025,Samedi,13h10
+Nino,DRAME,04/11/2025,Samedi,15h15
+Nino,DRAME,04/11/2025,Samedi,19h15
+Nino,DRAME,05/11/2025,Dimanche,13h10
+Nino,DRAME,05/11/2025,Dimanche,15h15
+Nino,DRAME,05/11/2025,Dimanche,19h15
+Nino,DRAME,07/10/2025,Mardi,13h10
+Nino,DRAME,07/10/2025,Mardi,15h15
+Nino,DRAME,07/10/2025,Mardi,19h15
+Connemara,DRAME,01/11/2025,Mercredi,13h30
+Connemara,DRAME,01/11/2025,Mercredi,13h30
+Connemara,DRAME,02/11/2025,Jeudi,13h30
+Connemara,DRAME,02/11/2025,Jeudi,13h30
+Connemara,DRAME,03/11/2025,Vendredi,13h30
+Connemara,DRAME,03/11/2025,Vendredi,13h30
+Connemara,DRAME,04/11/2025,Samedi,13h30
+Connemara,DRAME,04/11/2025,Samedi,13h30
+Connemara,DRAME,05/11/2025,Dimanche,13h30
+Connemara,DRAME,05/11/2025,Dimanche,13h30
+Connemara,DRAME,07/10/2025,Mardi,13h30
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",01/11/2025,Mercredi,11h05
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",01/11/2025,Mercredi,14h00
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",02/11/2025,Jeudi,11h05
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",02/11/2025,Jeudi,11h05
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",03/11/2025,Vendredi,11h05
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",03/11/2025,Vendredi,11h05
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",04/11/2025,Samedi,11h05
+Shaun le Mouton : la ferme en folie,"ANIMATION, FAMILLE, COMÉDIE",05/11/2025,Dimanche,11h05
+Sirat,DRAME,01/11/2025,Mercredi,15h50
+Sirat,DRAME,01/11/2025,Mercredi,18h10
+Sirat,DRAME,01/11/2025,Mercredi,20h30
+Sirat,DRAME,02/11/2025,Jeudi,18h10
+Sirat,DRAME,02/11/2025,Jeudi,20h30
+Sirat,DRAME,03/11/2025,Vendredi,13h30
+Sirat,DRAME,03/11/2025,Vendredi,15h50
+Sirat,DRAME,03/11/2025,Vendredi,18h10
+Sirat,DRAME,03/11/2025,Vendredi,20h30
+Sirat,DRAME,04/11/2025,Samedi,13h30
+Sirat,DRAME,04/11/2025,Samedi,15h50
+Sirat,DRAME,04/11/2025,Samedi,18h10
+Sirat,DRAME,04/11/2025,Samedi,20h30
+Sirat,DRAME,05/11/2025,Dimanche,13h30
+Sirat,DRAME,05/11/2025,Dimanche,15h50
+Sirat,DRAME,05/11/2025,Dimanche,18h10
+Sirat,DRAME,05/11/2025,Dimanche,20h30
+Sirat,DRAME,07/10/2025,Mardi,15h50
+Sirat,DRAME,07/10/2025,Mardi,18h10
+Sirat,DRAME,07/10/2025,Mardi,20h30
