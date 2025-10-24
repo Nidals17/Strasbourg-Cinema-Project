@@ -1,234 +1,191 @@
 titre,genre,date,jour,horaire
-AVANT-PREMIÈRE + RENCONTRE : L'Incroyable femme des neiges,COMÉDIE DRAMATIQUE,15/11/2025,Mercredi,20h15
-AVANT-PREMIÈRE + RENCONTRE : L'Incroyable femme des neiges,COMÉDIE DRAMATIQUE,16/11/2025,Jeudi,20h15
-AVANT-PREMIÈRE + RENCONTRE : L'Incroyable femme des neiges,COMÉDIE DRAMATIQUE,17/11/2025,Vendredi,20h15
-AVANT-PREMIÈRE + RENCONTRE : L'Incroyable femme des neiges,COMÉDIE DRAMATIQUE,18/11/2025,Samedi,20h15
-AVANT-PREMIÈRE + RENCONTRE : L'Incroyable femme des neiges,COMÉDIE DRAMATIQUE,19/11/2025,Dimanche,20h15
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",15/11/2025,Mercredi,16h30
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",16/11/2025,Jeudi,16h30
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",17/11/2025,Vendredi,16h30
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",18/11/2025,Samedi,16h30
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",15/11/2025,Mercredi,11h00
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",16/11/2025,Jeudi,11h00
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",17/11/2025,Vendredi,11h00
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",18/11/2025,Samedi,11h00
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",19/11/2025,Dimanche,11h00
-Deux pianos,DRAME,15/11/2025,Mercredi,15h30
-Deux pianos,DRAME,15/11/2025,Mercredi,17h50
-Deux pianos,DRAME,15/11/2025,Mercredi,20h10
-Deux pianos,DRAME,16/11/2025,Jeudi,15h30
-Deux pianos,DRAME,16/11/2025,Jeudi,17h50
-Deux pianos,DRAME,16/11/2025,Jeudi,20h10
-Deux pianos,DRAME,17/11/2025,Vendredi,15h30
-Deux pianos,DRAME,17/11/2025,Vendredi,17h50
-Deux pianos,DRAME,17/11/2025,Vendredi,20h10
-Deux pianos,DRAME,18/11/2025,Samedi,15h30
-Deux pianos,DRAME,18/11/2025,Samedi,17h50
-Deux pianos,DRAME,18/11/2025,Samedi,20h10
-Deux pianos,DRAME,19/11/2025,Dimanche,15h30
-Deux pianos,DRAME,19/11/2025,Dimanche,17h50
-Deux pianos,DRAME,19/11/2025,Dimanche,20h10
-Deux pianos,DRAME,21/10/2025,Mardi,15h30
-Deux pianos,DRAME,21/10/2025,Mardi,17h50
-Deux pianos,DRAME,21/10/2025,Mardi,20h10
-"La Vie de château, mon enfance à Versailles",ANIMATION,15/11/2025,Mercredi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,15/11/2025,Mercredi,14h30
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,13h40
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,13h45
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,15h00
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,16/11/2025,Jeudi,13h45
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,13h40
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,13h45
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,15h00
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,17/11/2025,Vendredi,13h45
-"La Vie de château, mon enfance à Versailles",ANIMATION,18/11/2025,Samedi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,18/11/2025,Samedi,13h40
-"La Vie de château, mon enfance à Versailles",ANIMATION,19/11/2025,Dimanche,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,19/11/2025,Dimanche,13h45
-"La Vie de château, mon enfance à Versailles",ANIMATION,21/10/2025,Mardi,11h05
-"La Vie de château, mon enfance à Versailles",ANIMATION,21/10/2025,Mardi,13h45
-Lenny,"DRAME, BIOPIC",15/11/2025,Mercredi,21h10
-Lenny,"DRAME, BIOPIC",16/11/2025,Jeudi,21h10
-Lenny,"DRAME, BIOPIC",17/11/2025,Vendredi,21h10
-Lenny,"DRAME, BIOPIC",18/11/2025,Samedi,21h10
-Lenny,"DRAME, BIOPIC",19/11/2025,Dimanche,21h10
-Lenny,"DRAME, BIOPIC",21/10/2025,Mardi,21h10
-Lumière pâle sur les collines,DRAME,15/11/2025,Mercredi,10h40
-Lumière pâle sur les collines,DRAME,15/11/2025,Mercredi,13h10
-Lumière pâle sur les collines,DRAME,15/11/2025,Mercredi,18h05
-Lumière pâle sur les collines,DRAME,16/11/2025,Jeudi,13h10
-Lumière pâle sur les collines,DRAME,16/11/2025,Jeudi,18h05
-Lumière pâle sur les collines,DRAME,17/11/2025,Vendredi,13h10
-Lumière pâle sur les collines,DRAME,17/11/2025,Vendredi,18h05
-Lumière pâle sur les collines,DRAME,18/11/2025,Samedi,10h40
-Lumière pâle sur les collines,DRAME,18/11/2025,Samedi,13h10
-Lumière pâle sur les collines,DRAME,18/11/2025,Samedi,18h05
-Lumière pâle sur les collines,DRAME,19/11/2025,Dimanche,10h40
-Lumière pâle sur les collines,DRAME,19/11/2025,Dimanche,13h10
-Lumière pâle sur les collines,DRAME,19/11/2025,Dimanche,18h05
-Lumière pâle sur les collines,DRAME,21/10/2025,Mardi,10h40
-Lumière pâle sur les collines,DRAME,21/10/2025,Mardi,13h10
-Lumière pâle sur les collines,DRAME,21/10/2025,Mardi,18h05
-"Berlinguer, la grande ambition",BIOPIC,15/11/2025,Mercredi,16h30
-"Berlinguer, la grande ambition",BIOPIC,16/11/2025,Jeudi,16h30
-"Berlinguer, la grande ambition",BIOPIC,17/11/2025,Vendredi,16h30
-"Berlinguer, la grande ambition",BIOPIC,18/11/2025,Samedi,16h30
-"Berlinguer, la grande ambition",BIOPIC,18/11/2025,Samedi,16h30
-"Berlinguer, la grande ambition",BIOPIC,18/11/2025,Samedi,16h30
-"Berlinguer, la grande ambition",BIOPIC,19/11/2025,Dimanche,16h30
-"Berlinguer, la grande ambition",BIOPIC,21/10/2025,Mardi,16h30
-Egoist,"DRAME, ROMANCE",15/11/2025,Mercredi,15h40
-Egoist,"DRAME, ROMANCE",16/11/2025,Jeudi,15h40
-Egoist,"DRAME, ROMANCE",17/11/2025,Vendredi,15h40
-Egoist,"DRAME, ROMANCE",18/11/2025,Samedi,15h40
-Egoist,"DRAME, ROMANCE",19/11/2025,Dimanche,15h40
-Egoist,"DRAME, ROMANCE",21/10/2025,Mardi,15h40
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,13h45
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",15/11/2025,Mercredi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,13h45
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",16/11/2025,Jeudi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,13h45
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",17/11/2025,Vendredi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",18/11/2025,Samedi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",19/11/2025,Dimanche,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",19/11/2025,Dimanche,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",21/10/2025,Mardi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",21/10/2025,Mardi,15h00
-Météors,DRAME,15/11/2025,Mercredi,13h15
-Météors,DRAME,15/11/2025,Mercredi,17h30
-Météors,DRAME,16/11/2025,Jeudi,13h15
-Météors,DRAME,16/11/2025,Jeudi,17h30
-Météors,DRAME,17/11/2025,Vendredi,13h15
-Météors,DRAME,17/11/2025,Vendredi,17h30
-Météors,DRAME,18/11/2025,Samedi,13h15
-Météors,DRAME,18/11/2025,Samedi,17h30
-Météors,DRAME,19/11/2025,Dimanche,13h15
-Météors,DRAME,19/11/2025,Dimanche,17h30
-Météors,DRAME,21/10/2025,Mardi,13h15
-Météors,DRAME,21/10/2025,Mardi,17h30
-Nouvelle Vague,COMÉDIE,15/11/2025,Mercredi,10h55
-Nouvelle Vague,COMÉDIE,15/11/2025,Mercredi,15h20
-Nouvelle Vague,COMÉDIE,15/11/2025,Mercredi,19h40
-Nouvelle Vague,COMÉDIE,16/11/2025,Jeudi,15h20
-Nouvelle Vague,COMÉDIE,16/11/2025,Jeudi,19h40
-Nouvelle Vague,COMÉDIE,17/11/2025,Vendredi,15h20
-Nouvelle Vague,COMÉDIE,17/11/2025,Vendredi,19h40
-Nouvelle Vague,COMÉDIE,18/11/2025,Samedi,10h55
-Nouvelle Vague,COMÉDIE,18/11/2025,Samedi,15h20
-Nouvelle Vague,COMÉDIE,18/11/2025,Samedi,19h40
-Nouvelle Vague,COMÉDIE,19/11/2025,Dimanche,15h20
-Nouvelle Vague,COMÉDIE,19/11/2025,Dimanche,19h40
-Nouvelle Vague,COMÉDIE,21/10/2025,Mardi,10h55
-Nouvelle Vague,COMÉDIE,21/10/2025,Mardi,15h20
-Nouvelle Vague,COMÉDIE,21/10/2025,Mardi,19h40
-Timioche,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-Timioche,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-Timioche,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-Timioche,"ANIMATION, FAMILLE",15/11/2025,Mercredi,10h00
-Timioche,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-Timioche,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-Timioche,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-Timioche,"ANIMATION, FAMILLE",16/11/2025,Jeudi,10h00
-Timioche,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-Timioche,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-Timioche,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-Timioche,"ANIMATION, FAMILLE",17/11/2025,Vendredi,10h00
-Timioche,"ANIMATION, FAMILLE",18/11/2025,Samedi,10h00
-Timioche,"ANIMATION, FAMILLE",19/11/2025,Dimanche,10h00
-Timioche,"ANIMATION, FAMILLE",21/10/2025,Mardi,10h00
-Un simple accident,DRAME,15/11/2025,Mercredi,13h05
-Un simple accident,DRAME,15/11/2025,Mercredi,15h15
-Un simple accident,DRAME,15/11/2025,Mercredi,19h00
-Un simple accident,DRAME,16/11/2025,Jeudi,13h05
-Un simple accident,DRAME,16/11/2025,Jeudi,15h15
-Un simple accident,DRAME,16/11/2025,Jeudi,19h00
-Un simple accident,DRAME,17/11/2025,Vendredi,13h05
-Un simple accident,DRAME,17/11/2025,Vendredi,15h15
-Un simple accident,DRAME,17/11/2025,Vendredi,19h00
-Un simple accident,DRAME,18/11/2025,Samedi,13h05
-Un simple accident,DRAME,18/11/2025,Samedi,15h15
-Un simple accident,DRAME,18/11/2025,Samedi,19h00
-Un simple accident,DRAME,19/11/2025,Dimanche,13h05
-Un simple accident,DRAME,19/11/2025,Dimanche,15h15
-Un simple accident,DRAME,19/11/2025,Dimanche,19h00
-Un simple accident,DRAME,21/10/2025,Mardi,13h05
-Un simple accident,DRAME,21/10/2025,Mardi,15h15
-Un simple accident,DRAME,21/10/2025,Mardi,19h00
-Classe moyenne,COMÉDIE,15/11/2025,Mercredi,11h00
-Classe moyenne,COMÉDIE,16/11/2025,Jeudi,11h00
-Classe moyenne,COMÉDIE,16/11/2025,Jeudi,11h00
-Classe moyenne,COMÉDIE,16/11/2025,Jeudi,11h00
-Classe moyenne,COMÉDIE,16/11/2025,Jeudi,11h00
-Classe moyenne,COMÉDIE,17/11/2025,Vendredi,11h00
-Classe moyenne,COMÉDIE,17/11/2025,Vendredi,11h00
-Classe moyenne,COMÉDIE,17/11/2025,Vendredi,11h00
-Classe moyenne,COMÉDIE,17/11/2025,Vendredi,11h00
-Classe moyenne,COMÉDIE,18/11/2025,Samedi,11h00
-Classe moyenne,COMÉDIE,19/11/2025,Dimanche,11h00
-Classe moyenne,COMÉDIE,21/10/2025,Mardi,11h00
-Le Sabre,"DRAME, ARTS MARTIAUX",15/11/2025,Mercredi,21h50
-Le Sabre,"DRAME, ARTS MARTIAUX",15/11/2025,Mercredi,21h50
-Le Sabre,"DRAME, ARTS MARTIAUX",16/11/2025,Jeudi,21h50
-Le Sabre,"DRAME, ARTS MARTIAUX",17/11/2025,Vendredi,21h50
-Le Sabre,"DRAME, ARTS MARTIAUX",18/11/2025,Samedi,21h50
-Le Sabre,"DRAME, ARTS MARTIAUX",19/11/2025,Dimanche,21h50
-Le Sabre,"DRAME, ARTS MARTIAUX",21/10/2025,Mardi,21h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,15/11/2025,Mercredi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,16/11/2025,Jeudi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,16/11/2025,Jeudi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,16/11/2025,Jeudi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,16/11/2025,Jeudi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,17/11/2025,Vendredi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,17/11/2025,Vendredi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,17/11/2025,Vendredi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,17/11/2025,Vendredi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,18/11/2025,Samedi,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,19/11/2025,Dimanche,10h50
-Put Your Soul on Your Hand and Walk,DOCUMENTAIRE,21/10/2025,Mardi,10h50
-Une bataille après l'autre,"ACTION, COMÉDIE",15/11/2025,Mercredi,20h40
-Une bataille après l'autre,"ACTION, COMÉDIE",16/11/2025,Jeudi,17h25
-Une bataille après l'autre,"ACTION, COMÉDIE",16/11/2025,Jeudi,20h40
-Une bataille après l'autre,"ACTION, COMÉDIE",17/11/2025,Vendredi,17h25
-Une bataille après l'autre,"ACTION, COMÉDIE",17/11/2025,Vendredi,20h40
-Une bataille après l'autre,"ACTION, COMÉDIE",18/11/2025,Samedi,17h25
-Une bataille après l'autre,"ACTION, COMÉDIE",18/11/2025,Samedi,20h40
-Une bataille après l'autre,"ACTION, COMÉDIE",19/11/2025,Dimanche,17h25
-Une bataille après l'autre,"ACTION, COMÉDIE",19/11/2025,Dimanche,20h40
-Une bataille après l'autre,"ACTION, COMÉDIE",21/10/2025,Mardi,17h25
-Une bataille après l'autre,"ACTION, COMÉDIE",21/10/2025,Mardi,20h40
-Nino,DRAME,15/11/2025,Mercredi,13h00
-Nino,DRAME,16/11/2025,Jeudi,13h00
-Nino,DRAME,17/11/2025,Vendredi,13h00
-Nino,DRAME,18/11/2025,Samedi,13h00
-Nino,DRAME,19/11/2025,Dimanche,13h00
-Nino,DRAME,21/10/2025,Mardi,13h00
-Sirat,DRAME,15/11/2025,Mercredi,20h30
-Sirat,DRAME,16/11/2025,Jeudi,14h00
-Sirat,DRAME,17/11/2025,Vendredi,14h00
-Sirat,DRAME,17/11/2025,Vendredi,20h30
-Sirat,DRAME,18/11/2025,Samedi,20h30
-Sirat,DRAME,19/11/2025,Dimanche,20h30
-Sirat,DRAME,21/10/2025,Mardi,20h30
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",22/11/2025,Mercredi,11h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",22/11/2025,Mercredi,16h30
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",23/11/2025,Jeudi,11h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",23/11/2025,Jeudi,13h45
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",25/10/2025,Samedi,11h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",25/10/2025,Samedi,13h45
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",26/10/2025,Dimanche,11h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",26/10/2025,Dimanche,16h30
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",27/10/2025,Lundi,11h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",27/10/2025,Lundi,13h45
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",28/10/2025,Mardi,11h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",28/10/2025,Mardi,16h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",22/11/2025,Mercredi,15h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",22/11/2025,Mercredi,20h00
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",23/11/2025,Jeudi,15h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",23/11/2025,Jeudi,20h00
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",25/10/2025,Samedi,15h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",25/10/2025,Samedi,20h00
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",26/10/2025,Dimanche,15h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",26/10/2025,Dimanche,20h00
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",27/10/2025,Lundi,15h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",27/10/2025,Lundi,20h00
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",28/10/2025,Mardi,15h30
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",28/10/2025,Mardi,20h00
+La Petite Dernière,DRAME,22/11/2025,Mercredi,13h00
+La Petite Dernière,DRAME,22/11/2025,Mercredi,17h20
+La Petite Dernière,DRAME,22/11/2025,Mercredi,19h30
+La Petite Dernière,DRAME,23/11/2025,Jeudi,13h00
+La Petite Dernière,DRAME,23/11/2025,Jeudi,17h20
+La Petite Dernière,DRAME,23/11/2025,Jeudi,19h30
+La Petite Dernière,DRAME,25/10/2025,Samedi,13h00
+La Petite Dernière,DRAME,25/10/2025,Samedi,17h20
+La Petite Dernière,DRAME,25/10/2025,Samedi,19h30
+La Petite Dernière,DRAME,26/10/2025,Dimanche,13h00
+La Petite Dernière,DRAME,26/10/2025,Dimanche,17h20
+La Petite Dernière,DRAME,26/10/2025,Dimanche,19h30
+La Petite Dernière,DRAME,27/10/2025,Lundi,13h00
+La Petite Dernière,DRAME,27/10/2025,Lundi,17h20
+La Petite Dernière,DRAME,27/10/2025,Lundi,19h30
+La Petite Dernière,DRAME,28/10/2025,Mardi,11h00
+La Petite Dernière,DRAME,28/10/2025,Mardi,13h00
+La Petite Dernière,DRAME,28/10/2025,Mardi,17h20
+La Petite Dernière,DRAME,28/10/2025,Mardi,19h30
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",22/11/2025,Mercredi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",22/11/2025,Mercredi,13h45
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",23/11/2025,Jeudi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",23/11/2025,Jeudi,16h30
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",25/10/2025,Samedi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",25/10/2025,Samedi,16h30
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",26/10/2025,Dimanche,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",26/10/2025,Dimanche,13h45
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",27/10/2025,Lundi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",27/10/2025,Lundi,16h30
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",28/10/2025,Mardi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",28/10/2025,Mardi,13h45
+Les Cavaliers des terres sauvages,DOCUMENTAIRE,22/11/2025,Mercredi,18h10
+Les Cavaliers des terres sauvages,DOCUMENTAIRE,23/11/2025,Jeudi,18h10
+Les Cavaliers des terres sauvages,DOCUMENTAIRE,25/10/2025,Samedi,18h10
+Les Cavaliers des terres sauvages,DOCUMENTAIRE,26/10/2025,Dimanche,18h10
+Les Cavaliers des terres sauvages,DOCUMENTAIRE,27/10/2025,Lundi,18h10
+Les Cavaliers des terres sauvages,DOCUMENTAIRE,28/10/2025,Mardi,18h10
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",22/11/2025,Mercredi,13h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",22/11/2025,Mercredi,18h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",22/11/2025,Mercredi,20h55
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",23/11/2025,Jeudi,13h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",23/11/2025,Jeudi,18h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",23/11/2025,Jeudi,20h55
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",25/10/2025,Samedi,13h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",25/10/2025,Samedi,18h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",25/10/2025,Samedi,20h55
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",26/10/2025,Dimanche,13h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",26/10/2025,Dimanche,18h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",26/10/2025,Dimanche,20h55
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",27/10/2025,Lundi,13h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",27/10/2025,Lundi,18h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",27/10/2025,Lundi,20h55
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",28/10/2025,Mardi,13h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",28/10/2025,Mardi,18h30
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",28/10/2025,Mardi,20h55
+Deux pianos,DRAME,22/11/2025,Mercredi,10h55
+Deux pianos,DRAME,22/11/2025,Mercredi,13h20
+Deux pianos,DRAME,22/11/2025,Mercredi,17h50
+Deux pianos,DRAME,23/11/2025,Jeudi,10h55
+Deux pianos,DRAME,23/11/2025,Jeudi,13h20
+Deux pianos,DRAME,23/11/2025,Jeudi,17h50
+Deux pianos,DRAME,25/10/2025,Samedi,10h55
+Deux pianos,DRAME,25/10/2025,Samedi,13h20
+Deux pianos,DRAME,25/10/2025,Samedi,17h50
+Deux pianos,DRAME,26/10/2025,Dimanche,10h55
+Deux pianos,DRAME,26/10/2025,Dimanche,13h20
+Deux pianos,DRAME,26/10/2025,Dimanche,17h50
+Deux pianos,DRAME,27/10/2025,Lundi,10h55
+Deux pianos,DRAME,27/10/2025,Lundi,13h20
+Deux pianos,DRAME,27/10/2025,Lundi,17h50
+Deux pianos,DRAME,28/10/2025,Mardi,10h55
+Deux pianos,DRAME,28/10/2025,Mardi,13h20
+Deux pianos,DRAME,28/10/2025,Mardi,17h50
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",22/11/2025,Mercredi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",23/11/2025,Jeudi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",23/11/2025,Jeudi,15h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",25/10/2025,Samedi,15h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",26/10/2025,Dimanche,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",27/10/2025,Lundi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",27/10/2025,Lundi,15h00
+"La Vie de château, mon enfance à Versailles",ANIMATION,22/11/2025,Mercredi,10h30
+"La Vie de château, mon enfance à Versailles",ANIMATION,23/11/2025,Jeudi,10h30
+"La Vie de château, mon enfance à Versailles",ANIMATION,25/10/2025,Samedi,10h30
+"La Vie de château, mon enfance à Versailles",ANIMATION,26/10/2025,Dimanche,10h30
+"La Vie de château, mon enfance à Versailles",ANIMATION,26/10/2025,Dimanche,15h00
+"La Vie de château, mon enfance à Versailles",ANIMATION,27/10/2025,Lundi,10h30
+"La Vie de château, mon enfance à Versailles",ANIMATION,28/10/2025,Mardi,15h00
+Lenny,"DRAME, BIOPIC",22/11/2025,Mercredi,21h40
+Lenny,"DRAME, BIOPIC",22/11/2025,Mercredi,18h20
+Lenny,"DRAME, BIOPIC",23/11/2025,Jeudi,21h40
+Lenny,"DRAME, BIOPIC",25/10/2025,Samedi,18h20
+Lenny,"DRAME, BIOPIC",26/10/2025,Dimanche,18h20
+Lenny,"DRAME, BIOPIC",27/10/2025,Lundi,18h20
+Lumière pâle sur les collines,DRAME,22/11/2025,Mercredi,11h00
+Lumière pâle sur les collines,DRAME,22/11/2025,Mercredi,15h55
+Lumière pâle sur les collines,DRAME,23/11/2025,Jeudi,11h00
+Lumière pâle sur les collines,DRAME,23/11/2025,Jeudi,15h55
+Lumière pâle sur les collines,DRAME,25/10/2025,Samedi,11h00
+Lumière pâle sur les collines,DRAME,25/10/2025,Samedi,15h55
+Lumière pâle sur les collines,DRAME,26/10/2025,Dimanche,11h00
+Lumière pâle sur les collines,DRAME,26/10/2025,Dimanche,15h55
+Lumière pâle sur les collines,DRAME,27/10/2025,Lundi,11h00
+Lumière pâle sur les collines,DRAME,27/10/2025,Lundi,15h55
+Lumière pâle sur les collines,DRAME,28/10/2025,Mardi,11h00
+Lumière pâle sur les collines,DRAME,28/10/2025,Mardi,15h55
+La Princesse et le rossignol,"ANIMATION, FAMILLE",22/11/2025,Mercredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",22/11/2025,Mercredi,15h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",23/11/2025,Jeudi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",25/10/2025,Samedi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",26/10/2025,Dimanche,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",27/10/2025,Lundi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",28/10/2025,Mardi,10h00
+Météors,DRAME,22/11/2025,Mercredi,18h20
+Météors,DRAME,23/11/2025,Jeudi,18h20
+Météors,DRAME,25/10/2025,Samedi,18h20
+Météors,DRAME,26/10/2025,Dimanche,18h20
+Météors,DRAME,27/10/2025,Lundi,18h20
+Météors,DRAME,28/10/2025,Mardi,18h20
+Nouvelle Vague,COMÉDIE,22/11/2025,Mercredi,15h10
+Nouvelle Vague,COMÉDIE,23/11/2025,Jeudi,15h10
+Nouvelle Vague,COMÉDIE,25/10/2025,Samedi,15h10
+Nouvelle Vague,COMÉDIE,26/10/2025,Dimanche,15h10
+Nouvelle Vague,COMÉDIE,27/10/2025,Lundi,15h10
+Nouvelle Vague,COMÉDIE,28/10/2025,Mardi,15h10
+Timioche,"ANIMATION, FAMILLE",22/11/2025,Mercredi,10h00
+Timioche,"ANIMATION, FAMILLE",22/11/2025,Mercredi,10h00
+Timioche,"ANIMATION, FAMILLE",23/11/2025,Jeudi,10h00
+Timioche,"ANIMATION, FAMILLE",23/11/2025,Jeudi,10h00
+Timioche,"ANIMATION, FAMILLE",25/10/2025,Samedi,10h00
+Timioche,"ANIMATION, FAMILLE",26/10/2025,Dimanche,10h00
+Timioche,"ANIMATION, FAMILLE",27/10/2025,Lundi,10h00
+Timioche,"ANIMATION, FAMILLE",28/10/2025,Mardi,10h00
+Un simple accident,DRAME,22/11/2025,Mercredi,12h55
+Un simple accident,DRAME,22/11/2025,Mercredi,15h40
+Un simple accident,DRAME,22/11/2025,Mercredi,20h35
+Un simple accident,DRAME,23/11/2025,Jeudi,12h55
+Un simple accident,DRAME,23/11/2025,Jeudi,15h40
+Un simple accident,DRAME,23/11/2025,Jeudi,20h35
+Un simple accident,DRAME,25/10/2025,Samedi,12h55
+Un simple accident,DRAME,25/10/2025,Samedi,15h40
+Un simple accident,DRAME,25/10/2025,Samedi,20h35
+Un simple accident,DRAME,26/10/2025,Dimanche,12h55
+Un simple accident,DRAME,26/10/2025,Dimanche,15h40
+Un simple accident,DRAME,26/10/2025,Dimanche,20h35
+Un simple accident,DRAME,27/10/2025,Lundi,12h55
+Un simple accident,DRAME,27/10/2025,Lundi,15h40
+Un simple accident,DRAME,27/10/2025,Lundi,20h35
+Un simple accident,DRAME,28/10/2025,Mardi,12h55
+Un simple accident,DRAME,28/10/2025,Mardi,15h40
+Un simple accident,DRAME,28/10/2025,Mardi,20h35
+Une bataille après l'autre,"ACTION, COMÉDIE",22/11/2025,Mercredi,20h10
+Une bataille après l'autre,"ACTION, COMÉDIE",23/11/2025,Jeudi,20h10
+Une bataille après l'autre,"ACTION, COMÉDIE",25/10/2025,Samedi,20h10
+Une bataille après l'autre,"ACTION, COMÉDIE",26/10/2025,Dimanche,20h10
+Une bataille après l'autre,"ACTION, COMÉDIE",27/10/2025,Lundi,20h10
+Une bataille après l'autre,"ACTION, COMÉDIE",28/10/2025,Mardi,20h10
+Sirat,DRAME,22/11/2025,Mercredi,21h40
+Sirat,DRAME,23/11/2025,Jeudi,21h40
+Sirat,DRAME,23/11/2025,Jeudi,21h40
+Sirat,DRAME,23/11/2025,Jeudi,21h40
+Sirat,DRAME,23/11/2025,Jeudi,21h40
+Sirat,DRAME,23/11/2025,Jeudi,21h40
+Sirat,DRAME,25/10/2025,Samedi,21h40
+Sirat,DRAME,26/10/2025,Dimanche,21h40
+Sirat,DRAME,27/10/2025,Lundi,21h40
+Sirat,DRAME,28/10/2025,Mardi,21h40
