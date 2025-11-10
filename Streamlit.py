@@ -147,7 +147,7 @@ else:
         'border-color': '#dddddd'
     })
 
-    st.dataframe(styled_df, use_container_width=True, hide_index=True)
+    st.dataframe(styled_df, width='content', hide_index=True)
     st.download_button(
         "📥 Télécharger les données filtrées",
         filtered_df.to_csv(index=False),
