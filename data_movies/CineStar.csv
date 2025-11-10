@@ -1,65 +1,249 @@
 titre,genre,date,jour,horaire
-AVANT-PREMIÈRE + RENCONTRE : Kika,DRAME,29/11/2025,Mercredi,20h15
-AVANT-PREMIÈRE + RENCONTRE : Kika,DRAME,30/11/2025,Jeudi,20h15
-L'Étranger,DRAME,29/11/2025,Mercredi,15h00
-L'Étranger,DRAME,29/11/2025,Mercredi,18h05
-L'Étranger,DRAME,29/11/2025,Mercredi,20h30
-L'Étranger,DRAME,30/11/2025,Jeudi,15h00
-L'Étranger,DRAME,30/11/2025,Jeudi,18h05
-L'Étranger,DRAME,30/11/2025,Jeudi,20h30
-La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,29/11/2025,Mercredi,13h20
-La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,29/11/2025,Mercredi,15h45
-La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,29/11/2025,Mercredi,20h00
-La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,30/11/2025,Jeudi,13h20
-La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,30/11/2025,Jeudi,15h45
-La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,30/11/2025,Jeudi,20h00
-On Falling,DRAME,29/11/2025,Mercredi,11h10
-On Falling,DRAME,29/11/2025,Mercredi,18h00
-On Falling,DRAME,30/11/2025,Jeudi,11h10
-On Falling,DRAME,30/11/2025,Jeudi,18h00
-Un poète,COMÉDIE DRAMATIQUE,29/11/2025,Mercredi,18h10
-Un poète,COMÉDIE DRAMATIQUE,30/11/2025,Jeudi,10h30
-Un poète,COMÉDIE DRAMATIQUE,30/11/2025,Jeudi,18h10
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",29/11/2025,Mercredi,11h10
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",29/11/2025,Mercredi,16h30
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",30/11/2025,Jeudi,11h10
-Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",30/11/2025,Jeudi,16h30
-La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",29/11/2025,Mercredi,10h50
-La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",29/11/2025,Mercredi,15h25
-La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",30/11/2025,Jeudi,10h50
-La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",30/11/2025,Jeudi,15h25
-La Petite Dernière,DRAME,29/11/2025,Mercredi,12h50
-La Petite Dernière,DRAME,29/11/2025,Mercredi,17h25
-La Petite Dernière,DRAME,29/11/2025,Mercredi,19h35
-La Petite Dernière,DRAME,30/11/2025,Jeudi,12h50
-La Petite Dernière,DRAME,30/11/2025,Jeudi,17h25
-La Petite Dernière,DRAME,30/11/2025,Jeudi,19h35
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",29/11/2025,Mercredi,11h05
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",29/11/2025,Mercredi,13h45
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",30/11/2025,Jeudi,11h05
-Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",30/11/2025,Jeudi,13h45
-Les Cavaliers des terres sauvages,DOCUMENTAIRE,29/11/2025,Mercredi,18h10
-Les Cavaliers des terres sauvages,DOCUMENTAIRE,30/11/2025,Jeudi,18h10
-Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",29/11/2025,Mercredi,13h10
-Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",29/11/2025,Mercredi,21h45
-Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",30/11/2025,Jeudi,13h10
-Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",30/11/2025,Jeudi,21h45
-Deux pianos,DRAME,29/11/2025,Mercredi,20h10
-Deux pianos,DRAME,30/11/2025,Jeudi,20h10
-Deux pianos,DRAME,30/11/2025,Jeudi,20h10
-Deux pianos,DRAME,30/11/2025,Jeudi,20h10
-Deux pianos,DRAME,30/11/2025,Jeudi,13h10
-Deux pianos,DRAME,30/11/2025,Jeudi,20h10
-Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",29/11/2025,Mercredi,10h00
-Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",30/11/2025,Jeudi,10h00
-"La Vie de château, mon enfance à Versailles",ANIMATION,29/11/2025,Mercredi,10h30
-"La Vie de château, mon enfance à Versailles",ANIMATION,30/11/2025,Jeudi,15h00
-Lumière pâle sur les collines,DRAME,29/11/2025,Mercredi,15h35
-Lumière pâle sur les collines,DRAME,30/11/2025,Jeudi,15h35
-La Princesse et le rossignol,"ANIMATION, FAMILLE",29/11/2025,Mercredi,10h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",29/11/2025,Mercredi,15h00
-La Princesse et le rossignol,"ANIMATION, FAMILLE",30/11/2025,Jeudi,10h00
-Un simple accident,DRAME,29/11/2025,Mercredi,12h55
-Un simple accident,DRAME,29/11/2025,Mercredi,20h35
-Un simple accident,DRAME,30/11/2025,Jeudi,12h55
-Un simple accident,DRAME,30/11/2025,Jeudi,20h35
+"AUGENBLICK : Marielle, la jeune fille qui en savait trop",COMÉDIE,05/12/2025,Mercredi,15h30
+"AUGENBLICK : Marielle, la jeune fille qui en savait trop",COMÉDIE,06/12/2025,Jeudi,20h15
+"AUGENBLICK : Marielle, la jeune fille qui en savait trop",COMÉDIE,07/12/2025,Vendredi,20h15
+AUGENBLICK : Love Me Tender,DRAME,05/12/2025,Mercredi,20h00
+AUGENBLICK : Love Me Tender,DRAME,06/12/2025,Jeudi,20h00
+AUGENBLICK : Love Me Tender,DRAME,07/12/2025,Vendredi,20h00
+AUGENBLICK : Love Me Tender,DRAME,08/12/2025,Samedi,20h00
+AUGENBLICK : Love Me Tender,DRAME,09/12/2025,Dimanche,20h00
+AUGENBLICK : Love Me Tender,DRAME,11/11/2025,Mardi,20h00
+AUGENBLICK : Tatort- National Feminin,POLICIER,05/12/2025,Mercredi,15h30
+AUGENBLICK : Tatort- National Feminin,POLICIER,06/12/2025,Jeudi,15h30
+AUGENBLICK : Tatort- National Feminin,POLICIER,07/12/2025,Vendredi,15h30
+AUGENBLICK : Tatort- National Feminin,POLICIER,08/12/2025,Samedi,15h30
+AUGENBLICK : Tatort- National Feminin,POLICIER,09/12/2025,Dimanche,15h30
+AUGENBLICK : Tatort- National Feminin,POLICIER,11/11/2025,Mardi,15h30
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,05/12/2025,Mercredi,15h30
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,05/12/2025,Mercredi,20h15
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,06/12/2025,Jeudi,15h30
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,06/12/2025,Jeudi,20h15
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,07/12/2025,Vendredi,15h30
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,07/12/2025,Vendredi,20h15
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,08/12/2025,Samedi,15h30
+AUGENBLICK : How to Be Normal and the Oddness of the Other World,DRAME,09/12/2025,Dimanche,20h15
+AUGENBLICK : La Pitié dangereuse,DRAME,05/12/2025,Mercredi,20h15
+AUGENBLICK : La Pitié dangereuse,DRAME,05/12/2025,Mercredi,15h30
+AUGENBLICK : La Pitié dangereuse,DRAME,06/12/2025,Jeudi,20h15
+AUGENBLICK : La Pitié dangereuse,DRAME,06/12/2025,Jeudi,15h30
+AUGENBLICK : La Pitié dangereuse,DRAME,07/12/2025,Vendredi,20h15
+AUGENBLICK : La Pitié dangereuse,DRAME,07/12/2025,Vendredi,15h30
+AUGENBLICK : La Pitié dangereuse,DRAME,08/12/2025,Samedi,20h15
+AUGENBLICK : La Pitié dangereuse,DRAME,09/12/2025,Dimanche,15h30
+AUGENBLICK : All That's Due,DRAME,05/12/2025,Mercredi,15h30
+AUGENBLICK : All That's Due,DRAME,05/12/2025,Mercredi,20h15
+AUGENBLICK : All That's Due,DRAME,06/12/2025,Jeudi,15h30
+AUGENBLICK : All That's Due,DRAME,06/12/2025,Jeudi,20h15
+AUGENBLICK : All That's Due,DRAME,07/12/2025,Vendredi,15h30
+AUGENBLICK : All That's Due,DRAME,08/12/2025,Samedi,20h15
+AUGENBLICK : All That's Due,DRAME,09/12/2025,Dimanche,20h15
+AUGENBLICK : When We Were Sisters,DRAME,05/12/2025,Mercredi,15h30
+AUGENBLICK : When We Were Sisters,DRAME,06/12/2025,Jeudi,15h30
+AUGENBLICK : Mother's Baby,"DRAME, THRILLER",05/12/2025,Mercredi,20h15
+AUGENBLICK : Mother's Baby,"DRAME, THRILLER",06/12/2025,Jeudi,11h00
+AUGENBLICK : Mother's Baby,"DRAME, THRILLER",07/12/2025,Vendredi,11h00
+AUGENBLICK : Mother's Baby,"DRAME, THRILLER",08/12/2025,Samedi,11h00
+CYCLE SHANGHAI : Woman Demon Human,UNKNOWN,05/12/2025,Mercredi,11h00
+Deux Procureurs,"DRAME, HISTORIQUE",05/12/2025,Mercredi,10h25
+Deux Procureurs,"DRAME, HISTORIQUE",05/12/2025,Mercredi,17h55
+Deux Procureurs,"DRAME, HISTORIQUE",06/12/2025,Jeudi,17h55
+Deux Procureurs,"DRAME, HISTORIQUE",07/12/2025,Vendredi,17h55
+Deux Procureurs,"DRAME, HISTORIQUE",08/12/2025,Samedi,10h25
+Deux Procureurs,"DRAME, HISTORIQUE",08/12/2025,Samedi,17h55
+Deux Procureurs,"DRAME, HISTORIQUE",09/12/2025,Dimanche,10h25
+Deux Procureurs,"DRAME, HISTORIQUE",09/12/2025,Dimanche,17h55
+Deux Procureurs,"DRAME, HISTORIQUE",11/11/2025,Mardi,10h25
+Deux Procureurs,"DRAME, HISTORIQUE",11/11/2025,Mardi,17h55
+L'Inconnu De La Grande Arche,DRAME,05/12/2025,Mercredi,12h50
+L'Inconnu De La Grande Arche,DRAME,05/12/2025,Mercredi,17h15
+L'Inconnu De La Grande Arche,DRAME,05/12/2025,Mercredi,19h25
+L'Inconnu De La Grande Arche,DRAME,06/12/2025,Jeudi,12h50
+L'Inconnu De La Grande Arche,DRAME,06/12/2025,Jeudi,17h15
+L'Inconnu De La Grande Arche,DRAME,06/12/2025,Jeudi,19h25
+L'Inconnu De La Grande Arche,DRAME,07/12/2025,Vendredi,12h50
+L'Inconnu De La Grande Arche,DRAME,07/12/2025,Vendredi,17h15
+L'Inconnu De La Grande Arche,DRAME,07/12/2025,Vendredi,19h25
+L'Inconnu De La Grande Arche,DRAME,08/12/2025,Samedi,12h50
+L'Inconnu De La Grande Arche,DRAME,08/12/2025,Samedi,17h15
+L'Inconnu De La Grande Arche,DRAME,08/12/2025,Samedi,19h25
+L'Inconnu De La Grande Arche,DRAME,09/12/2025,Dimanche,12h50
+L'Inconnu De La Grande Arche,DRAME,09/12/2025,Dimanche,17h15
+L'Inconnu De La Grande Arche,DRAME,09/12/2025,Dimanche,19h25
+L'Inconnu De La Grande Arche,DRAME,11/11/2025,Mardi,12h50
+L'Inconnu De La Grande Arche,DRAME,11/11/2025,Mardi,17h15
+L'Inconnu De La Grande Arche,DRAME,11/11/2025,Mardi,19h25
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",05/12/2025,Mercredi,17h45
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",05/12/2025,Mercredi,21h15
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",06/12/2025,Jeudi,17h45
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",06/12/2025,Jeudi,21h15
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",07/12/2025,Vendredi,17h45
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",07/12/2025,Vendredi,21h15
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",08/12/2025,Samedi,17h45
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",08/12/2025,Samedi,21h15
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",09/12/2025,Dimanche,17h45
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",09/12/2025,Dimanche,21h15
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",11/11/2025,Mardi,17h45
+La Vague,"COMÉDIE DRAMATIQUE, COMÉDIE MUSICALE",11/11/2025,Mardi,21h15
+L'Étranger,DRAME,05/12/2025,Mercredi,12h55
+L'Étranger,DRAME,05/12/2025,Mercredi,15h20
+L'Étranger,DRAME,05/12/2025,Mercredi,20h10
+L'Étranger,DRAME,06/12/2025,Jeudi,12h55
+L'Étranger,DRAME,06/12/2025,Jeudi,15h20
+L'Étranger,DRAME,06/12/2025,Jeudi,20h10
+L'Étranger,DRAME,07/12/2025,Vendredi,12h55
+L'Étranger,DRAME,07/12/2025,Vendredi,15h20
+L'Étranger,DRAME,07/12/2025,Vendredi,20h10
+L'Étranger,DRAME,08/12/2025,Samedi,12h55
+L'Étranger,DRAME,08/12/2025,Samedi,15h20
+L'Étranger,DRAME,08/12/2025,Samedi,20h10
+L'Étranger,DRAME,09/12/2025,Dimanche,12h55
+L'Étranger,DRAME,09/12/2025,Dimanche,15h20
+L'Étranger,DRAME,09/12/2025,Dimanche,20h10
+L'Étranger,DRAME,11/11/2025,Mardi,12h55
+L'Étranger,DRAME,11/11/2025,Mardi,15h20
+L'Étranger,DRAME,11/11/2025,Mardi,20h10
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,05/12/2025,Mercredi,13h05
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,05/12/2025,Mercredi,15h30
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,05/12/2025,Mercredi,20h20
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,06/12/2025,Jeudi,13h05
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,06/12/2025,Jeudi,15h30
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,06/12/2025,Jeudi,20h20
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,13h05
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,15h30
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,20h20
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,08/12/2025,Samedi,13h05
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,08/12/2025,Samedi,15h30
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,08/12/2025,Samedi,20h20
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,09/12/2025,Dimanche,13h05
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,09/12/2025,Dimanche,15h30
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,09/12/2025,Dimanche,20h20
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,11/11/2025,Mardi,13h05
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,11/11/2025,Mardi,15h30
+La Femme la plus riche du Monde,COMÉDIE DRAMATIQUE,11/11/2025,Mardi,20h20
+On Falling,DRAME,05/12/2025,Mercredi,15h00
+On Falling,DRAME,06/12/2025,Jeudi,12h45
+On Falling,DRAME,07/12/2025,Vendredi,15h00
+On Falling,DRAME,08/12/2025,Samedi,12h45
+On Falling,DRAME,09/12/2025,Dimanche,15h00
+Un poète,COMÉDIE DRAMATIQUE,05/12/2025,Mercredi,17h40
+Un poète,COMÉDIE DRAMATIQUE,06/12/2025,Jeudi,17h40
+Un poète,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,17h40
+Un poète,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,17h40
+Un poète,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,17h40
+Un poète,COMÉDIE DRAMATIQUE,07/12/2025,Vendredi,17h35
+Un poète,COMÉDIE DRAMATIQUE,08/12/2025,Samedi,17h40
+Un poète,COMÉDIE DRAMATIQUE,09/12/2025,Dimanche,17h40
+Un poète,COMÉDIE DRAMATIQUE,11/11/2025,Mardi,17h35
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",05/12/2025,Mercredi,17h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",06/12/2025,Jeudi,17h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",07/12/2025,Vendredi,17h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",08/12/2025,Samedi,10h50
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",08/12/2025,Samedi,17h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",09/12/2025,Dimanche,10h50
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",09/12/2025,Dimanche,17h10
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",11/11/2025,Mardi,10h50
+Arco,"ANIMATION, SCIENCE-FICTION, AVENTURE",11/11/2025,Mardi,17h10
+Imago,"DOCUMENTAIRE, DRAME",05/12/2025,Mercredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",05/12/2025,Mercredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",05/12/2025,Mercredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",05/12/2025,Mercredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",06/12/2025,Jeudi,15h00
+Imago,"DOCUMENTAIRE, DRAME",07/12/2025,Vendredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",07/12/2025,Vendredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",07/12/2025,Vendredi,15h00
+Imago,"DOCUMENTAIRE, DRAME",08/12/2025,Samedi,15h00
+Imago,"DOCUMENTAIRE, DRAME",09/12/2025,Dimanche,15h00
+Imago,"DOCUMENTAIRE, DRAME",09/12/2025,Dimanche,15h00
+Imago,"DOCUMENTAIRE, DRAME",11/11/2025,Mardi,15h00
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",05/12/2025,Mercredi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",06/12/2025,Jeudi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",06/12/2025,Jeudi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",06/12/2025,Jeudi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",06/12/2025,Jeudi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",07/12/2025,Vendredi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",08/12/2025,Samedi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",08/12/2025,Samedi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",08/12/2025,Samedi,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",09/12/2025,Dimanche,12h50
+La Disparition de Josef Mengele,"BIOPIC, DRAME, HISTORIQUE",11/11/2025,Mardi,12h50
+La Petite Dernière,DRAME,05/12/2025,Mercredi,14h55
+La Petite Dernière,DRAME,05/12/2025,Mercredi,19h00
+La Petite Dernière,DRAME,06/12/2025,Jeudi,14h55
+La Petite Dernière,DRAME,06/12/2025,Jeudi,19h00
+La Petite Dernière,DRAME,07/12/2025,Vendredi,14h55
+La Petite Dernière,DRAME,07/12/2025,Vendredi,19h00
+La Petite Dernière,DRAME,08/12/2025,Samedi,14h55
+La Petite Dernière,DRAME,08/12/2025,Samedi,19h00
+La Petite Dernière,DRAME,09/12/2025,Dimanche,14h55
+La Petite Dernière,DRAME,09/12/2025,Dimanche,19h00
+La Petite Dernière,DRAME,11/11/2025,Mardi,14h55
+La Petite Dernière,DRAME,11/11/2025,Mardi,19h00
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",05/12/2025,Mercredi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",06/12/2025,Jeudi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",06/12/2025,Jeudi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",06/12/2025,Jeudi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",07/12/2025,Vendredi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",07/12/2025,Vendredi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",07/12/2025,Vendredi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",08/12/2025,Samedi,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",09/12/2025,Dimanche,11h05
+Le Secret des Mésanges,"ANIMATION, AVENTURE, FAMILLE",11/11/2025,Mardi,11h05
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",05/12/2025,Mercredi,21h35
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",06/12/2025,Jeudi,21h35
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",07/12/2025,Vendredi,21h35
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",08/12/2025,Samedi,21h35
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",09/12/2025,Dimanche,21h35
+Springsteen: Deliver Me From Nowhere,"BIOPIC, DRAME, MUSICAL",11/11/2025,Mardi,21h35
+The Neon People,DOCUMENTAIRE,05/12/2025,Mercredi,13h00
+The Neon People,DOCUMENTAIRE,05/12/2025,Mercredi,13h00
+The Neon People,DOCUMENTAIRE,06/12/2025,Jeudi,13h00
+The Neon People,DOCUMENTAIRE,07/12/2025,Vendredi,13h00
+The Neon People,DOCUMENTAIRE,08/12/2025,Samedi,13h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",05/12/2025,Mercredi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",06/12/2025,Jeudi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",06/12/2025,Jeudi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",06/12/2025,Jeudi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",07/12/2025,Vendredi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",07/12/2025,Vendredi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",07/12/2025,Vendredi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",08/12/2025,Samedi,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",09/12/2025,Dimanche,10h00
+Jack et Nancy - les plus belles histoires de Quentin Blake,"ANIMATION, FAMILLE",11/11/2025,Mardi,10h00
+"La Vie de château, mon enfance à Versailles",ANIMATION,05/12/2025,Mercredi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,06/12/2025,Jeudi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,06/12/2025,Jeudi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,06/12/2025,Jeudi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,07/12/2025,Vendredi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,07/12/2025,Vendredi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,07/12/2025,Vendredi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,08/12/2025,Samedi,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,09/12/2025,Dimanche,11h10
+"La Vie de château, mon enfance à Versailles",ANIMATION,11/11/2025,Mardi,11h10
+La Princesse et le rossignol,"ANIMATION, FAMILLE",05/12/2025,Mercredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",05/12/2025,Mercredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",05/12/2025,Mercredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",06/12/2025,Jeudi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",06/12/2025,Jeudi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",06/12/2025,Jeudi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",07/12/2025,Vendredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",07/12/2025,Vendredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",07/12/2025,Vendredi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",08/12/2025,Samedi,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",09/12/2025,Dimanche,10h00
+La Princesse et le rossignol,"ANIMATION, FAMILLE",11/11/2025,Mardi,10h00
+Un simple accident,DRAME,05/12/2025,Mercredi,10h40
+Un simple accident,DRAME,05/12/2025,Mercredi,12h45
+Un simple accident,DRAME,06/12/2025,Jeudi,12h45
+Un simple accident,DRAME,06/12/2025,Jeudi,10h40
+Un simple accident,DRAME,06/12/2025,Jeudi,12h45
+Un simple accident,DRAME,06/12/2025,Jeudi,10h40
+Un simple accident,DRAME,06/12/2025,Jeudi,12h45
+Un simple accident,DRAME,07/12/2025,Vendredi,12h45
+Un simple accident,DRAME,08/12/2025,Samedi,10h40
+Un simple accident,DRAME,08/12/2025,Samedi,12h45
+Un simple accident,DRAME,08/12/2025,Samedi,10h40
+Un simple accident,DRAME,08/12/2025,Samedi,12h45
+Un simple accident,DRAME,09/12/2025,Dimanche,10h40
+Un simple accident,DRAME,09/12/2025,Dimanche,12h45
+Un simple accident,DRAME,11/11/2025,Mardi,10h40
+Un simple accident,DRAME,11/11/2025,Mardi,12h45
