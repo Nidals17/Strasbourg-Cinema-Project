@@ -1,239 +1,171 @@
 titre,genre,date,jour,horaire
-L'Engloutie,DRAME,24/01/2026,Mercredi,10h45
-L'Engloutie,DRAME,24/01/2026,Mercredi,14h50
-L'Engloutie,DRAME,25/01/2026,Jeudi,14h50
-L'Engloutie,DRAME,25/01/2026,Jeudi,18h55
-L'Engloutie,DRAME,26/01/2026,Vendredi,10h45
-L'Engloutie,DRAME,26/01/2026,Vendredi,14h50
-L'Engloutie,DRAME,26/01/2026,Vendredi,18h55
-L'Engloutie,DRAME,27/01/2026,Samedi,10h45
-L'Engloutie,DRAME,27/01/2026,Samedi,14h50
-L'Engloutie,DRAME,27/01/2026,Samedi,18h55
-L'Engloutie,DRAME,28/01/2026,Dimanche,10h45
-L'Engloutie,DRAME,28/01/2026,Dimanche,14h50
-L'Engloutie,DRAME,28/01/2026,Dimanche,18h55
-L'Engloutie,DRAME,30/12/2025,Mardi,10h45
-L'Engloutie,DRAME,30/12/2025,Mardi,14h50
-L'Engloutie,DRAME,30/12/2025,Mardi,18h55
-Le Temps des moissons,DRAME,24/01/2026,Mercredi,13h00
-Le Temps des moissons,DRAME,25/01/2026,Jeudi,13h00
-Le Temps des moissons,DRAME,25/01/2026,Jeudi,17h50
-Le Temps des moissons,DRAME,26/01/2026,Vendredi,13h00
-Le Temps des moissons,DRAME,26/01/2026,Vendredi,17h50
-Le Temps des moissons,DRAME,27/01/2026,Samedi,13h00
-Le Temps des moissons,DRAME,27/01/2026,Samedi,17h50
-Le Temps des moissons,DRAME,28/01/2026,Dimanche,13h00
-Le Temps des moissons,DRAME,28/01/2026,Dimanche,17h50
-Le Temps des moissons,DRAME,30/12/2025,Mardi,13h00
-Le Temps des moissons,DRAME,30/12/2025,Mardi,17h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",24/01/2026,Mercredi,10h40
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",24/01/2026,Mercredi,12h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",25/01/2026,Jeudi,12h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",25/01/2026,Jeudi,16h55
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",26/01/2026,Vendredi,10h40
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",26/01/2026,Vendredi,12h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",26/01/2026,Vendredi,16h55
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",27/01/2026,Samedi,10h40
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",27/01/2026,Samedi,12h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",27/01/2026,Samedi,16h55
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",28/01/2026,Dimanche,10h40
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",28/01/2026,Dimanche,12h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",28/01/2026,Dimanche,16h55
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",30/12/2025,Mardi,10h40
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",30/12/2025,Mardi,12h50
-"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",30/12/2025,Mardi,16h55
-Histoires de la bonne vallée,DOCUMENTAIRE,24/01/2026,Mercredi,13h10
-Histoires de la bonne vallée,DOCUMENTAIRE,25/01/2026,Jeudi,13h10
-Histoires de la bonne vallée,DOCUMENTAIRE,26/01/2026,Vendredi,13h10
-Histoires de la bonne vallée,DOCUMENTAIRE,27/01/2026,Samedi,13h10
-Histoires de la bonne vallée,DOCUMENTAIRE,28/01/2026,Dimanche,13h10
-Histoires de la bonne vallée,DOCUMENTAIRE,30/12/2025,Mardi,13h10
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,09h55
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,14h50
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",25/01/2026,Jeudi,14h50
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",25/01/2026,Jeudi,20h10
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",26/01/2026,Vendredi,09h55
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",26/01/2026,Vendredi,14h50
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",26/01/2026,Vendredi,20h10
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",27/01/2026,Samedi,09h55
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",27/01/2026,Samedi,14h50
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",27/01/2026,Samedi,20h10
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",28/01/2026,Dimanche,09h55
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",28/01/2026,Dimanche,14h50
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",28/01/2026,Dimanche,20h10
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",30/12/2025,Mardi,09h55
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",30/12/2025,Mardi,14h50
-L'Agent secret,"FILM NOIR-POLICIER, DRAME",30/12/2025,Mardi,20h10
-L'Amour qu'il nous reste,DRAME,24/01/2026,Mercredi,17h55
-L'Amour qu'il nous reste,DRAME,24/01/2026,Mercredi,17h55
-L'Amour qu'il nous reste,DRAME,24/01/2026,Mercredi,17h55
-L'Amour qu'il nous reste,DRAME,24/01/2026,Mercredi,17h55
-L'Amour qu'il nous reste,DRAME,24/01/2026,Mercredi,17h55
-L'Amour qu'il nous reste,DRAME,24/01/2026,Mercredi,17h55
-L'Amour qu'il nous reste,DRAME,25/01/2026,Jeudi,17h55
-L'Amour qu'il nous reste,DRAME,26/01/2026,Vendredi,17h55
-L'Amour qu'il nous reste,DRAME,27/01/2026,Samedi,17h55
-L'Amour qu'il nous reste,DRAME,28/01/2026,Dimanche,17h55
-L'Amour qu'il nous reste,DRAME,30/12/2025,Mardi,17h55
-Le Chant des forêts,DOCUMENTAIRE,24/01/2026,Mercredi,11h00
-Le Chant des forêts,DOCUMENTAIRE,24/01/2026,Mercredi,13h00
-Le Chant des forêts,DOCUMENTAIRE,24/01/2026,Mercredi,15h00
-Le Chant des forêts,DOCUMENTAIRE,25/01/2026,Jeudi,13h00
-Le Chant des forêts,DOCUMENTAIRE,25/01/2026,Jeudi,15h00
-Le Chant des forêts,DOCUMENTAIRE,25/01/2026,Jeudi,19h10
-Le Chant des forêts,DOCUMENTAIRE,26/01/2026,Vendredi,11h00
-Le Chant des forêts,DOCUMENTAIRE,26/01/2026,Vendredi,13h00
-Le Chant des forêts,DOCUMENTAIRE,26/01/2026,Vendredi,15h00
-Le Chant des forêts,DOCUMENTAIRE,26/01/2026,Vendredi,19h10
-Le Chant des forêts,DOCUMENTAIRE,27/01/2026,Samedi,11h00
-Le Chant des forêts,DOCUMENTAIRE,27/01/2026,Samedi,13h00
-Le Chant des forêts,DOCUMENTAIRE,27/01/2026,Samedi,15h00
-Le Chant des forêts,DOCUMENTAIRE,27/01/2026,Samedi,19h10
-Le Chant des forêts,DOCUMENTAIRE,28/01/2026,Dimanche,11h00
-Le Chant des forêts,DOCUMENTAIRE,28/01/2026,Dimanche,13h00
-Le Chant des forêts,DOCUMENTAIRE,28/01/2026,Dimanche,15h00
-Le Chant des forêts,DOCUMENTAIRE,28/01/2026,Dimanche,19h10
-Le Chant des forêts,DOCUMENTAIRE,30/12/2025,Mardi,11h00
-Le Chant des forêts,DOCUMENTAIRE,30/12/2025,Mardi,13h00
-Le Chant des forêts,DOCUMENTAIRE,30/12/2025,Mardi,15h00
-Le Chant des forêts,DOCUMENTAIRE,30/12/2025,Mardi,19h10
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",24/01/2026,Mercredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",24/01/2026,Mercredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",24/01/2026,Mercredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",24/01/2026,Mercredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",24/01/2026,Mercredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",24/01/2026,Mercredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",25/01/2026,Jeudi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",26/01/2026,Vendredi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",27/01/2026,Samedi,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",28/01/2026,Dimanche,17h55
-La Condition,"COMÉDIE DRAMATIQUE, HISTORIQUE",30/12/2025,Mardi,17h55
-La Petite cuisine de Mehdi,COMÉDIE,24/01/2026,Mercredi,15h40
-La Petite cuisine de Mehdi,COMÉDIE,25/01/2026,Jeudi,15h40
-La Petite cuisine de Mehdi,COMÉDIE,26/01/2026,Vendredi,15h40
-La Petite cuisine de Mehdi,COMÉDIE,27/01/2026,Samedi,15h40
-La Petite cuisine de Mehdi,COMÉDIE,28/01/2026,Dimanche,15h40
-La Petite cuisine de Mehdi,COMÉDIE,30/12/2025,Mardi,15h40
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",24/01/2026,Mercredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",25/01/2026,Jeudi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",26/01/2026,Vendredi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",27/01/2026,Samedi,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",28/01/2026,Dimanche,20h30
-Resurrection,"SCIENCE-FICTION, FILM NOIR-POLICIER, DRAME",30/12/2025,Mardi,20h30
-Dites-lui que je l'aime,COMÉDIE DRAMATIQUE,24/01/2026,Mercredi,12h55
-Dites-lui que je l'aime,COMÉDIE DRAMATIQUE,25/01/2026,Jeudi,12h55
-Dites-lui que je l'aime,COMÉDIE DRAMATIQUE,26/01/2026,Vendredi,12h55
-Dites-lui que je l'aime,COMÉDIE DRAMATIQUE,27/01/2026,Samedi,12h55
-Dites-lui que je l'aime,COMÉDIE DRAMATIQUE,28/01/2026,Dimanche,12h55
-Dites-lui que je l'aime,COMÉDIE DRAMATIQUE,30/12/2025,Mardi,12h55
-Les Enfants vont bien,DRAME,24/01/2026,Mercredi,20h05
-Les Enfants vont bien,DRAME,24/01/2026,Mercredi,20h05
-Les Enfants vont bien,DRAME,24/01/2026,Mercredi,20h05
-Les Enfants vont bien,DRAME,24/01/2026,Mercredi,20h05
-Les Enfants vont bien,DRAME,24/01/2026,Mercredi,20h05
-Les Enfants vont bien,DRAME,24/01/2026,Mercredi,20h05
-Les Enfants vont bien,DRAME,25/01/2026,Jeudi,20h05
-Les Enfants vont bien,DRAME,26/01/2026,Vendredi,20h05
-Les Enfants vont bien,DRAME,27/01/2026,Samedi,20h05
-Les Enfants vont bien,DRAME,28/01/2026,Dimanche,20h05
-Les Enfants vont bien,DRAME,30/12/2025,Mardi,20h05
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",24/01/2026,Mercredi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",25/01/2026,Jeudi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",25/01/2026,Jeudi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",25/01/2026,Jeudi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",25/01/2026,Jeudi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",25/01/2026,Jeudi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",26/01/2026,Vendredi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",27/01/2026,Samedi,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",28/01/2026,Dimanche,10h00
-La Petite fanfare de Noël,"ANIMATION, FAMILLE",30/12/2025,Mardi,10h00
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",24/01/2026,Mercredi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",24/01/2026,Mercredi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",24/01/2026,Mercredi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",25/01/2026,Jeudi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",26/01/2026,Vendredi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",26/01/2026,Vendredi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",27/01/2026,Samedi,21h10
-The Killer,"FILM NOIR-POLICIER, ACTION, DRAME",28/01/2026,Dimanche,21h10
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",24/01/2026,Mercredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",24/01/2026,Mercredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",24/01/2026,Mercredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",24/01/2026,Mercredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",24/01/2026,Mercredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",24/01/2026,Mercredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",25/01/2026,Jeudi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",26/01/2026,Vendredi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",27/01/2026,Samedi,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",28/01/2026,Dimanche,17h00
-Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",30/12/2025,Mardi,17h00
-Dossier 137,FILM NOIR-POLICIER,24/01/2026,Mercredi,21h10
-Dossier 137,FILM NOIR-POLICIER,24/01/2026,Mercredi,21h10
-Dossier 137,FILM NOIR-POLICIER,24/01/2026,Mercredi,21h10
-Dossier 137,FILM NOIR-POLICIER,25/01/2026,Jeudi,21h10
-Dossier 137,FILM NOIR-POLICIER,25/01/2026,Jeudi,21h10
-Dossier 137,FILM NOIR-POLICIER,25/01/2026,Jeudi,21h10
-Dossier 137,FILM NOIR-POLICIER,26/01/2026,Vendredi,21h10
-Dossier 137,FILM NOIR-POLICIER,27/01/2026,Samedi,21h10
-Dossier 137,FILM NOIR-POLICIER,27/01/2026,Samedi,21h10
-Dossier 137,FILM NOIR-POLICIER,28/01/2026,Dimanche,21h10
-Dossier 137,FILM NOIR-POLICIER,30/12/2025,Mardi,21h10
-RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",24/01/2026,Mercredi,21h00
-RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",25/01/2026,Jeudi,21h00
-RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",26/01/2026,Vendredi,21h00
-RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",27/01/2026,Samedi,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",24/01/2026,Mercredi,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",24/01/2026,Mercredi,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",25/01/2026,Jeudi,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",26/01/2026,Vendredi,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",27/01/2026,Samedi,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",28/01/2026,Dimanche,21h00
-RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",30/12/2025,Mardi,21h00
-RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",24/01/2026,Mercredi,21h00
-RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",25/01/2026,Jeudi,21h00
-RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",26/01/2026,Vendredi,21h00
-RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",27/01/2026,Samedi,21h00
-RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",28/01/2026,Dimanche,21h00
-RETRO COPPOLA : Outsiders,"DRAME, THRILLER",24/01/2026,Mercredi,21h00
-RETRO COPPOLA : Outsiders,"DRAME, THRILLER",25/01/2026,Jeudi,21h00
-RETRO COPPOLA : Outsiders,"DRAME, THRILLER",26/01/2026,Vendredi,21h00
-RETRO COPPOLA : Outsiders,"DRAME, THRILLER",27/01/2026,Samedi,21h00
-RETRO COPPOLA : Outsiders,"DRAME, THRILLER",28/01/2026,Dimanche,21h00
-RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,24/01/2026,Mercredi,21h00
-RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,25/01/2026,Jeudi,21h00
-RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,26/01/2026,Vendredi,21h00
-Mary et la fleur de la sorcière,ANIMATION,24/01/2026,Mercredi,10h50
-Mary et la fleur de la sorcière,ANIMATION,25/01/2026,Jeudi,15h35
-Mary et la fleur de la sorcière,ANIMATION,26/01/2026,Vendredi,15h35
-Mary et la fleur de la sorcière,ANIMATION,27/01/2026,Samedi,15h35
-Panda Petit Panda,ANIMATION,24/01/2026,Mercredi,15h35
-Panda Petit Panda,ANIMATION,25/01/2026,Jeudi,10h50
-Panda Petit Panda,ANIMATION,25/01/2026,Jeudi,10h50
-Panda Petit Panda,ANIMATION,26/01/2026,Vendredi,10h50
-Panda Petit Panda,ANIMATION,27/01/2026,Samedi,10h50
-Panda Petit Panda,ANIMATION,28/01/2026,Dimanche,10h50
-Panda Petit Panda,ANIMATION,30/12/2025,Mardi,10h50
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",24/01/2026,Mercredi,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",24/01/2026,Mercredi,10h50
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",24/01/2026,Mercredi,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",25/01/2026,Jeudi,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",25/01/2026,Jeudi,10h50
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",25/01/2026,Jeudi,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",26/01/2026,Vendredi,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",27/01/2026,Samedi,10h50
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",27/01/2026,Samedi,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",28/01/2026,Dimanche,10h50
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",28/01/2026,Dimanche,15h35
-Le Château ambulant,"ANIMATION, AVENTURE, FANTASTIQUE",30/12/2025,Mardi,15h35
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",24/01/2026,Mercredi,10h50
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",24/01/2026,Mercredi,15h35
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",25/01/2026,Jeudi,10h50
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",25/01/2026,Jeudi,15h35
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",26/01/2026,Vendredi,10h50
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",26/01/2026,Vendredi,15h35
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",27/01/2026,Samedi,10h50
-Si tu tends l'oreille,"DRAME, ANIMATION, ROMANCE",28/01/2026,Dimanche,15h35
+"AVANT-PREMIÈRE : Furcy, né libre","HISTORIQUE, DRAME, JUDICIAIRE, BIOPIC",31/01/2026,Mercredi,19h30
+"AVANT-PREMIÈRE : Furcy, né libre","HISTORIQUE, DRAME, JUDICIAIRE, BIOPIC",01/02/2026,Jeudi,19h30
+"AVANT-PREMIÈRE : Furcy, né libre","HISTORIQUE, DRAME, JUDICIAIRE, BIOPIC",02/02/2026,Vendredi,19h30
+"AVANT-PREMIÈRE : Furcy, né libre","HISTORIQUE, DRAME, JUDICIAIRE, BIOPIC",03/02/2026,Samedi,19h30
+"AVANT-PREMIÈRE : Furcy, né libre","HISTORIQUE, DRAME, JUDICIAIRE, BIOPIC",04/02/2026,Dimanche,19h30
+En Garde,DRAME,31/01/2026,Mercredi,12h45
+En Garde,DRAME,31/01/2026,Mercredi,20h40
+En Garde,DRAME,01/02/2026,Jeudi,12h45
+En Garde,DRAME,01/02/2026,Jeudi,20h40
+En Garde,DRAME,02/02/2026,Vendredi,12h45
+En Garde,DRAME,02/02/2026,Vendredi,20h40
+En Garde,DRAME,03/02/2026,Samedi,12h45
+En Garde,DRAME,03/02/2026,Samedi,20h40
+En Garde,DRAME,04/02/2026,Dimanche,12h45
+En Garde,DRAME,04/02/2026,Dimanche,20h40
+En Garde,DRAME,06/01/2026,Mardi,12h45
+En Garde,DRAME,06/01/2026,Mardi,20h40
+Laurent dans le vent,COMÉDIE DRAMATIQUE,31/01/2026,Mercredi,12h55
+Laurent dans le vent,COMÉDIE DRAMATIQUE,31/01/2026,Mercredi,18h15
+Laurent dans le vent,COMÉDIE DRAMATIQUE,01/02/2026,Jeudi,12h55
+Laurent dans le vent,COMÉDIE DRAMATIQUE,01/02/2026,Jeudi,18h15
+Laurent dans le vent,COMÉDIE DRAMATIQUE,02/02/2026,Vendredi,12h55
+Laurent dans le vent,COMÉDIE DRAMATIQUE,02/02/2026,Vendredi,18h15
+Laurent dans le vent,COMÉDIE DRAMATIQUE,03/02/2026,Samedi,12h55
+Laurent dans le vent,COMÉDIE DRAMATIQUE,03/02/2026,Samedi,18h15
+Laurent dans le vent,COMÉDIE DRAMATIQUE,04/02/2026,Dimanche,12h55
+Laurent dans le vent,COMÉDIE DRAMATIQUE,04/02/2026,Dimanche,18h15
+Laurent dans le vent,COMÉDIE DRAMATIQUE,06/01/2026,Mardi,12h55
+Los Tigres,FILM NOIR-POLICIER,31/01/2026,Mercredi,13h25
+Los Tigres,FILM NOIR-POLICIER,31/01/2026,Mercredi,17h50
+Los Tigres,FILM NOIR-POLICIER,31/01/2026,Mercredi,20h05
+Los Tigres,FILM NOIR-POLICIER,01/02/2026,Jeudi,13h25
+Los Tigres,FILM NOIR-POLICIER,01/02/2026,Jeudi,17h50
+Los Tigres,FILM NOIR-POLICIER,01/02/2026,Jeudi,20h05
+Los Tigres,FILM NOIR-POLICIER,02/02/2026,Vendredi,13h25
+Los Tigres,FILM NOIR-POLICIER,02/02/2026,Vendredi,17h50
+Los Tigres,FILM NOIR-POLICIER,02/02/2026,Vendredi,20h05
+Los Tigres,FILM NOIR-POLICIER,03/02/2026,Samedi,13h25
+Los Tigres,FILM NOIR-POLICIER,03/02/2026,Samedi,17h50
+Los Tigres,FILM NOIR-POLICIER,03/02/2026,Samedi,20h05
+Los Tigres,FILM NOIR-POLICIER,04/02/2026,Dimanche,13h25
+Los Tigres,FILM NOIR-POLICIER,04/02/2026,Dimanche,17h50
+Los Tigres,FILM NOIR-POLICIER,04/02/2026,Dimanche,20h05
+Los Tigres,FILM NOIR-POLICIER,06/01/2026,Mardi,13h25
+Los Tigres,FILM NOIR-POLICIER,06/01/2026,Mardi,17h50
+Los Tigres,FILM NOIR-POLICIER,06/01/2026,Mardi,20h05
+Magellan,"BIOPIC, DRAME, ROMANCE",31/01/2026,Mercredi,17h35
+Magellan,"BIOPIC, DRAME, ROMANCE",01/02/2026,Jeudi,17h35
+Magellan,"BIOPIC, DRAME, ROMANCE",02/02/2026,Vendredi,17h35
+Magellan,"BIOPIC, DRAME, ROMANCE",03/02/2026,Samedi,17h35
+Magellan,"BIOPIC, DRAME, ROMANCE",04/02/2026,Dimanche,17h35
+Magellan,"BIOPIC, DRAME, ROMANCE",06/01/2026,Mardi,17h35
+L'Engloutie,DRAME,31/01/2026,Mercredi,14h50
+L'Engloutie,DRAME,01/02/2026,Jeudi,14h50
+L'Engloutie,DRAME,01/02/2026,Jeudi,18h55
+L'Engloutie,DRAME,02/02/2026,Vendredi,14h50
+L'Engloutie,DRAME,02/02/2026,Vendredi,18h55
+L'Engloutie,DRAME,03/02/2026,Samedi,14h50
+L'Engloutie,DRAME,03/02/2026,Samedi,18h55
+L'Engloutie,DRAME,04/02/2026,Dimanche,14h50
+L'Engloutie,DRAME,04/02/2026,Dimanche,18h55
+Le Temps des moissons,DRAME,31/01/2026,Mercredi,14h55
+Le Temps des moissons,DRAME,01/02/2026,Jeudi,14h55
+Le Temps des moissons,DRAME,02/02/2026,Vendredi,14h55
+Le Temps des moissons,DRAME,03/02/2026,Samedi,14h55
+Le Temps des moissons,DRAME,04/02/2026,Dimanche,14h55
+Le Temps des moissons,DRAME,06/01/2026,Mardi,14h55
+Metropolis,"ANIMATION, AVENTURE, SCIENCE-FICTION",31/01/2026,Mercredi,21h10
+Metropolis,"ANIMATION, AVENTURE, SCIENCE-FICTION",01/02/2026,Jeudi,21h10
+Metropolis,"ANIMATION, AVENTURE, SCIENCE-FICTION",02/02/2026,Vendredi,21h10
+Metropolis,"ANIMATION, AVENTURE, SCIENCE-FICTION",03/02/2026,Samedi,21h10
+Metropolis,"ANIMATION, AVENTURE, SCIENCE-FICTION",04/02/2026,Dimanche,21h10
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",31/01/2026,Mercredi,10h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",31/01/2026,Mercredi,12h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",31/01/2026,Mercredi,16h55
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",01/02/2026,Jeudi,12h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",01/02/2026,Jeudi,16h55
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",02/02/2026,Vendredi,10h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",02/02/2026,Vendredi,12h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",02/02/2026,Vendredi,16h55
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",03/02/2026,Samedi,10h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",03/02/2026,Samedi,12h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",03/02/2026,Samedi,16h55
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",04/02/2026,Dimanche,10h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",04/02/2026,Dimanche,12h50
+"Une enfance allemande - Île d'Amrum, 1945","DRAME, GUERRE",04/02/2026,Dimanche,16h55
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",31/01/2026,Mercredi,15h10
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",31/01/2026,Mercredi,20h30
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",01/02/2026,Jeudi,15h10
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",01/02/2026,Jeudi,20h30
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",02/02/2026,Vendredi,15h10
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",02/02/2026,Vendredi,20h30
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",03/02/2026,Samedi,15h10
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",03/02/2026,Samedi,20h30
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",04/02/2026,Dimanche,15h10
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",04/02/2026,Dimanche,20h30
+L'Agent secret,"FILM NOIR-POLICIER, DRAME",06/01/2026,Mardi,15h10
+Le Chant des forêts,DOCUMENTAIRE,31/01/2026,Mercredi,11h00
+Le Chant des forêts,DOCUMENTAIRE,31/01/2026,Mercredi,13h00
+Le Chant des forêts,DOCUMENTAIRE,31/01/2026,Mercredi,15h00
+Le Chant des forêts,DOCUMENTAIRE,31/01/2026,Mercredi,19h10
+Le Chant des forêts,DOCUMENTAIRE,01/02/2026,Jeudi,13h00
+Le Chant des forêts,DOCUMENTAIRE,01/02/2026,Jeudi,15h00
+Le Chant des forêts,DOCUMENTAIRE,01/02/2026,Jeudi,19h10
+Le Chant des forêts,DOCUMENTAIRE,02/02/2026,Vendredi,11h00
+Le Chant des forêts,DOCUMENTAIRE,02/02/2026,Vendredi,13h00
+Le Chant des forêts,DOCUMENTAIRE,02/02/2026,Vendredi,15h00
+Le Chant des forêts,DOCUMENTAIRE,02/02/2026,Vendredi,19h10
+Le Chant des forêts,DOCUMENTAIRE,03/02/2026,Samedi,11h00
+Le Chant des forêts,DOCUMENTAIRE,03/02/2026,Samedi,13h00
+Le Chant des forêts,DOCUMENTAIRE,03/02/2026,Samedi,15h00
+Le Chant des forêts,DOCUMENTAIRE,03/02/2026,Samedi,19h10
+Le Chant des forêts,DOCUMENTAIRE,04/02/2026,Dimanche,11h00
+Le Chant des forêts,DOCUMENTAIRE,04/02/2026,Dimanche,13h00
+Le Chant des forêts,DOCUMENTAIRE,04/02/2026,Dimanche,15h00
+Le Chant des forêts,DOCUMENTAIRE,04/02/2026,Dimanche,19h10
+Le Chant des forêts,DOCUMENTAIRE,06/01/2026,Mardi,15h00
+Le Chant des forêts,DOCUMENTAIRE,06/01/2026,Mardi,19h10
+AVANT-PREMIÈRE : Elle entend pas la moto,DOCUMENTAIRE,31/01/2026,Mercredi,20h15
+AVANT-PREMIÈRE : Elle entend pas la moto,DOCUMENTAIRE,01/02/2026,Jeudi,20h15
+AVANT-PREMIÈRE : Elle entend pas la moto,DOCUMENTAIRE,02/02/2026,Vendredi,20h15
+AVANT-PREMIÈRE : Elle entend pas la moto,DOCUMENTAIRE,03/02/2026,Samedi,20h15
+AVANT-PREMIÈRE : Elle entend pas la moto,DOCUMENTAIRE,04/02/2026,Dimanche,20h15
+AVANT-PREMIÈRE : Elle entend pas la moto,DOCUMENTAIRE,06/01/2026,Mardi,20h15
+La Petite cuisine de Mehdi,COMÉDIE,31/01/2026,Mercredi,15h40
+La Petite cuisine de Mehdi,COMÉDIE,01/02/2026,Jeudi,15h40
+La Petite cuisine de Mehdi,COMÉDIE,02/02/2026,Vendredi,15h40
+La Petite cuisine de Mehdi,COMÉDIE,03/02/2026,Samedi,15h40
+La Petite cuisine de Mehdi,COMÉDIE,04/02/2026,Dimanche,15h40
+La Petite cuisine de Mehdi,COMÉDIE,06/01/2026,Mardi,15h40
+La Petite fanfare de Noël,"ANIMATION, FAMILLE",31/01/2026,Mercredi,10h00
+La Petite fanfare de Noël,"ANIMATION, FAMILLE",01/02/2026,Jeudi,10h00
+La Petite fanfare de Noël,"ANIMATION, FAMILLE",01/02/2026,Jeudi,10h00
+La Petite fanfare de Noël,"ANIMATION, FAMILLE",02/02/2026,Vendredi,10h00
+La Petite fanfare de Noël,"ANIMATION, FAMILLE",03/02/2026,Samedi,10h00
+Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",31/01/2026,Mercredi,17h00
+Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",01/02/2026,Jeudi,17h00
+Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",02/02/2026,Vendredi,17h00
+Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",03/02/2026,Samedi,17h00
+Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",04/02/2026,Dimanche,17h00
+Vie Privée,"FILM NOIR-POLICIER, THRILLER, DRAME",06/01/2026,Mardi,17h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",31/01/2026,Mercredi,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",31/01/2026,Mercredi,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",01/02/2026,Jeudi,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",01/02/2026,Jeudi,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",02/02/2026,Vendredi,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",03/02/2026,Samedi,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",04/02/2026,Dimanche,21h00
+RETRO COPPOLA : Apocalypse Now Final Cut,"GUERRE, DRAME",06/01/2026,Mardi,21h00
+RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",31/01/2026,Mercredi,21h00
+RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",01/02/2026,Jeudi,21h00
+RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",02/02/2026,Vendredi,21h00
+RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",03/02/2026,Samedi,21h00
+RETRO COPPOLA : Conversation secrète,"THRILLER, DRAME, ESPIONNAGE",04/02/2026,Dimanche,21h00
+RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",31/01/2026,Mercredi,21h00
+RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",01/02/2026,Jeudi,21h00
+RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",02/02/2026,Vendredi,21h00
+RETRO COPPOLA : Coup de coeur,"DRAME, ROMANCE, COMÉDIE MUSICALE",03/02/2026,Samedi,21h00
+RETRO COPPOLA : Outsiders,"DRAME, THRILLER",31/01/2026,Mercredi,20h00
+RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,31/01/2026,Mercredi,21h00
+RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,31/01/2026,Mercredi,21h00
+RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,01/02/2026,Jeudi,21h00
+RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,02/02/2026,Vendredi,21h00
+RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,03/02/2026,Samedi,21h00
+RETRO COPPOLA : Tucker,COMÉDIE DRAMATIQUE,04/02/2026,Dimanche,21h00
+Panda Petit Panda,ANIMATION,31/01/2026,Mercredi,10h30
+Panda Petit Panda,ANIMATION,01/02/2026,Jeudi,10h30
+Panda Petit Panda,ANIMATION,02/02/2026,Vendredi,10h30
+Panda Petit Panda,ANIMATION,03/02/2026,Samedi,10h30
+Panda Petit Panda,ANIMATION,04/02/2026,Dimanche,10h30
