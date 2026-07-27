@@ -1,147 +1,171 @@
 titre,genre,date,jour,horaire
-L'Aventure rêvée,DRAME,15/08/2026,Mercredi,12h55
-L'Aventure rêvée,DRAME,15/08/2026,Mercredi,17h55
-L'Aventure rêvée,DRAME,16/08/2026,Jeudi,12h55
-L'Aventure rêvée,DRAME,16/08/2026,Jeudi,17h55
-L'Aventure rêvée,DRAME,17/08/2026,Vendredi,12h55
-L'Aventure rêvée,DRAME,17/08/2026,Vendredi,17h55
-L'Aventure rêvée,DRAME,18/08/2026,Samedi,12h55
-L'Aventure rêvée,DRAME,18/08/2026,Samedi,17h55
-L'Aventure rêvée,DRAME,19/08/2026,Dimanche,12h55
-L'Aventure rêvée,DRAME,19/08/2026,Dimanche,17h55
-L'Aventure rêvée,DRAME,21/07/2026,Mardi,12h55
-L'Aventure rêvée,DRAME,21/07/2026,Mardi,17h55
-L'Odyssée,"ACTION, AVENTURE",15/08/2026,Mercredi,13h10
-L'Odyssée,"ACTION, AVENTURE",15/08/2026,Mercredi,16h35
-L'Odyssée,"ACTION, AVENTURE",15/08/2026,Mercredi,20h00
-L'Odyssée,"ACTION, AVENTURE",16/08/2026,Jeudi,13h10
-L'Odyssée,"ACTION, AVENTURE",16/08/2026,Jeudi,16h35
-L'Odyssée,"ACTION, AVENTURE",16/08/2026,Jeudi,20h00
-L'Odyssée,"ACTION, AVENTURE",17/08/2026,Vendredi,13h10
-L'Odyssée,"ACTION, AVENTURE",17/08/2026,Vendredi,16h35
-L'Odyssée,"ACTION, AVENTURE",17/08/2026,Vendredi,20h00
-L'Odyssée,"ACTION, AVENTURE",18/08/2026,Samedi,13h10
-L'Odyssée,"ACTION, AVENTURE",18/08/2026,Samedi,16h35
-L'Odyssée,"ACTION, AVENTURE",18/08/2026,Samedi,20h00
-L'Odyssée,"ACTION, AVENTURE",19/08/2026,Dimanche,13h10
-L'Odyssée,"ACTION, AVENTURE",19/08/2026,Dimanche,16h35
-L'Odyssée,"ACTION, AVENTURE",19/08/2026,Dimanche,20h00
-L'Odyssée,"ACTION, AVENTURE",21/07/2026,Mardi,13h10
-L'Odyssée,"ACTION, AVENTURE",21/07/2026,Mardi,16h35
-L'Odyssée,"ACTION, AVENTURE",21/07/2026,Mardi,20h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",15/08/2026,Mercredi,16h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",15/08/2026,Mercredi,20h45
-The Last Viking,"COMÉDIE, DRAME, THRILLER",16/08/2026,Jeudi,16h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",16/08/2026,Jeudi,20h45
-The Last Viking,"COMÉDIE, DRAME, THRILLER",17/08/2026,Vendredi,16h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",17/08/2026,Vendredi,20h45
-The Last Viking,"COMÉDIE, DRAME, THRILLER",18/08/2026,Samedi,16h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",18/08/2026,Samedi,20h45
-The Last Viking,"COMÉDIE, DRAME, THRILLER",19/08/2026,Dimanche,16h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",19/08/2026,Dimanche,20h45
-The Last Viking,"COMÉDIE, DRAME, THRILLER",21/07/2026,Mardi,16h00
-The Last Viking,"COMÉDIE, DRAME, THRILLER",21/07/2026,Mardi,20h45
-Entre ciel et terre,"ANIMATION, FAMILLE",15/08/2026,Mercredi,10h00
-Entre ciel et terre,"ANIMATION, FAMILLE",16/08/2026,Jeudi,10h00
-Entre ciel et terre,"ANIMATION, FAMILLE",16/08/2026,Jeudi,10h00
-Entre ciel et terre,"ANIMATION, FAMILLE",17/08/2026,Vendredi,10h00
-Entre ciel et terre,"ANIMATION, FAMILLE",17/08/2026,Vendredi,10h00
-Entre ciel et terre,"ANIMATION, FAMILLE",18/08/2026,Samedi,10h00
-Entre ciel et terre,"ANIMATION, FAMILLE",19/08/2026,Dimanche,10h00
-La Chaleur,"DRAME, THRILLER",15/08/2026,Mercredi,15h20
-La Chaleur,"DRAME, THRILLER",15/08/2026,Mercredi,19h10
-La Chaleur,"DRAME, THRILLER",16/08/2026,Jeudi,15h20
-La Chaleur,"DRAME, THRILLER",16/08/2026,Jeudi,19h10
-La Chaleur,"DRAME, THRILLER",17/08/2026,Vendredi,15h20
-La Chaleur,"DRAME, THRILLER",17/08/2026,Vendredi,19h10
-La Chaleur,"DRAME, THRILLER",18/08/2026,Samedi,15h20
-La Chaleur,"DRAME, THRILLER",18/08/2026,Samedi,19h10
-La Chaleur,"DRAME, THRILLER",19/08/2026,Dimanche,15h20
-La Chaleur,"DRAME, THRILLER",19/08/2026,Dimanche,19h10
-La Chaleur,"DRAME, THRILLER",21/07/2026,Mardi,15h20
-La Chaleur,"DRAME, THRILLER",21/07/2026,Mardi,19h10
-Seule la vie,"DRAME, COMÉDIE",15/08/2026,Mercredi,15h30
-Seule la vie,"DRAME, COMÉDIE",16/08/2026,Jeudi,15h30
-Seule la vie,"DRAME, COMÉDIE",17/08/2026,Vendredi,15h30
-Seule la vie,"DRAME, COMÉDIE",18/08/2026,Samedi,10h30
-Seule la vie,"DRAME, COMÉDIE",18/08/2026,Samedi,15h30
-Seule la vie,"DRAME, COMÉDIE",19/08/2026,Dimanche,10h30
-Seule la vie,"DRAME, COMÉDIE",19/08/2026,Dimanche,15h30
-Seule la vie,"DRAME, COMÉDIE",21/07/2026,Mardi,15h30
-In Waves,"ANIMATION, DRAME, ROMANCE",15/08/2026,Mercredi,13h25
-In Waves,"ANIMATION, DRAME, ROMANCE",15/08/2026,Mercredi,17h15
-In Waves,"ANIMATION, DRAME, ROMANCE",16/08/2026,Jeudi,13h25
-In Waves,"ANIMATION, DRAME, ROMANCE",16/08/2026,Jeudi,17h15
-In Waves,"ANIMATION, DRAME, ROMANCE",17/08/2026,Vendredi,13h25
-In Waves,"ANIMATION, DRAME, ROMANCE",17/08/2026,Vendredi,17h15
-In Waves,"ANIMATION, DRAME, ROMANCE",18/08/2026,Samedi,13h25
-In Waves,"ANIMATION, DRAME, ROMANCE",18/08/2026,Samedi,17h15
-In Waves,"ANIMATION, DRAME, ROMANCE",19/08/2026,Dimanche,13h25
-In Waves,"ANIMATION, DRAME, ROMANCE",19/08/2026,Dimanche,17h15
-In Waves,"ANIMATION, DRAME, ROMANCE",21/07/2026,Mardi,13h25
-In Waves,"ANIMATION, DRAME, ROMANCE",21/07/2026,Mardi,17h15
-Miss Mermaid,COMÉDIE DRAMATIQUE,15/08/2026,Mercredi,17h00
-Miss Mermaid,COMÉDIE DRAMATIQUE,16/08/2026,Jeudi,17h00
-Miss Mermaid,COMÉDIE DRAMATIQUE,17/08/2026,Vendredi,17h00
-Miss Mermaid,COMÉDIE DRAMATIQUE,18/08/2026,Samedi,17h00
-Miss Mermaid,COMÉDIE DRAMATIQUE,19/08/2026,Dimanche,17h00
-Miss Mermaid,COMÉDIE DRAMATIQUE,21/07/2026,Mardi,17h00
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",15/08/2026,Mercredi,13h05
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",15/08/2026,Mercredi,18h20
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",16/08/2026,Jeudi,18h20
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",17/08/2026,Vendredi,13h05
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",17/08/2026,Vendredi,18h20
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",18/08/2026,Samedi,13h05
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",18/08/2026,Samedi,18h20
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",19/08/2026,Dimanche,13h05
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",19/08/2026,Dimanche,18h20
-Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",21/07/2026,Mardi,18h20
-Un champ de fraises pour l'éternité,COMÉDIE,15/08/2026,Mercredi,13h00
-Un champ de fraises pour l'éternité,COMÉDIE,16/08/2026,Jeudi,13h00
-Un champ de fraises pour l'éternité,COMÉDIE,17/08/2026,Vendredi,13h00
-Un champ de fraises pour l'éternité,COMÉDIE,18/08/2026,Samedi,13h00
-Un champ de fraises pour l'éternité,COMÉDIE,19/08/2026,Dimanche,13h00
-Un champ de fraises pour l'éternité,COMÉDIE,21/07/2026,Mardi,13h00
-Maspalomas,DRAME,15/08/2026,Mercredi,13h05
-Maspalomas,DRAME,15/08/2026,Mercredi,10h35
-Maspalomas,DRAME,15/08/2026,Mercredi,10h35
-Maspalomas,DRAME,15/08/2026,Mercredi,13h05
-Maspalomas,DRAME,15/08/2026,Mercredi,13h05
-Maspalomas,DRAME,16/08/2026,Jeudi,13h05
-Maspalomas,DRAME,17/08/2026,Vendredi,10h35
-Maspalomas,DRAME,17/08/2026,Vendredi,10h35
-Maspalomas,DRAME,17/08/2026,Vendredi,13h05
-Maspalomas,DRAME,17/08/2026,Vendredi,13h05
-Maspalomas,DRAME,18/08/2026,Samedi,10h35
-Maspalomas,DRAME,19/08/2026,Dimanche,10h35
-Maspalomas,DRAME,21/07/2026,Mardi,13h05
-New York 1997,"ACTION, SCIENCE-FICTION",15/08/2026,Mercredi,21h05
-New York 1997,"ACTION, SCIENCE-FICTION",16/08/2026,Jeudi,21h05
-New York 1997,"ACTION, SCIENCE-FICTION",17/08/2026,Vendredi,21h05
-New York 1997,"ACTION, SCIENCE-FICTION",18/08/2026,Samedi,21h05
-New York 1997,"ACTION, SCIENCE-FICTION",19/08/2026,Dimanche,21h05
-New York 1997,"ACTION, SCIENCE-FICTION",21/07/2026,Mardi,21h05
-Backrooms,"EPOUVANTE-HORREUR, SCIENCE-FICTION",15/08/2026,Mercredi,21h00
-Backrooms,"EPOUVANTE-HORREUR, SCIENCE-FICTION",16/08/2026,Jeudi,21h00
-Backrooms,"EPOUVANTE-HORREUR, SCIENCE-FICTION",17/08/2026,Vendredi,21h00
-Backrooms,"EPOUVANTE-HORREUR, SCIENCE-FICTION",18/08/2026,Samedi,21h00
-Backrooms,"EPOUVANTE-HORREUR, SCIENCE-FICTION",19/08/2026,Dimanche,21h00
-Backrooms,"EPOUVANTE-HORREUR, SCIENCE-FICTION",21/07/2026,Mardi,21h00
-Jim Queen,"ANIMATION, COMÉDIE",15/08/2026,Mercredi,15h10
-Jim Queen,"ANIMATION, COMÉDIE",15/08/2026,Mercredi,19h00
-Jim Queen,"ANIMATION, COMÉDIE",15/08/2026,Mercredi,20h55
-Jim Queen,"ANIMATION, COMÉDIE",16/08/2026,Jeudi,15h10
-Jim Queen,"ANIMATION, COMÉDIE",16/08/2026,Jeudi,19h00
-Jim Queen,"ANIMATION, COMÉDIE",16/08/2026,Jeudi,20h55
-Jim Queen,"ANIMATION, COMÉDIE",17/08/2026,Vendredi,15h10
-Jim Queen,"ANIMATION, COMÉDIE",17/08/2026,Vendredi,19h00
-Jim Queen,"ANIMATION, COMÉDIE",17/08/2026,Vendredi,20h55
-Jim Queen,"ANIMATION, COMÉDIE",18/08/2026,Samedi,15h10
-Jim Queen,"ANIMATION, COMÉDIE",18/08/2026,Samedi,19h00
-Jim Queen,"ANIMATION, COMÉDIE",18/08/2026,Samedi,20h55
-Jim Queen,"ANIMATION, COMÉDIE",19/08/2026,Dimanche,15h10
-Jim Queen,"ANIMATION, COMÉDIE",19/08/2026,Dimanche,19h00
-Jim Queen,"ANIMATION, COMÉDIE",19/08/2026,Dimanche,20h55
-Jim Queen,"ANIMATION, COMÉDIE",21/07/2026,Mardi,15h10
-Jim Queen,"ANIMATION, COMÉDIE",21/07/2026,Mardi,19h00
-Jim Queen,"ANIMATION, COMÉDIE",21/07/2026,Mardi,20h55
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",22/08/2026,Mercredi,10h45
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",22/08/2026,Mercredi,20h15
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",23/08/2026,Jeudi,18h10
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",24/08/2026,Vendredi,18h10
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",25/08/2026,Samedi,10h45
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",25/08/2026,Samedi,18h10
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",26/08/2026,Dimanche,10h45
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",26/08/2026,Dimanche,18h10
+Cowboy Bebop,"ANIMATION, SCIENCE-FICTION",28/07/2026,Mardi,18h10
+De la Comédie-Française,COMÉDIE,22/08/2026,Mercredi,11h10
+De la Comédie-Française,COMÉDIE,22/08/2026,Mercredi,13h30
+De la Comédie-Française,COMÉDIE,22/08/2026,Mercredi,17h40
+De la Comédie-Française,COMÉDIE,22/08/2026,Mercredi,19h20
+De la Comédie-Française,COMÉDIE,23/08/2026,Jeudi,13h30
+De la Comédie-Française,COMÉDIE,23/08/2026,Jeudi,17h40
+De la Comédie-Française,COMÉDIE,23/08/2026,Jeudi,19h20
+De la Comédie-Française,COMÉDIE,24/08/2026,Vendredi,13h30
+De la Comédie-Française,COMÉDIE,24/08/2026,Vendredi,17h40
+De la Comédie-Française,COMÉDIE,24/08/2026,Vendredi,19h20
+De la Comédie-Française,COMÉDIE,25/08/2026,Samedi,11h10
+De la Comédie-Française,COMÉDIE,25/08/2026,Samedi,13h30
+De la Comédie-Française,COMÉDIE,25/08/2026,Samedi,17h40
+De la Comédie-Française,COMÉDIE,25/08/2026,Samedi,19h20
+De la Comédie-Française,COMÉDIE,26/08/2026,Dimanche,11h10
+De la Comédie-Française,COMÉDIE,26/08/2026,Dimanche,13h30
+De la Comédie-Française,COMÉDIE,26/08/2026,Dimanche,17h40
+De la Comédie-Française,COMÉDIE,26/08/2026,Dimanche,19h20
+De la Comédie-Française,COMÉDIE,28/07/2026,Mardi,13h30
+De la Comédie-Française,COMÉDIE,28/07/2026,Mardi,17h40
+De la Comédie-Française,COMÉDIE,28/07/2026,Mardi,19h20
+Gorgonà,"ACTION, DRAME, SCIENCE-FICTION",22/08/2026,Mercredi,21h00
+Gorgonà,"ACTION, DRAME, SCIENCE-FICTION",23/08/2026,Jeudi,21h00
+Gorgonà,"ACTION, DRAME, SCIENCE-FICTION",24/08/2026,Vendredi,21h00
+Gorgonà,"ACTION, DRAME, SCIENCE-FICTION",25/08/2026,Samedi,21h00
+Gorgonà,"ACTION, DRAME, SCIENCE-FICTION",26/08/2026,Dimanche,21h00
+Gorgonà,"ACTION, DRAME, SCIENCE-FICTION",28/07/2026,Mardi,21h00
+Sous le ciel de Kyoto,"DRAME, ROMANCE",22/08/2026,Mercredi,14h50
+Sous le ciel de Kyoto,"DRAME, ROMANCE",22/08/2026,Mercredi,20h25
+Sous le ciel de Kyoto,"DRAME, ROMANCE",23/08/2026,Jeudi,14h50
+Sous le ciel de Kyoto,"DRAME, ROMANCE",23/08/2026,Jeudi,20h25
+Sous le ciel de Kyoto,"DRAME, ROMANCE",24/08/2026,Vendredi,14h50
+Sous le ciel de Kyoto,"DRAME, ROMANCE",24/08/2026,Vendredi,20h25
+Sous le ciel de Kyoto,"DRAME, ROMANCE",25/08/2026,Samedi,14h50
+Sous le ciel de Kyoto,"DRAME, ROMANCE",25/08/2026,Samedi,20h25
+Sous le ciel de Kyoto,"DRAME, ROMANCE",26/08/2026,Dimanche,14h50
+Sous le ciel de Kyoto,"DRAME, ROMANCE",26/08/2026,Dimanche,20h25
+Sous le ciel de Kyoto,"DRAME, ROMANCE",28/07/2026,Mardi,12h40
+Sous le ciel de Kyoto,"DRAME, ROMANCE",28/07/2026,Mardi,20h25
+Sur la route d'Omaha,DRAME,22/08/2026,Mercredi,15h00
+Sur la route d'Omaha,DRAME,22/08/2026,Mercredi,19h25
+Sur la route d'Omaha,DRAME,23/08/2026,Jeudi,15h00
+Sur la route d'Omaha,DRAME,23/08/2026,Jeudi,19h25
+Sur la route d'Omaha,DRAME,24/08/2026,Vendredi,15h00
+Sur la route d'Omaha,DRAME,24/08/2026,Vendredi,19h25
+Sur la route d'Omaha,DRAME,25/08/2026,Samedi,15h00
+Sur la route d'Omaha,DRAME,25/08/2026,Samedi,19h25
+Sur la route d'Omaha,DRAME,26/08/2026,Dimanche,15h00
+Sur la route d'Omaha,DRAME,28/07/2026,Mardi,15h00
+Sur la route d'Omaha,DRAME,28/07/2026,Mardi,19h25
+L'Aventure rêvée,DRAME,22/08/2026,Mercredi,17h20
+L'Aventure rêvée,DRAME,23/08/2026,Jeudi,17h20
+L'Aventure rêvée,DRAME,24/08/2026,Vendredi,17h20
+L'Aventure rêvée,DRAME,25/08/2026,Samedi,17h20
+L'Aventure rêvée,DRAME,26/08/2026,Dimanche,17h20
+L'Odyssée,"ACTION, AVENTURE",22/08/2026,Mercredi,13h10
+L'Odyssée,"ACTION, AVENTURE",22/08/2026,Mercredi,16h35
+L'Odyssée,"ACTION, AVENTURE",22/08/2026,Mercredi,20h00
+L'Odyssée,"ACTION, AVENTURE",23/08/2026,Jeudi,13h10
+L'Odyssée,"ACTION, AVENTURE",23/08/2026,Jeudi,16h35
+L'Odyssée,"ACTION, AVENTURE",23/08/2026,Jeudi,20h00
+L'Odyssée,"ACTION, AVENTURE",24/08/2026,Vendredi,13h10
+L'Odyssée,"ACTION, AVENTURE",24/08/2026,Vendredi,16h35
+L'Odyssée,"ACTION, AVENTURE",24/08/2026,Vendredi,20h00
+L'Odyssée,"ACTION, AVENTURE",25/08/2026,Samedi,13h10
+L'Odyssée,"ACTION, AVENTURE",25/08/2026,Samedi,16h35
+L'Odyssée,"ACTION, AVENTURE",25/08/2026,Samedi,20h00
+L'Odyssée,"ACTION, AVENTURE",26/08/2026,Dimanche,13h10
+L'Odyssée,"ACTION, AVENTURE",26/08/2026,Dimanche,16h35
+L'Odyssée,"ACTION, AVENTURE",26/08/2026,Dimanche,20h00
+L'Odyssée,"ACTION, AVENTURE",28/07/2026,Mardi,13h10
+L'Odyssée,"ACTION, AVENTURE",28/07/2026,Mardi,16h35
+L'Odyssée,"ACTION, AVENTURE",28/07/2026,Mardi,20h00
+The Last Viking,"COMÉDIE, DRAME, THRILLER",22/08/2026,Mercredi,10h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",22/08/2026,Mercredi,15h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",23/08/2026,Jeudi,15h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",23/08/2026,Jeudi,20h30
+The Last Viking,"COMÉDIE, DRAME, THRILLER",24/08/2026,Vendredi,15h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",24/08/2026,Vendredi,20h30
+The Last Viking,"COMÉDIE, DRAME, THRILLER",25/08/2026,Samedi,10h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",25/08/2026,Samedi,15h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",25/08/2026,Samedi,20h30
+The Last Viking,"COMÉDIE, DRAME, THRILLER",26/08/2026,Dimanche,10h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",26/08/2026,Dimanche,15h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",26/08/2026,Dimanche,20h30
+The Last Viking,"COMÉDIE, DRAME, THRILLER",28/07/2026,Mardi,15h50
+The Last Viking,"COMÉDIE, DRAME, THRILLER",28/07/2026,Mardi,20h30
+Entre ciel et terre,"ANIMATION, FAMILLE",22/08/2026,Mercredi,10h00
+Entre ciel et terre,"ANIMATION, FAMILLE",23/08/2026,Jeudi,10h00
+Entre ciel et terre,"ANIMATION, FAMILLE",23/08/2026,Jeudi,10h00
+Entre ciel et terre,"ANIMATION, FAMILLE",24/08/2026,Vendredi,10h00
+Entre ciel et terre,"ANIMATION, FAMILLE",24/08/2026,Vendredi,10h00
+Entre ciel et terre,"ANIMATION, FAMILLE",25/08/2026,Samedi,10h00
+Entre ciel et terre,"ANIMATION, FAMILLE",26/08/2026,Dimanche,10h00
+La Chaleur,"DRAME, THRILLER",22/08/2026,Mercredi,13h50
+La Chaleur,"DRAME, THRILLER",23/08/2026,Jeudi,13h50
+La Chaleur,"DRAME, THRILLER",24/08/2026,Vendredi,13h50
+La Chaleur,"DRAME, THRILLER",25/08/2026,Samedi,13h50
+La Chaleur,"DRAME, THRILLER",26/08/2026,Dimanche,13h50
+La Chaleur,"DRAME, THRILLER",28/07/2026,Mardi,13h50
+Seule la vie,"DRAME, COMÉDIE",22/08/2026,Mercredi,15h15
+Seule la vie,"DRAME, COMÉDIE",23/08/2026,Jeudi,15h15
+Seule la vie,"DRAME, COMÉDIE",24/08/2026,Vendredi,15h15
+Seule la vie,"DRAME, COMÉDIE",25/08/2026,Samedi,15h15
+Seule la vie,"DRAME, COMÉDIE",26/08/2026,Dimanche,15h15
+Seule la vie,"DRAME, COMÉDIE",28/07/2026,Mardi,15h15
+Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",22/08/2026,Mercredi,12h35
+Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",23/08/2026,Jeudi,12h35
+Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",24/08/2026,Vendredi,12h35
+Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",25/08/2026,Samedi,12h35
+Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",26/08/2026,Dimanche,12h35
+Notre histoire - Chroniques du Caire,"DRAME, COMÉDIE",28/07/2026,Mardi,12h35
+Jim Queen,"ANIMATION, COMÉDIE",22/08/2026,Mercredi,21h10
+Jim Queen,"ANIMATION, COMÉDIE",23/08/2026,Jeudi,21h10
+Jim Queen,"ANIMATION, COMÉDIE",24/08/2026,Vendredi,21h10
+Jim Queen,"ANIMATION, COMÉDIE",25/08/2026,Samedi,21h10
+Jim Queen,"ANIMATION, COMÉDIE",26/08/2026,Dimanche,21h10
+Jim Queen,"ANIMATION, COMÉDIE",26/08/2026,Dimanche,21h10
+Jim Queen,"ANIMATION, COMÉDIE",28/07/2026,Mardi,21h10
+The Party,COMÉDIE,22/08/2026,Mercredi,16h50
+The Party,COMÉDIE,23/08/2026,Jeudi,16h50
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",22/08/2026,Mercredi,19h30
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",22/08/2026,Mercredi,15h15
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",23/08/2026,Jeudi,19h30
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",23/08/2026,Jeudi,15h15
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",24/08/2026,Vendredi,19h30
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",24/08/2026,Vendredi,15h15
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",25/08/2026,Samedi,19h30
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",25/08/2026,Samedi,15h15
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",26/08/2026,Dimanche,19h30
+RÉTRO L'AVENTURE C'EST L'AVENTURE : Barry Lyndon,"AVENTURE, DRAME",28/07/2026,Mardi,15h15
+Diamants sur canapé,COMÉDIE DRAMATIQUE,22/08/2026,Mercredi,10h30
+Diamants sur canapé,COMÉDIE DRAMATIQUE,23/08/2026,Jeudi,16h50
+Diamants sur canapé,COMÉDIE DRAMATIQUE,24/08/2026,Vendredi,16h50
+Diamants sur canapé,COMÉDIE DRAMATIQUE,25/08/2026,Samedi,16h50
+Quand l'inspecteur s'emmêle,"COMÉDIE, FILM NOIR-POLICIER",22/08/2026,Mercredi,16h50
+Quand l'inspecteur s'emmêle,"COMÉDIE, FILM NOIR-POLICIER",23/08/2026,Jeudi,16h50
+Quand l'inspecteur s'emmêle,"COMÉDIE, FILM NOIR-POLICIER",24/08/2026,Vendredi,16h50
+Quand l'inspecteur s'emmêle,"COMÉDIE, FILM NOIR-POLICIER",25/08/2026,Samedi,16h50
+Quand l'inspecteur s'emmêle,"COMÉDIE, FILM NOIR-POLICIER",26/08/2026,Dimanche,16h50
+Victor Victoria,"COMÉDIE MUSICALE, COMÉDIE, ROMANCE",22/08/2026,Mercredi,16h50
+Victor Victoria,"COMÉDIE MUSICALE, COMÉDIE, ROMANCE",23/08/2026,Jeudi,16h50
+Victor Victoria,"COMÉDIE MUSICALE, COMÉDIE, ROMANCE",24/08/2026,Vendredi,16h50
+Micki et Maude,"COMÉDIE, ROMANCE",22/08/2026,Mercredi,10h30
+Micki et Maude,"COMÉDIE, ROMANCE",22/08/2026,Mercredi,16h50
+Micki et Maude,"COMÉDIE, ROMANCE",23/08/2026,Jeudi,10h30
+Micki et Maude,"COMÉDIE, ROMANCE",23/08/2026,Jeudi,16h50
+Micki et Maude,"COMÉDIE, ROMANCE",24/08/2026,Vendredi,10h30
+Micki et Maude,"COMÉDIE, ROMANCE",24/08/2026,Vendredi,16h50
+Micki et Maude,"COMÉDIE, ROMANCE",25/08/2026,Samedi,10h30
+Micki et Maude,"COMÉDIE, ROMANCE",26/08/2026,Dimanche,16h50
+Top Secret,"ROMANCE, ESPIONNAGE",22/08/2026,Mercredi,10h30
+Top Secret,"ROMANCE, ESPIONNAGE",22/08/2026,Mercredi,16h50
+Top Secret,"ROMANCE, ESPIONNAGE",23/08/2026,Jeudi,10h30
+Top Secret,"ROMANCE, ESPIONNAGE",23/08/2026,Jeudi,16h50
+Top Secret,"ROMANCE, ESPIONNAGE",24/08/2026,Vendredi,10h30
+Top Secret,"ROMANCE, ESPIONNAGE",24/08/2026,Vendredi,16h50
+Top Secret,"ROMANCE, ESPIONNAGE",25/08/2026,Samedi,10h30
+Top Secret,"ROMANCE, ESPIONNAGE",25/08/2026,Samedi,16h50
+Top Secret,"ROMANCE, ESPIONNAGE",26/08/2026,Dimanche,10h30
+Top Secret,"ROMANCE, ESPIONNAGE",28/07/2026,Mardi,16h50
